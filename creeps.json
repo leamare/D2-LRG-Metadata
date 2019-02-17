@@ -6,7 +6,7 @@
       "npc_dota_creep_badguys_melee_upgraded_mega",
       "npc_dota_creep_goodguys_melee",
       "npc_dota_creep_goodguys_melee_upgraded",
-      "npc_dota_creep_goodguys_melee_upgraded_mega",
+      "npc_dota_creep_goodguys_melee_upgraded_mega"
     ],
     "ranged": [
       "npc_dota_creep_badguys_ranged",
@@ -14,7 +14,7 @@
       "npc_dota_creep_badguys_ranged_upgraded_mega",
       "npc_dota_creep_goodguys_ranged",
       "npc_dota_creep_goodguys_ranged_upgraded",
-      "npc_dota_creep_goodguys_ranged_upgraded_mega",
+      "npc_dota_creep_goodguys_ranged_upgraded_mega"
     ],
     "siege": [
       "npc_dota_badguys_siege",
@@ -22,7 +22,7 @@
       "npc_dota_badguys_siege_upgraded_mega",
       "npc_dota_goodguys_siege",
       "npc_dota_goodguys_siege_upgraded",
-      "npc_dota_goodguys_siege_upgraded_mega",
+      "npc_dota_goodguys_siege_upgraded_mega"
     ]
   },
   "neutrals": {
@@ -103,7 +103,7 @@
     "npc_dota_dark_troll_warlord_skeleton_warrior",
     "npc_dota_broodmother_spiderling",
     "npc_dota_broodmother_spiderite",
-    "npc_dota_furion_treant",
+    "npc_dota_furion_treant"
   ],
   "heroics": [
     "npc_dota_roshan",
