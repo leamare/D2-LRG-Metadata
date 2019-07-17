@@ -15,3 +15,8 @@ Part of the data is managed manually.
 - `modes` - Game modes
 - `patchdates` - Timestamps for lettered gameplay versions
 - `versions` - Major version codes
+- `zones` - Map zones
+
+## Map zones
+
+Map zones are divided by polygons and described by verticies coordinates in cell format. So, for example, point [0,0] corresponds to cell [128,128] which belongs to the `dire_mid` polygon. Every polygon contains every point inside of it and on its perimeter.
