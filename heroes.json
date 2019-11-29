@@ -466,5 +466,13 @@
   "129":{
     "tag":"mars",
     "name":"Mars"
+  },
+  "126":{
+    "tag":"void_spirit",
+    "name":"Void Spirit"
+  },
+  "128":{
+    "tag":"snapfire",
+    "name":"Snapfire"
   }
 }
