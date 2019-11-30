@@ -20,3 +20,9 @@ Part of the data is managed manually.
 ## Map zones
 
 Map zones are divided by polygons and described by verticies coordinates in cell format. So, for example, point [0,0] corresponds to cell [128,128] which belongs to the `dire_mid` polygon. Every polygon contains every point inside of it and on its perimeter.
+
+## Unlisted patchdates
+
+Patches with 'a' literal are unlisted for compatibility reasons (and it's pretty much the same patches anyway). I'll list them here tho.
+
+- 7.23a - 1574913991
