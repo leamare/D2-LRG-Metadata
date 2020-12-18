@@ -463,9 +463,9 @@
     "tag": "grimstroke",
     "name": "Grimstroke"
   },
-  "129":{
-    "tag":"mars",
-    "name":"Mars"
+  "123":{
+    "tag": "hoodwink",
+    "name": "Hoodwink"
   },
   "126":{
     "tag":"void_spirit",
@@ -474,5 +474,9 @@
   "128":{
     "tag":"snapfire",
     "name":"Snapfire"
+  },
+  "129":{
+    "tag":"mars",
+    "name":"Mars"
   }
 }
