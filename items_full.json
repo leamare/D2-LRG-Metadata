@@ -1365,7 +1365,7 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
-        "localized_name": "Recipe: Necronomicon"
+        "localized_name": "Recipe: Necronomicon 2"
     },
     "192": {
         "id": 192,
@@ -1374,7 +1374,7 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
-        "localized_name": "Recipe: Necronomicon"
+        "localized_name": "Recipe: Necronomicon 3"
     },
     "106": {
         "id": 106,
@@ -1392,7 +1392,7 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Necronomicon"
+        "localized_name": "Necronomicon 2"
     },
     "194": {
         "id": 194,
@@ -1401,7 +1401,7 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Necronomicon"
+        "localized_name": "Necronomicon 3"
     },
     "107": {
         "id": 107,
@@ -2211,7 +2211,7 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
-        "localized_name": "Recipe: Helm of the Dominator"
+        "localized_name": "Recipe: Helm of the Dominator 2"
     },
     "635": {
         "id": 635,
@@ -2220,7 +2220,7 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Helm of the Dominator"
+        "localized_name": "Helm of the Dominator 2"
     },
     "165": {
         "id": 165,
