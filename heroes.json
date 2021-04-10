@@ -478,5 +478,11 @@
   "129":{
     "tag":"mars",
     "name":"Mars"
+  },
+  "135":{
+    "tag":"dawnbreaker",
+    "name":"Dawnbreaker",
+    "name_alt":"Valora",
+    "aliases":"valora,db"
   }
 }
