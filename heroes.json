@@ -1,488 +1,728 @@
 {
   "1":{
       "tag":"antimage",
-      "name":"Anti-Mage"
+      "name":"Anti-Mage",
+      "alt":"Magina",
+      "aliases":"am,wei"
   },
   "2":{
       "tag":"axe",
-      "name":"Axe"
+      "name":"Axe",
+      "alt":"Mogul Khan",
+      "aliases":""
   },
   "3":{
       "tag":"bane",
-      "name":"Bane"
+      "name":"Bane",
+      "alt":"Atropos",
+      "aliases":""
   },
   "4":{
       "tag":"bloodseeker",
-      "name":"Bloodseeker"
+      "name":"Bloodseeker",
+      "alt":"Strygwyr",
+      "aliases":"bs"
   },
   "5":{
       "tag":"crystal_maiden",
-      "name":"Crystal Maiden"
+      "name":"Crystal Maiden",
+      "alt":"Rylai",
+      "aliases":"cm"
   },
   "6":{
       "tag":"drow_ranger",
-      "name":"Drow Ranger"
+      "name":"Drow Ranger",
+      "alt":"Traxex",
+      "aliases":""
   },
   "7":{
       "tag":"earthshaker",
-      "name":"Earthshaker"
+      "name":"Earthshaker",
+      "alt":"",
+      "aliases":"es"
   },
   "8":{
       "tag":"juggernaut",
-      "name":"Juggernaut"
+      "name":"Juggernaut",
+      "alt":"Yurnero",
+      "aliases":""
   },
   "9":{
       "tag":"mirana",
-      "name":"Mirana"
+      "name":"Mirana",
+      "alt":"Priestess of the Moon",
+      "aliases":"potm"
   },
   "10":{
       "tag":"morphling",
-      "name":"Morphling"
+      "name":"Morphling",
+      "alt":"Water",
+      "aliases":""
   },
   "11":{
       "tag":"nevermore",
-      "name":"Shadow Fiend"
+      "name":"Shadow Fiend",
+      "alt":"Nevermore",
+      "aliases":"sf,zxc,yaphets,demon"
   },
   "12":{
       "tag":"phantom_lancer",
-      "name":"Phantom Lancer"
+      "name":"Phantom Lancer",
+      "alt":"Azwraith",
+      "aliases":"pl"
   },
   "13":{
       "tag":"puck",
-      "name":"Puck"
+      "name":"Puck",
+      "alt":"Faerie Dragon",
+      "aliases":""
   },
   "14":{
       "tag":"pudge",
-      "name":"Pudge"
+      "name":"Pudge",
+      "alt":"Butcher",
+      "aliases":"dendi"
   },
   "15":{
       "tag":"razor",
-      "name":"Razor"
+      "name":"Razor",
+      "alt":"Lightning Revenant",
+      "aliases":""
   },
   "16":{
       "tag":"sand_king",
-      "name":"Sand King"
+      "name":"Sand King",
+      "alt":"Crixalis",
+      "aliases":"sk,scorpion"
   },
   "17":{
       "tag":"storm_spirit",
-      "name":"Storm Spirit"
+      "name":"Storm Spirit",
+      "alt":"Raijin Thunderkeg",
+      "aliases":"ss"
   },
   "18":{
       "tag":"sven",
-      "name":"Sven"
+      "name":"Sven",
+      "alt":"Rogue Knight",
+      "aliases":"vigil"
   },
   "19":{
       "tag":"tiny",
-      "name":"Tiny"
+      "name":"Tiny",
+      "alt":"Stone Giant",
+      "aliases":""
   },
   "20":{
       "tag":"vengefulspirit",
-      "name":"Vengeful Spirit"
+      "name":"Vengeful Spirit",
+      "alt":"Shendelzare",
+      "aliases":"vs"
   },
   "21":{
       "tag":"windrunner",
-      "name":"Windranger"
+      "name":"Windranger",
+      "alt":"Lyraler",
+      "aliases":"wr"
   },
   "22":{
       "tag":"zuus",
-      "name":"Zeus"
+      "name":"Zeus",
+      "alt":"Lord of Heaven",
+      "aliases":"lightning god"
   },
   "23":{
       "tag":"kunkka",
-      "name":"Kunkka"
+      "name":"Kunkka",
+      "alt":"Admiral",
+      "aliases":"attacker"
   },
   "25":{
       "tag":"lina",
-      "name":"Lina"
+      "name":"Lina",
+      "alt":"Slayer",
+      "aliases":""
   },
   "26":{
       "tag":"lion",
-      "name":"Lion"
+      "name":"Lion",
+      "alt":"Demon Witch",
+      "aliases":""
   },
   "27":{
       "tag":"shadow_shaman",
-      "name":"Shadow Shaman"
+      "name":"Shadow Shaman",
+      "alt":"Rhasta",
+      "aliases":"ss"
   },
   "28":{
       "tag":"slardar",
-      "name":"Slardar"
+      "name":"Slardar",
+      "alt":"Slithereen Guard",
+      "aliases":""
   },
   "29":{
       "tag":"tidehunter",
-      "name":"Tidehunter"
+      "name":"Tidehunter",
+      "alt":"Leviathan",
+      "aliases":""
   },
   "30":{
       "tag":"witch_doctor",
-      "name":"Witch Doctor"
+      "name":"Witch Doctor",
+      "alt":"Zharvakko",
+      "aliases":"wd,voodoo"
   },
   "31":{
       "tag":"lich",
-      "name":"Lich"
+      "name":"Lich",
+      "alt":"Ethreain",
+      "aliases":""
   },
   "32":{
       "tag":"riki",
-      "name":"Riki"
+      "name":"Riki",
+      "alt":"Stealth Assassin",
+      "aliases":"tahlin,rikimaru"
   },
   "33":{
       "tag":"enigma",
-      "name":"Enigma"
+      "name":"Enigma",
+      "alt":"Gravity Fundamental",
+      "aliases":""
   },
   "34":{
       "tag":"tinker",
-      "name":"Tinker"
+      "name":"Tinker",
+      "alt":"Boush",
+      "aliases":""
   },
   "35":{
       "tag":"sniper",
-      "name":"Sniper"
+      "name":"Sniper",
+      "alt":"Kardel Sharpeye",
+      "aliases":""
   },
   "36":{
       "tag":"necrolyte",
-      "name":"Necrophos"
+      "name":"Necrophos",
+      "alt":"Rotund'jere",
+      "aliases":"pope of pestilence,rotundjere"
   },
   "37":{
       "tag":"warlock",
-      "name":"Warlock"
+      "name":"Warlock",
+      "alt":"Demnok Lannik",
+      "aliases":""
   },
   "38":{
       "tag":"beastmaster",
-      "name":"Beastmaster"
+      "name":"Beastmaster",
+      "alt":"Karroch",
+      "aliases":"rexxar,bm"
   },
   "39":{
       "tag":"queenofpain",
-      "name":"Queen of Pain"
+      "name":"Queen of Pain",
+      "alt":"Akasha",
+      "aliases":"qop"
   },
   "40":{
       "tag":"venomancer",
-      "name":"Venomancer"
+      "name":"Venomancer",
+      "alt":"Lesale Deathbringer",
+      "aliases":"snake,herbalist"
   },
   "41":{
       "tag":"faceless_void",
-      "name":"Faceless Void"
+      "name":"Faceless Void",
+      "alt":"Darkterror",
+      "aliases":"void,claszureme"
   },
   "42":{
       "tag":"skeleton_king",
-      "name":"Wraith King"
+      "name":"Wraith King",
+      "alt":"Ostarion",
+      "aliases":"leoric,wk,sk"
   },
   "43":{
       "tag":"death_prophet",
-      "name":"Death Prophet"
+      "name":"Death Prophet",
+      "alt":"Krobelus",
+      "aliases":"dp"
   },
   "44":{
       "tag":"phantom_assassin",
-      "name":"Phantom Assassin"
+      "name":"Phantom Assassin",
+      "alt":"Mortred",
+      "aliases":"pa"
   },
   "45":{
       "tag":"pugna",
-      "name":"Pugna"
+      "name":"Pugna",
+      "alt":"Oblivion Mage",
+      "aliases":""
   },
   "46":{
       "tag":"templar_assassin",
-      "name":"Templar Assassin"
+      "name":"Templar Assassin",
+      "alt":"Lanaya",
+      "aliases":"ta"
   },
   "47":{
       "tag":"viper",
-      "name":"Viper"
+      "name":"Viper",
+      "alt":"Netherdrake",
+      "aliases":""
   },
   "48":{
       "tag":"luna",
-      "name":"Luna"
+      "name":"Luna",
+      "alt":"Moon Rider",
+      "aliases":""
   },
   "49":{
       "tag":"dragon_knight",
-      "name":"Dragon Knight"
+      "name":"Dragon Knight",
+      "alt":"Davion",
+      "aliases":"slyrak,dk"
   },
   "50":{
       "tag":"dazzle",
-      "name":"Dazzle"
+      "name":"Dazzle",
+      "alt":"Shadow Priest",
+      "aliases":""
   },
   "51":{
       "tag":"rattletrap",
-      "name":"Clockwerk"
+      "name":"Clockwerk",
+      "alt":"Rattletrap",
+      "aliases":""
   },
   "52":{
       "tag":"leshrac",
-      "name":"Leshrac"
+      "name":"Leshrac",
+      "alt":"Tormented Soul",
+      "aliases":""
   },
   "53":{
       "tag":"furion",
-      "name":"Nature's Prophet"
+      "name":"Nature's Prophet",
+      "alt":"Furion",
+      "aliases":"np,rat,bulldog"
   },
   "54":{
       "tag":"life_stealer",
-      "name":"Lifestealer"
+      "name":"Lifestealer",
+      "alt":"N'aix",
+      "aliases":"ghoul,ls,naix"
   },
   "55":{
       "tag":"dark_seer",
-      "name":"Dark Seer"
+      "name":"Dark Seer",
+      "alt":"Ish'Kafel",
+      "aliases":"ds,ishkafel"
   },
   "56":{
       "tag":"clinkz",
-      "name":"Clinkz"
+      "name":"Clinkz",
+      "alt":"Bone Fletcher",
+      "aliases":"demon,archer,maraxiform"
   },
   "57":{
       "tag":"omniknight",
-      "name":"Omniknight"
+      "name":"Omniknight",
+      "alt":"Purist Thunderwrath",
+      "aliases":"omniscience,priest,slacks"
   },
   "58":{
       "tag":"enchantress",
-      "name":"Enchantress"
+      "name":"Enchantress",
+      "alt":"Aiushtha",
+      "aliases":""
   },
   "59":{
       "tag":"huskar",
-      "name":"Huskar"
+      "name":"Huskar",
+      "alt":"Sacred Warrior",
+      "aliases":""
   },
   "60":{
       "tag":"night_stalker",
-      "name":"Night Stalker"
+      "name":"Night Stalker",
+      "alt":"Balanar",
+      "aliases":"ns"
   },
   "61":{
       "tag":"broodmother",
-      "name":"Broodmother"
+      "name":"Broodmother",
+      "alt":"Black Arachnia",
+      "aliases":"bm,spider"
   },
   "62":{
       "tag":"bounty_hunter",
-      "name":"Bounty Hunter"
+      "name":"Bounty Hunter",
+      "alt":"Gondar",
+      "aliases":"bh"
   },
   "63":{
       "tag":"weaver",
-      "name":"Weaver"
+      "name":"Weaver",
+      "alt":"Skitskurr",
+      "aliases":""
   },
   "64":{
       "tag":"jakiro",
-      "name":"Jakiro"
+      "name":"Jakiro",
+      "alt":"Twin Head Dragon",
+      "aliases":"thd"
   },
   "65":{
       "tag":"batrider",
-      "name":"Batrider"
+      "name":"Batrider",
+      "alt":"Jin'zakk",
+      "aliases":""
   },
   "66":{
       "tag":"chen",
-      "name":"Chen"
+      "name":"Chen",
+      "alt":"Holy Knight",
+      "aliases":""
   },
   "67":{
       "tag":"spectre",
-      "name":"Spectre"
+      "name":"Spectre",
+      "alt":"Mercurial",
+      "aliases":"qwerty,leamare"
   },
   "68":{
       "tag":"ancient_apparition",
-      "name":"Ancient Apparition"
+      "name":"Ancient Apparition",
+      "alt":"Kaldr",
+      "aliases":"aa"
   },
   "69":{
       "tag":"doom_bringer",
-      "name":"Doom"
+      "name":"Doom",
+      "alt":"Lucifer",
+      "aliases":"demon"
   },
   "70":{
       "tag":"ursa",
-      "name":"Ursa"
+      "name":"Ursa",
+      "alt":"Ulfsaar",
+      "aliases":"bear"
   },
   "71":{
       "tag":"spirit_breaker",
-      "name":"Spirit Breaker"
+      "name":"Spirit Breaker",
+      "alt":"Barathrum",
+      "aliases":"sb"
   },
   "72":{
       "tag":"gyrocopter",
-      "name":"Gyrocopter"
+      "name":"Gyrocopter",
+      "alt":"Aurel",
+      "aliases":""
   },
   "73":{
       "tag":"alchemist",
-      "name":"Alchemist"
+      "name":"Alchemist",
+      "alt":"Razzil Darkbrew",
+      "aliases":""
   },
   "74":{
       "tag":"invoker",
-      "name":"Invoker"
+      "name":"Invoker",
+      "alt":"Carl",
+      "aliases":"carl,destroyer,arsenal magus"
   },
   "75":{
       "tag":"silencer",
-      "name":"Silencer"
+      "name":"Silencer",
+      "alt":"Nortrom",
+      "aliases":""
   },
   "76":{
       "tag":"obsidian_destroyer",
-      "name":"Outworld Destroyer"
+      "name":"Outworld Destroyer",
+      "alt":"Harbinger",
+      "aliases":"od,devourer"
   },
   "77":{
       "tag":"lycan",
-      "name":"Lycan"
+      "name":"Lycan",
+      "alt":"Banehallow",
+      "aliases":"lycanthrope,wolf"
   },
   "78":{
       "tag":"brewmaster",
-      "name":"Brewmaster"
+      "name":"Brewmaster",
+      "alt":"Mangix",
+      "aliases":"brew"
   },
   "79":{
       "tag":"shadow_demon",
-      "name":"Shadow Demon"
+      "name":"Shadow Demon",
+      "alt":"Cult Leader",
+      "aliases":"sd"
   },
   "80":{
       "tag":"lone_druid",
-      "name":"Lone Druid"
+      "name":"Lone Druid",
+      "alt":"Sylla",
+      "aliases":"bear,bulldog,ld"
   },
   "81":{
       "tag":"chaos_knight",
-      "name":"Chaos Knight"
+      "name":"Chaos Knight",
+      "alt":"Armageddon Rider",
+      "aliases":"fundamental"
   },
   "82":{
       "tag":"meepo",
-      "name":"Meepo"
+      "name":"Meepo",
+      "alt":"Geomancer",
+      "aliases":""
   },
   "83":{
       "tag":"treant",
-      "name":"Treant Protector"
+      "name":"Treant Protector",
+      "alt":"Rooftrellen",
+      "aliases":"tree"
   },
   "84":{
       "tag":"ogre_magi",
-      "name":"Ogre Magi"
+      "name":"Ogre Magi",
+      "alt":"Aggron Stonebreak",
+      "aliases":""
   },
   "85":{
       "tag":"undying",
-      "name":"Undying"
+      "name":"Undying",
+      "alt":"Almighty Dirge",
+      "aliases":"zombie"
   },
   "86":{
       "tag":"rubick",
-      "name":"Rubick"
+      "name":"Rubick",
+      "alt":"Grand Magus",
+      "aliases":"gm"
   },
   "87":{
       "tag":"disruptor",
-      "name":"Disruptor"
+      "name":"Disruptor",
+      "alt":"Stormcrafter",
+      "aliases":""
   },
   "88":{
       "tag":"nyx_assassin",
-      "name":"Nyx Assassin"
+      "name":"Nyx Assassin",
+      "alt":"Zealot Scarab",
+      "aliases":""
   },
   "89":{
       "tag":"naga_siren",
-      "name":"Naga Siren"
+      "name":"Naga Siren",
+      "alt":"Slithice",
+      "aliases":"slithereen"
   },
   "90":{
       "tag":"keeper_of_the_light",
-      "name":"Keeper of the Light"
+      "name":"Keeper of the Light",
+      "alt":"Ezalor",
+      "aliases":"kotl,fundamental"
   },
   "91":{
       "tag":"wisp",
-      "name":"Io"
+      "name":"Io",
+      "alt":"Wisp",
+      "aliases":"fundamental"
   },
   "92":{
       "tag":"visage",
-      "name":"Visage"
+      "name":"Visage",
+      "alt":"Necro'lic",
+      "aliases":""
   },
   "93":{
       "tag":"slark",
-      "name":"Slark"
+      "name":"Slark",
+      "alt":"Nightcrawler",
+      "aliases":""
   },
   "94":{
       "tag":"medusa",
-      "name":"Medusa"
+      "name":"Medusa",
+      "alt":"Gorgon",
+      "aliases":""
   },
   "95":{
       "tag":"troll_warlord",
-      "name":"Troll Warlord"
+      "name":"Troll Warlord",
+      "alt":"Jah'rakal",
+      "aliases":""
   },
   "96":{
       "tag":"centaur",
-      "name":"Centaur Warrunner"
+      "name":"Centaur Warrunner",
+      "alt":"Bradwarden",
+      "aliases":""
   },
   "97":{
       "tag":"magnataur",
-      "name":"Magnus"
+      "name":"Magnus",
+      "alt":"Magnoceros",
+      "aliases":""
   },
   "98":{
       "tag":"shredder",
-      "name":"Timbersaw"
+      "name":"Timbersaw",
+      "alt":"Rizzrack",
+      "aliases":""
   },
   "99":{
       "tag":"bristleback",
-      "name":"Bristleback"
+      "name":"Bristleback",
+      "alt":"Rigwarl",
+      "aliases":"bb"
   },
   "100":{
       "tag":"tusk",
-      "name":"Tusk"
+      "name":"Tusk",
+      "alt":"Ymir",
+      "aliases":""
   },
   "101":{
       "tag":"skywrath_mage",
-      "name":"Skywrath Mage"
+      "name":"Skywrath Mage",
+      "alt":"Dragonus",
+      "aliases":"sky"
   },
   "102":{
       "tag":"abaddon",
-      "name":"Abaddon"
+      "name":"Abaddon",
+      "alt":"Lord of Avernus",
+      "aliases":""
   },
   "103":{
       "tag":"elder_titan",
-      "name":"Elder Titan"
+      "name":"Elder Titan",
+      "alt":"Creator",
+      "aliases":"et"
   },
   "104":{
       "tag":"legion_commander",
-      "name":"Legion Commander"
+      "name":"Legion Commander",
+      "alt":"Tresdin",
+      "aliases":"lc"
   },
   "105":{
       "tag":"techies",
-      "name":"Techies"
+      "name":"Techies",
+      "alt":"Squee, Spleen and Spoon",
+      "aliases":"miner"
   },
   "106":{
       "tag":"ember_spirit",
-      "name":"Ember Spirit"
+      "name":"Ember Spirit",
+      "alt":"Xin",
+      "aliases":"ana,es"
   },
   "107":{
       "tag":"earth_spirit",
-      "name":"Earth Spirit"
+      "name":"Earth Spirit",
+      "alt":"Kaolin",
+      "aliases":"es,jerax"
   },
   "108":{
       "tag":"abyssal_underlord",
-      "name":"Underlord"
+      "name":"Underlord",
+      "alt":"Vrogros",
+      "aliases":"pitlord"
   },
   "109":{
       "tag":"terrorblade",
-      "name":"Terrorblade"
+      "name":"Terrorblade",
+      "alt":"Demon Marauder",
+      "aliases":"demon"
   },
   "110":{
       "tag":"phoenix",
-      "name":"Phoenix"
+      "name":"Phoenix",
+      "alt":"Star",
+      "aliases":"firebird,sun"
   },
   "111":{
       "tag":"oracle",
-      "name":"Oracle"
+      "name":"Oracle",
+      "alt":"Nerif",
+      "aliases":""
   },
   "112":{
       "tag":"winter_wyvern",
-      "name":"Winter Wyvern"
+      "name":"Winter Wyvern",
+      "alt":"Auroth",
+      "aliases":"ww"
   },
   "113":{
       "tag":"arc_warden",
-      "name":"Arc Warden"
+      "name":"Arc Warden",
+      "alt":"Zet",
+      "aliases":"ancient,aw"
   },
   "114":{
       "tag":"monkey_king",
-      "name":"Monkey King"
+      "name":"Monkey King",
+      "alt":"Sun Wukong",
+      "aliases":"mk"
   },
   "119":{
       "tag":"dark_willow",
-      "name":"Dark Willow"
+      "name":"Dark Willow",
+      "alt":"Mireska",
+      "aliases":"sylph,fairy,dw"
   },
   "120":{
       "tag":"pangolier",
-      "name":"Pangolier"
+      "name":"Pangolier",
+      "alt":"Donte",
+      "aliases":"armodillo"
   },
   "121":{
-    "tag": "grimstroke",
-    "name": "Grimstroke"
+      "tag": "grimstroke",
+      "name": "Grimstroke",
+      "alt":"Ascended One",
+      "aliases":"ashkavor"
   },
   "123":{
-    "tag": "hoodwink",
-    "name": "Hoodwink"
+      "tag": "hoodwink",
+      "name": "Hoodwink",
+      "alt":"Sharpshooter",
+      "aliases":"squirrel,rat,mouse,mistwoods"
   },
   "126":{
-    "tag":"void_spirit",
-    "name":"Void Spirit"
+      "tag":"void_spirit",
+      "name":"Void Spirit",
+      "alt":"Inai",
+      "aliases":"vs"
   },
   "128":{
-    "tag":"snapfire",
-    "name":"Snapfire"
+      "tag":"snapfire",
+      "name":"Snapfire",
+      "alt":"Beatrix",
+      "aliases":"granny"
   },
   "129":{
-    "tag":"mars",
-    "name":"Mars"
+      "tag":"mars",
+      "name":"Mars",
+      "alt":"First Son of Heaven",
+      "aliases":"ares,god of war"
   },
   "135":{
-    "tag":"dawnbreaker",
-    "name":"Dawnbreaker",
-    "name_alt":"Valora",
-    "aliases":"valora,db"
+      "tag":"dawnbreaker",
+      "name":"Dawnbreaker",
+      "alt":"Valora",
+      "aliases":"battlemaiden,valkyrie,db"
   }
 }
