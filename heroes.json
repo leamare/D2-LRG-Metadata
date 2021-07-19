@@ -3,13 +3,15 @@
       "tag":"antimage",
       "name":"Anti-Mage",
       "alt":"Magina",
-      "aliases":"am,wei"
+      "aliases":"am,wei",
+      "alticons": ["persona1"]
   },
   "2":{
       "tag":"axe",
       "name":"Axe",
       "alt":"Mogul Khan",
-      "aliases":""
+      "aliases":"",
+      "alticons": ["alt"]
   },
   "3":{
       "tag":"bane",
@@ -27,7 +29,8 @@
       "tag":"crystal_maiden",
       "name":"Crystal Maiden",
       "alt":"Rylai",
-      "aliases":"cm"
+      "aliases":"cm",
+      "alticons": ["alt1"]
   },
   "6":{
       "tag":"drow_ranger",
@@ -39,13 +42,15 @@
       "tag":"earthshaker",
       "name":"Earthshaker",
       "alt":"",
-      "aliases":"es"
+      "aliases":"es",
+      "alticons": ["alt1", "alt2"]
   },
   "8":{
       "tag":"juggernaut",
       "name":"Juggernaut",
       "alt":"Yurnero",
-      "aliases":""
+      "aliases":"",
+      "alticons": ["alt1", "alt2"]
   },
   "9":{
       "tag":"mirana",
@@ -63,7 +68,8 @@
       "tag":"nevermore",
       "name":"Shadow Fiend",
       "alt":"Nevermore",
-      "aliases":"sf,zxc,yaphets,demon"
+      "aliases":"sf,zxc,yaphets,demon",
+      "alticons": ["alt"]
   },
   "12":{
       "tag":"phantom_lancer",
@@ -81,7 +87,8 @@
       "tag":"pudge",
       "name":"Pudge",
       "alt":"Butcher",
-      "aliases":"dendi"
+      "aliases":"dendi",
+      "alticons": ["alt1", "alt2", "persona1"]
   },
   "15":{
       "tag":"razor",
@@ -123,13 +130,15 @@
       "tag":"windrunner",
       "name":"Windranger",
       "alt":"Lyraler",
-      "aliases":"wr"
+      "aliases":"wr",
+      "alticons": ["alt1", "alt2"]
   },
   "22":{
       "tag":"zuus",
       "name":"Zeus",
       "alt":"Lord of Heaven",
-      "aliases":"lightning god"
+      "aliases":"lightning god",
+      "alticons": ["alt"]
   },
   "23":{
       "tag":"kunkka",
@@ -141,7 +150,8 @@
       "tag":"lina",
       "name":"Lina",
       "alt":"Slayer",
-      "aliases":""
+      "aliases":"",
+      "alticons": ["alt"]
   },
   "26":{
       "tag":"lion",
@@ -225,7 +235,8 @@
       "tag":"queenofpain",
       "name":"Queen of Pain",
       "alt":"Akasha",
-      "aliases":"qop"
+      "aliases":"qop",
+      "alticons": ["alt1", "alt2"]
   },
   "40":{
       "tag":"venomancer",
@@ -243,7 +254,8 @@
       "tag":"skeleton_king",
       "name":"Wraith King",
       "alt":"Ostarion",
-      "aliases":"leoric,wk,sk"
+      "aliases":"leoric,wk,sk",
+      "alticons": ["alt1", "alt2"]
   },
   "43":{
       "tag":"death_prophet",
@@ -255,7 +267,8 @@
       "tag":"phantom_assassin",
       "name":"Phantom Assassin",
       "alt":"Mortred",
-      "aliases":"pa"
+      "aliases":"pa",
+      "alticons": ["alt1"]
   },
   "45":{
       "tag":"pugna",
@@ -435,7 +448,8 @@
       "tag":"invoker",
       "name":"Invoker",
       "alt":"Carl",
-      "aliases":"carl,destroyer,arsenal magus"
+      "aliases":"carl,destroyer,arsenal magus",
+      "alticons": ["persona1"]
   },
   "75":{
       "tag":"silencer",
@@ -495,7 +509,8 @@
       "tag":"ogre_magi",
       "name":"Ogre Magi",
       "alt":"Aggron Stonebreak",
-      "aliases":""
+      "aliases":"",
+      "alticons": ["alt1", "alt2"]
   },
   "85":{
       "tag":"undying",
@@ -507,7 +522,8 @@
       "tag":"rubick",
       "name":"Rubick",
       "alt":"Grand Magus",
-      "aliases":"gm"
+      "aliases":"gm",
+      "alticons": ["alt"]
   },
   "87":{
       "tag":"disruptor",
@@ -615,13 +631,15 @@
       "tag":"legion_commander",
       "name":"Legion Commander",
       "alt":"Tresdin",
-      "aliases":"lc"
+      "aliases":"lc",
+      "alticons": ["alt"]
   },
   "105":{
       "tag":"techies",
       "name":"Techies",
       "alt":"Squee, Spleen and Spoon",
-      "aliases":"miner"
+      "aliases":"miner",
+      "alticons": ["alt"]
   },
   "106":{
       "tag":"ember_spirit",
@@ -645,7 +663,8 @@
       "tag":"terrorblade",
       "name":"Terrorblade",
       "alt":"Demon Marauder",
-      "aliases":"demon"
+      "aliases":"demon",
+      "alticons": ["alt"]
   },
   "110":{
       "tag":"phoenix",
@@ -675,7 +694,8 @@
       "tag":"monkey_king",
       "name":"Monkey King",
       "alt":"Sun Wukong",
-      "aliases":"mk"
+      "aliases":"mk",
+      "alticons": ["alt"]
   },
   "119":{
       "tag":"dark_willow",
