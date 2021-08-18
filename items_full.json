@@ -488,7 +488,7 @@
     "216": {
         "id": 216,
         "name": "item_enchanted_mango",
-        "cost": 70,
+        "cost": 65,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1190,7 +1190,7 @@
     "612": {
         "id": 612,
         "name": "item_recipe_wind_waker",
-        "cost": 1600,
+        "cost": 1300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1199,7 +1199,7 @@
     "610": {
         "id": 610,
         "name": "item_wind_waker",
-        "cost": 7125,
+        "cost": 6825,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2072,7 +2072,7 @@
     "249": {
         "id": 249,
         "name": "item_silver_edge",
-        "cost": 5600,
+        "cost": 5300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2225,7 +2225,7 @@
     "633": {
         "id": 633,
         "name": "item_recipe_helm_of_the_overlord",
-        "cost": 1600,
+        "cost": 1000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2234,7 +2234,7 @@
     "635": {
         "id": 635,
         "name": "item_helm_of_the_overlord",
-        "cost": 6000,
+        "cost": 6050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2486,7 +2486,7 @@
     "598": {
         "id": 598,
         "name": "item_mage_slayer",
-        "cost": 3250,
+        "cost": 2400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3599,15 +3599,6 @@
         "recipe": 0,
         "localized_name": "Giant's Ring"
     },
-    "679": {
-        "id": 679,
-        "name": "item_vengeances_shadow",
-        "cost": 0,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 0,
-        "localized_name": "Shadow of Vengeance"
-    },
     "585": {
         "id": 585,
         "name": "item_stormcrafter",
@@ -3634,5 +3625,149 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Fairy's Trinket"
+    },
+    "679": {
+        "id": 679,
+        "name": "item_vengeances_shadow",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Shadow of Vengeance"
+    },
+    "824": {
+        "id": 824,
+        "name": "item_assassins_dagger",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Assassin's Dagger"
+    },
+    "825": {
+        "id": 825,
+        "name": "item_ascetic_cap",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Ascetic's Cap"
+    },
+    "826": {
+        "id": 826,
+        "name": "item_sample_picker",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Assassin's Contract"
+    },
+    "827": {
+        "id": 827,
+        "name": "item_icarus_wings",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Icarus Wings"
+    },
+    "828": {
+        "id": 828,
+        "name": "item_misericorde",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Brigand's Blade"
+    },
+    "829": {
+        "id": 829,
+        "name": "item_force_field",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Arcanist's Armor"
+    },
+    "833": {
+        "id": 833,
+        "name": "item_tree_processor",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tree Processor"
+    },
+    "834": {
+        "id": 834,
+        "name": "item_black_powder_bag",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Blast Rig"
+    },
+    "849": {
+        "id": 849,
+        "name": "item_mechanical_arm",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Mechanical Arm"
+    },
+    "836": {
+        "id": 836,
+        "name": "item_light_robes",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Light Robes"
+    },
+    "837": {
+        "id": 837,
+        "name": "item_heavy_blade",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Witchbane"
+    },
+    "838": {
+        "id": 838,
+        "name": "item_unstable_wand",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Pig Pole"
+    },
+    "839": {
+        "id": 839,
+        "name": "item_fortitude_ring",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Ring of Fortitude"
+    },
+    "840": {
+        "id": 840,
+        "name": "item_pogo_stick",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tumbler's Toy"
+    },
+    "835": {
+        "id": 835,
+        "name": "item_paintball",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Fae Grenade"
     }
 }
