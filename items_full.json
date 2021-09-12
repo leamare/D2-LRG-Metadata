@@ -101,7 +101,7 @@
     "6": {
         "id": 6,
         "name": "item_helm_of_iron_will",
-        "cost": 925,
+        "cost": 950,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -686,7 +686,7 @@
     "54": {
         "id": 54,
         "name": "item_relic",
-        "cost": 3800,
+        "cost": 3750,
         "secret_shop": 1,
         "side_shop": 0,
         "recipe": 0,
@@ -1757,7 +1757,7 @@
     "243": {
         "id": 243,
         "name": "item_recipe_crimson_guard",
-        "cost": 950,
+        "cost": 875,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1766,7 +1766,7 @@
     "242": {
         "id": 242,
         "name": "item_crimson_guard",
-        "cost": 3700,
+        "cost": 3650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2027,7 +2027,7 @@
     "150": {
         "id": 150,
         "name": "item_recipe_armlet",
-        "cost": 650,
+        "cost": 625,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2216,7 +2216,7 @@
     "164": {
         "id": 164,
         "name": "item_helm_of_the_dominator",
-        "cost": 2350,
+        "cost": 2375,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2225,7 +2225,7 @@
     "633": {
         "id": 633,
         "name": "item_recipe_helm_of_the_overlord",
-        "cost": 1250,
+        "cost": 1225,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
