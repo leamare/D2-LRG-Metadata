@@ -744,5 +744,11 @@
       "name":"Dawnbreaker",
       "alt":"Valora",
       "aliases":"battlemaiden,valkyrie,db"
+  },
+  "136":{
+    "tag":"marci",
+    "name":"Marci",
+    "alt":"Sidekick",
+    "aliases":"fighter,sidekick"
   }
 }
