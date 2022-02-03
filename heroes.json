@@ -4,751 +4,1213 @@
       "name":"Anti-Mage",
       "alt":"Magina",
       "aliases":"am,wei",
-      "alticons": ["persona1"]
+      "alticons": ["persona1"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "2":{
       "tag":"axe",
       "name":"Axe",
       "alt":"Mogul Khan",
       "aliases":"",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "3":{
       "tag":"bane",
       "name":"Bane",
       "alt":"Atropos",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1329339049,  300 ],
+        [ 1331153449,  400, 1 ]
+      ]
   },
   "4":{
       "tag":"bloodseeker",
       "name":"Bloodseeker",
       "alt":"Strygwyr",
-      "aliases":"bs"
+      "aliases":"bs",
+      "released": [
+        [ 1317847849,  200, 1 ],
+        [ 1411591849, 1200, 0 ],
+        [ 1418766649, 1300, 1 ]
+      ]
   },
   "5":{
       "tag":"crystal_maiden",
       "name":"Crystal Maiden",
       "alt":"Rylai",
       "aliases":"cm",
-      "alticons": ["alt1"]
+      "alticons": ["alt1"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "6":{
       "tag":"drow_ranger",
       "name":"Drow Ranger",
       "alt":"Traxex",
-      "aliases":""
+      "aliases":"",
+      "alticons": ["alt1", "alt2"],
+      "released": [
+        [ 1288558800,    0, 1 ],
+        [ 1351108800,  602, 0 ],
+        [ 1366315200,  701, 1 ]
+      ]
   },
   "7":{
       "tag":"earthshaker",
       "name":"Earthshaker",
       "alt":"",
       "aliases":"es",
-      "alticons": ["alt1", "alt2"]
+      "alticons": ["alt1", "alt2"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "8":{
       "tag":"juggernaut",
       "name":"Juggernaut",
       "alt":"Yurnero",
       "aliases":"",
-      "alticons": ["alt1", "alt2"]
+      "alticons": ["alt1", "alt2"],
+      "released": [
+        [ 1317329449,  200, 1 ]
+      ]
   },
   "9":{
       "tag":"mirana",
       "name":"Mirana",
       "alt":"Priestess of the Moon",
-      "aliases":"potm"
+      "aliases":"potm",
+      "alticons": ["persona1"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "10":{
       "tag":"morphling",
       "name":"Morphling",
       "alt":"Water",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "11":{
       "tag":"nevermore",
       "name":"Shadow Fiend",
       "alt":"Nevermore",
       "aliases":"sf,zxc,yaphets,demon",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1306356649,    0, 1 ]
+      ]
   },
   "12":{
       "tag":"phantom_lancer",
       "name":"Phantom Lancer",
       "alt":"Azwraith",
-      "aliases":"pl"
+      "aliases":"pl",
+      "released": [
+        [ 1335991849,  400 ],
+        [ 1336596649,  400, 1 ],
+        [ 1411591849, 1200, 0 ],
+        [ 1423699200, 1302, 1 ]
+      ]
   },
   "13":{
       "tag":"puck",
       "name":"Puck",
       "alt":"Faerie Dragon",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "14":{
       "tag":"pudge",
       "name":"Pudge",
       "alt":"Butcher",
       "aliases":"dendi",
-      "alticons": ["alt1", "alt2", "persona1"]
+      "alticons": ["alt1", "alt2", "persona1"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "15":{
       "tag":"razor",
       "name":"Razor",
       "alt":"Lightning Revenant",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "16":{
       "tag":"sand_king",
       "name":"Sand King",
       "alt":"Crixalis",
-      "aliases":"sk,scorpion"
+      "aliases":"sk,scorpion",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "17":{
       "tag":"storm_spirit",
       "name":"Storm Spirit",
       "alt":"Raijin Thunderkeg",
-      "aliases":"ss"
+      "aliases":"ss",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "18":{
       "tag":"sven",
       "name":"Sven",
       "alt":"Rogue Knight",
-      "aliases":"vigil"
+      "aliases":"vigil",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "19":{
       "tag":"tiny",
       "name":"Tiny",
       "alt":"Stone Giant",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1298065849,    0, 1 ]
+      ]
   },
   "20":{
       "tag":"vengefulspirit",
       "name":"Vengeful Spirit",
       "alt":"Shendelzare",
-      "aliases":"vs"
+      "aliases":"vs",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "21":{
       "tag":"windrunner",
       "name":"Windranger",
-      "alt":"Lyraler",
+      "alt":"Lyralei",
       "aliases":"wr",
-      "alticons": ["alt1", "alt2"]
+      "alticons": ["alt1", "alt2"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "22":{
       "tag":"zuus",
       "name":"Zeus",
       "alt":"Lord of Heaven",
       "aliases":"lightning god",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "23":{
       "tag":"kunkka",
       "name":"Kunkka",
       "alt":"Admiral",
-      "aliases":"attacker"
+      "aliases":"attacker",
+      "released": [
+        [ 1317847849,  200, 1 ]
+      ]
   },
   "25":{
       "tag":"lina",
       "name":"Lina",
       "alt":"Slayer",
       "aliases":"",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "26":{
       "tag":"lion",
       "name":"Lion",
       "alt":"Demon Witch",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "27":{
       "tag":"shadow_shaman",
       "name":"Shadow Shaman",
       "alt":"Rhasta",
-      "aliases":"ss"
+      "aliases":"ss",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "28":{
       "tag":"slardar",
       "name":"Slardar",
       "alt":"Slithereen Guard",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1295301049,    0, 1 ]
+      ]
   },
   "29":{
       "tag":"tidehunter",
       "name":"Tidehunter",
       "alt":"Leviathan",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "30":{
       "tag":"witch_doctor",
       "name":"Witch Doctor",
       "alt":"Zharvakko",
-      "aliases":"wd,voodoo"
+      "aliases":"wd,voodoo",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "31":{
       "tag":"lich",
       "name":"Lich",
       "alt":"Ethreain",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "32":{
       "tag":"riki",
       "name":"Riki",
       "alt":"Stealth Assassin",
-      "aliases":"tahlin,rikimaru"
+      "aliases":"tahlin,rikimaru",
+      "released": [
+        [ 1318452649,  200, 1 ],
+        [ 1450216249, 1600, 0 ],
+        [ 1461534649, 1700, 1 ]
+      ]
   },
   "33":{
       "tag":"enigma",
       "name":"Enigma",
       "alt":"Gravity Fundamental",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1265925049,    0, 1 ]
+      ]
   },
   "34":{
       "tag":"tinker",
       "name":"Tinker",
       "alt":"Boush",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1306961449,    0, 1 ]
+      ]
   },
   "35":{
       "tag":"sniper",
       "name":"Sniper",
       "alt":"Kardel Sharpeye",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1304110249,    0, 1 ]
+      ]
   },
   "36":{
       "tag":"necrolyte",
       "name":"Necrophos",
       "alt":"Rotund'jere",
-      "aliases":"pope of pestilence,rotundjere"
+      "aliases":"pope of pestilence,rotundjere",
+      "released": [
+        [ 1288558800,    0, 1 ],
+        [ 1481490000, 1900, 0 ],
+        [ 1482181200, 2000, 1 ]
+      ]
   },
   "37":{
       "tag":"warlock",
       "name":"Warlock",
       "alt":"Demnok Lannik",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1320958249,  200, 1 ]
+      ]
   },
   "38":{
       "tag":"beastmaster",
       "name":"Beastmaster",
       "alt":"Karroch",
-      "aliases":"rexxar,bm"
+      "aliases":"rexxar,bm",
+      "released": [
+        [ 1305838249,    0, 1 ]
+      ]
   },
   "39":{
       "tag":"queenofpain",
       "name":"Queen of Pain",
       "alt":"Akasha",
       "aliases":"qop",
-      "alticons": ["alt1", "alt2"]
+      "alticons": ["alt1", "alt2"],
+      "released": [
+        [ 1319057449,  200, 1 ]
+      ]
   },
   "40":{
       "tag":"venomancer",
       "name":"Venomancer",
       "alt":"Lesale Deathbringer",
-      "aliases":"snake,herbalist"
+      "aliases":"snake,herbalist",
+      "released": [
+        [ 1302295849,    0, 1 ]
+      ]
   },
   "41":{
       "tag":"faceless_void",
       "name":"Faceless Void",
       "alt":"Darkterror",
-      "aliases":"void,claszureme"
+      "aliases":"void,claszureme",
+      "released": [
+        [ 1266529849,    0, 1 ],
+        [ 1450216249, 1600, 0 ],
+        [ 1450561849, 1601, 1 ]
+      ]
   },
   "42":{
       "tag":"skeleton_king",
       "name":"Wraith King",
       "alt":"Ostarion",
       "aliases":"leoric,wk,sk",
-      "alticons": ["alt1", "alt2"]
+      "alticons": ["alt1", "alt2"],
+      "released": [
+        [ 1319057449,  200, 1 ]
+      ]
   },
   "43":{
       "tag":"death_prophet",
       "name":"Death Prophet",
       "alt":"Krobelus",
-      "aliases":"dp"
+      "aliases":"dp",
+      "released": [
+        [ 1323377449,  200, 1 ],
+        [ 1450216249, 1600, 0 ],
+        [ 1450561849, 1601, 1 ]
+      ]
   },
   "44":{
       "tag":"phantom_assassin",
       "name":"Phantom Assassin",
       "alt":"Mortred",
       "aliases":"pa",
-      "alticons": ["alt1"]
+      "alticons": ["alt1"],
+      "released": [
+        [ 1339361449,  400 ],
+        [ 1339620649,  400, 1 ]
+      ]
   },
   "45":{
       "tag":"pugna",
       "name":"Pugna",
       "alt":"Oblivion Mage",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1305838249,    0, 1 ]
+      ]
   },
   "46":{
       "tag":"templar_assassin",
       "name":"Templar Assassin",
       "alt":"Lanaya",
-      "aliases":"ta"
+      "aliases":"ta",
+      "released": [
+        [ 1342039849,  400, 1]
+      ]
   },
   "47":{
       "tag":"viper",
       "name":"Viper",
       "alt":"Netherdrake",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1298065849,    0, 1 ]
+      ]
   },
   "48":{
       "tag":"luna",
       "name":"Luna",
       "alt":"Moon Rider",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1340830249,  400 ],
+        [ 1341435049,  400, 1 ]
+      ]
   },
   "49":{
       "tag":"dragon_knight",
       "name":"Dragon Knight",
       "alt":"Davion",
-      "aliases":"slyrak,dk"
+      "aliases":"slyrak,dk",
+      "released": [
+        [ 1320267049,  200, 1 ]
+      ]
   },
   "50":{
       "tag":"dazzle",
       "name":"Dazzle",
       "alt":"Shadow Priest",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1288558800,    0, 1 ]
+      ]
   },
   "51":{
       "tag":"rattletrap",
       "name":"Clockwerk",
       "alt":"Rattletrap",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1303246249,    0, 1 ]
+      ]
   },
   "52":{
       "tag":"leshrac",
       "name":"Leshrac",
       "alt":"Tormented Soul",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1306356649,    0, 1 ]
+      ]
   },
   "53":{
       "tag":"furion",
       "name":"Nature's Prophet",
       "alt":"Furion",
-      "aliases":"np,rat,bulldog"
+      "aliases":"np,rat,bulldog",
+      "released": [
+        [ 1303246249,    0, 1 ]
+      ]
   },
   "54":{
       "tag":"life_stealer",
       "name":"Lifestealer",
       "alt":"N'aix",
-      "aliases":"ghoul,ls,naix"
+      "aliases":"ghoul,ls,naix",
+      "released": [
+        [ 1322772649,  200, 1 ],
+        [ 1418766649, 1300, 0 ],
+        [ 1419371449, 1300, 1 ]
+      ]
   },
   "55":{
       "tag":"dark_seer",
       "name":"Dark Seer",
       "alt":"Ish'Kafel",
-      "aliases":"ds,ishkafel"
+      "aliases":"ds,ishkafel",
+      "released": [
+        [ 1304110249,    0, 1 ]
+      ]
   },
   "56":{
       "tag":"clinkz",
       "name":"Clinkz",
       "alt":"Bone Fletcher",
-      "aliases":"demon,archer,maraxiform"
+      "aliases":"demon,archer,maraxiform",
+      "released": [
+        [ 1327524649,  300 ],
+        [ 1329339049,  300, 1 ]
+      ]
   },
   "57":{
       "tag":"omniknight",
       "name":"Omniknight",
       "alt":"Purist Thunderwrath",
-      "aliases":"omniscience,priest,slacks"
+      "aliases":"omniscience,priest,slacks",
+      "released": [
+        [ 1320267049,  200, 1 ]
+      ]
   },
   "58":{
       "tag":"enchantress",
       "name":"Enchantress",
       "alt":"Aiushtha",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1306356649,    0, 1 ]
+      ]
   },
   "59":{
       "tag":"huskar",
       "name":"Huskar",
       "alt":"Sacred Warrior",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1319662249,  200, 1 ],
+        [ 1370292649,  800, 0 ],
+        [ 1386795049,  901, 1 ]
+      ]
   },
   "60":{
       "tag":"night_stalker",
       "name":"Night Stalker",
       "alt":"Balanar",
-      "aliases":"ns"
+      "aliases":"ns",
+      "released": [
+        [ 1307739049,    0, 1 ]
+      ]
   },
   "61":{
       "tag":"broodmother",
       "name":"Broodmother",
       "alt":"Black Arachnia",
-      "aliases":"bm,spider"
+      "aliases":"bm,spider",
+      "released": [
+        [ 1319057449,  200, 1 ],
+        [ 1382302249,  900, 0 ],
+        [ 1416433849, 1202, 1 ]
+      ]
   },
   "62":{
       "tag":"bounty_hunter",
       "name":"Bounty Hunter",
       "alt":"Gondar",
-      "aliases":"bh"
+      "aliases":"bh",
+      "released": [
+        [ 1324414249,  200 ],
+        [ 1326315049,  300, 1 ]
+      ]
   },
   "63":{
       "tag":"weaver",
       "name":"Weaver",
       "alt":"Skitskurr",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1307652649,    0, 1 ]
+      ]
   },
   "64":{
       "tag":"jakiro",
       "name":"Jakiro",
       "alt":"Twin Head Dragon",
-      "aliases":"thd"
+      "aliases":"thd",
+      "released": [
+        [ 1319662249,  200, 1 ]
+      ]
   },
   "65":{
       "tag":"batrider",
       "name":"Batrider",
       "alt":"Jin'zakk",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1319662249,  200, 1 ]
+      ]
   },
   "66":{
       "tag":"chen",
       "name":"Chen",
       "alt":"Holy Knight",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1309467049,    0, 1 ]
+      ]
   },
   "67":{
       "tag":"spectre",
       "name":"Spectre",
       "alt":"Mercurial",
-      "aliases":"qwerty,leamare"
+      "aliases":"qwerty,leamare",
+      "released": [
+        [ 1308257449,    0, 1 ]
+      ]
   },
   "68":{
       "tag":"ancient_apparition",
       "name":"Ancient Apparition",
       "alt":"Kaldr",
-      "aliases":"aa"
+      "aliases":"aa",
+      "released": [
+        [ 1308257449,    0, 1 ]
+      ]
   },
   "69":{
       "tag":"doom_bringer",
       "name":"Doom",
       "alt":"Lucifer",
-      "aliases":"demon"
+      "aliases":"demon",
+      "released": [
+        [ 1308862249,    0, 1 ],
+        [ 1450216249, 1600, 0 ],
+        [ 1450561849, 1601, 1 ]
+      ]
   },
   "70":{
       "tag":"ursa",
       "name":"Ursa",
       "alt":"Ulfsaar",
-      "aliases":"bear"
+      "aliases":"bear",
+      "released": [
+        [ 1323895849,  200 ],
+        [ 1326315049,  300, 1 ]
+      ]
   },
   "71":{
       "tag":"spirit_breaker",
       "name":"Spirit Breaker",
       "alt":"Barathrum",
-      "aliases":"sb"
+      "aliases":"sb",
+      "released": [
+        [ 1326315049,  300 ],
+        [ 1326919849,  300, 1 ]
+      ]
   },
   "72":{
       "tag":"gyrocopter",
       "name":"Gyrocopter",
       "alt":"Aurel",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1339361449,  400 ],
+        [ 1339620649,  400, 1 ]
+      ]
   },
   "73":{
       "tag":"alchemist",
       "name":"Alchemist",
       "alt":"Razzil Darkbrew",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1321563049,  200, 1 ]
+      ]
   },
   "74":{
       "tag":"invoker",
       "name":"Invoker",
       "alt":"Carl",
       "aliases":"carl,destroyer,arsenal magus",
-      "alticons": ["persona1"]
+      "alticons": ["persona1"],
+      "released": [
+        [ 1326919849,  300 ],
+        [ 1327524649,  300, 1 ]
+      ]
   },
   "75":{
       "tag":"silencer",
       "name":"Silencer",
       "alt":"Nortrom",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1326315049,  300 ],
+        [ 1326919849,  300, 1 ],
+        [ 1351111849,  600, 0 ],
+        [ 1360183849,  701, 1 ]
+      ]
   },
   "76":{
       "tag":"obsidian_destroyer",
       "name":"Outworld Destroyer",
       "alt":"Harbinger",
-      "aliases":"od,devourer"
+      "aliases":"od,devourer",
+      "released": [
+        [ 1329339049,  300 ],
+        [ 1330548649,  300, 1 ]
+      ]
   },
   "77":{
       "tag":"lycan",
       "name":"Lycan",
       "alt":"Banehallow",
-      "aliases":"lycanthrope,wolf"
+      "aliases":"lycanthrope,wolf",
+      "released": [
+        [ 1332363049,  300 ],
+        [ 1332881449,  300, 1 ],
+        [ 1481490000, 1900, 0 ],
+        [ 1486504249, 2100, 1 ]
+      ]
   },
   "78":{
       "tag":"brewmaster",
       "name":"Brewmaster",
       "alt":"Mangix",
-      "aliases":"brew"
+      "aliases":"brew",
+      "released": [
+        [ 1334782249,  400 ],
+        [ 1335387049,  400, 1 ]
+      ]
   },
   "79":{
       "tag":"shadow_demon",
       "name":"Shadow Demon",
       "alt":"Cult Leader",
-      "aliases":"sd"
+      "aliases":"sd",
+      "released": [
+        [ 1331758249,  300 ],
+        [ 1332363049,  300, 1 ]
+      ]
   },
   "80":{
       "tag":"lone_druid",
       "name":"Lone Druid",
       "alt":"Sylla",
-      "aliases":"bear,bulldog,ld"
+      "aliases":"bear,bulldog,ld",
+      "released": [
+        [ 1332881449,  300 ],
+        [ 1334177449,  400, 1 ],
+        [ 1450216249, 1600, 0 ],
+        [ 1450569600, 1601, 1 ]
+      ]
   },
   "81":{
       "tag":"chaos_knight",
       "name":"Chaos Knight",
       "alt":"Armageddon Rider",
-      "aliases":"fundamental"
+      "aliases":"fundamental",
+      "released": [
+        [ 1339361449,  400 ],
+        [ 1339620649,  400, 1 ]
+      ]
   },
   "82":{
       "tag":"meepo",
       "name":"Meepo",
       "alt":"Geomancer",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1348087849,  400 ],
+        [ 1349902249,  500, 1 ]
+      ]
   },
   "83":{
       "tag":"treant",
       "name":"Treant Protector",
       "alt":"Rooftrellen",
-      "aliases":"tree"
+      "aliases":"tree",
+      "released": [
+        [ 1337201449,  400 ],
+        [ 1337806249,  400, 1 ],
+        [ 1481493049, 1900, 0 ],
+        [ 1491688249, 2400, 1 ]
+      ]
   },
   "84":{
       "tag":"ogre_magi",
       "name":"Ogre Magi",
       "alt":"Aggron Stonebreak",
       "aliases":"",
-      "alticons": ["alt1", "alt2"]
+      "alticons": ["alt1", "alt2"],
+      "released": [
+        [ 1337806249,  400 ],
+        [ 1338411049,  400, 1 ]
+      ]
   },
   "85":{
       "tag":"undying",
       "name":"Undying",
       "alt":"Almighty Dirge",
-      "aliases":"zombie"
+      "aliases":"zombie",
+      "released": [
+        [ 1341435049,  400 ],
+        [ 1342039849,  400, 1 ]
+      ]
   },
   "86":{
       "tag":"rubick",
       "name":"Rubick",
       "alt":"Grand Magus",
       "aliases":"gm",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1340139049,  400 ],
+        [ 1341435049,  400, 1 ]
+      ]
   },
   "87":{
       "tag":"disruptor",
       "name":"Disruptor",
       "alt":"Stormcrafter",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1341435049,  400, 1 ]
+      ]
   },
   "88":{
       "tag":"nyx_assassin",
       "name":"Nyx Assassin",
       "alt":"Zealot Scarab",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1343249449,  400, 1 ]
+      ]
   },
   "89":{
       "tag":"naga_siren",
       "name":"Naga Siren",
       "alt":"Slithice",
-      "aliases":"slithereen"
+      "aliases":"slithereen",
+      "released": [
+        [ 1342644649,  400 ],
+        [ 1342039849,  400, 1 ]
+      ]
   },
   "90":{
       "tag":"keeper_of_the_light",
       "name":"Keeper of the Light",
       "alt":"Ezalor",
-      "aliases":"kotl,fundamental"
+      "aliases":"kotl,fundamental",
+      "released": [
+        [ 1343249449,  400, 1 ]
+      ]
   },
   "91":{
       "tag":"wisp",
       "name":"Io",
       "alt":"Wisp",
-      "aliases":"fundamental"
+      "aliases":"fundamental",
+      "released": [
+        [ 1340830249,  400 ],
+        [ 1341435049,  400, 1 ],
+        [ 1548712249, 4000, 0 ],
+        [ 1558648249, 4100, 1 ]
+      ]
   },
   "92":{
       "tag":"visage",
       "name":"Visage",
       "alt":"Necro'lic",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1343249449,  400, 1 ]
+      ]
   },
   "93":{
       "tag":"slark",
       "name":"Slark",
       "alt":"Nightcrawler",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1352926249,  600 ],
+        [ 1386806400,  901, 1 ]
+      ]
   },
   "94":{
       "tag":"medusa",
       "name":"Medusa",
       "alt":"Gorgon",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1357764649,  700 ],
+        [ 1360788649,  700, 1 ],
+        [ 1370292649,  800, 0 ],
+        [ 1382302249,  900, 1 ]
+      ]
   },
   "95":{
       "tag":"troll_warlord",
       "name":"Troll Warlord",
       "alt":"Jah'rakal",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1358974249,  700 ],
+        [ 1377204649,  801, 1 ]
+      ]
   },
   "96":{
       "tag":"centaur",
       "name":"Centaur Warrunner",
       "alt":"Bradwarden",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1351111849,  600 ],
+        [ 1377204649,  801, 1 ]
+      ]
   },
   "97":{
       "tag":"magnataur",
       "name":"Magnus",
       "alt":"Magnoceros",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1349297449,  500 ],
+        [ 1349902249,  500, 1 ]
+      ]
   },
   "98":{
       "tag":"shredder",
       "name":"Timbersaw",
       "alt":"Rizzrack",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1355345449,  600 ],
+        [ 1363824000,  701, 1 ]
+      ]
   },
   "99":{
       "tag":"bristleback",
       "name":"Bristleback",
       "alt":"Rigwarl",
-      "aliases":"bb"
+      "aliases":"bb",
+      "released": [
+        [ 1364422334,  701 ],
+        [ 1366841534,  701, 1 ]
+      ]
   },
   "100":{
       "tag":"tusk",
       "name":"Tusk",
       "alt":"Ymir",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1360788649,  700 ],
+        [ 1366318249,  701, 1 ]
+      ]
   },
   "101":{
       "tag":"skywrath_mage",
       "name":"Skywrath Mage",
       "alt":"Dragonus",
-      "aliases":"sky"
+      "aliases":"sky",
+      "released": [
+        [ 1366323134,  701 ],
+        [ 1366841534,  701, 1 ]
+      ]
   },
   "102":{
       "tag":"abaddon",
       "name":"Abaddon",
       "alt":"Lord of Avernus",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1373580734,  801 ],
+        [ 1377204649,  801, 1 ]
+      ]
   },
   "103":{
       "tag":"elder_titan",
       "name":"Elder Titan",
       "alt":"Creator",
-      "aliases":"et"
+      "aliases":"et",
+      "released": [
+        [ 1367446334,  701 ],
+        [ 1377204649,  801, 1 ]
+      ]
   },
   "104":{
       "tag":"legion_commander",
       "name":"Legion Commander",
       "alt":"Tresdin",
       "aliases":"lc",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1386799934,  900 ],
+        [ 1411596734, 1200, 1 ]
+      ]
   },
   "105":{
       "tag":"techies",
       "name":"Techies",
       "alt":"Squee, Spleen and Spoon",
       "aliases":"miner",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1409782334, 1101 ],
+        [ 1418771534, 1300, 1 ],
+        [ 1481490000, 1900, 0 ],
+        [ 1524697934, 3300, 1 ]
+      ]
   },
   "106":{
       "tag":"ember_spirit",
       "name":"Ember Spirit",
       "alt":"Xin",
-      "aliases":"ana,es"
+      "aliases":"ana,es",
+      "released": [
+        [ 1384380734,  900 ],
+        [ 1392675134, 1000, 1 ]
+      ]
   },
   "107":{
       "tag":"earth_spirit",
       "name":"Earth Spirit",
       "alt":"Kaolin",
-      "aliases":"es,jerax"
+      "aliases":"es,jerax",
+      "released": [
+        [ 1384380734,  900 ],
+        [ 1450221134, 1000, 1 ]
+      ]
   },
   "108":{
       "tag":"abyssal_underlord",
       "name":"Underlord",
       "alt":"Vrogros",
-      "aliases":"pitlord"
+      "aliases":"pitlord",
+      "released": [
+        [ 1471564800, 1802 ],
+        [ 1481490000, 1900, 1 ]
+      ]
   },
   "109":{
       "tag":"terrorblade",
       "name":"Terrorblade",
       "alt":"Demon Marauder",
       "aliases":"demon",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1390947134, 1000 ],
+        [ 1411596734, 1200, 1 ],
+        [ 1443049934, 1500, 0 ],
+        [ 1450221134, 1600, 1 ]
+      ]
   },
   "110":{
       "tag":"phoenix",
       "name":"Phoenix",
       "alt":"Star",
-      "aliases":"firebird,sun"
+      "aliases":"firebird,sun",
+      "released": [
+        [ 1390947134, 1000 ],
+        [ 1416438734, 1202, 1 ]
+      ]
   },
   "111":{
       "tag":"oracle",
       "name":"Oracle",
       "alt":"Nerif",
-      "aliases":""
+      "aliases":"",
+      "released": [
+        [ 1416438734, 1202 ],
+        [ 1450221134, 1600, 1 ]
+      ]
   },
   "112":{
       "tag":"winter_wyvern",
       "name":"Winter Wyvern",
       "alt":"Auroth",
-      "aliases":"ww"
+      "aliases":"ww",
+      "released": [
+        [ 1423699200, 1302 ],
+        [ 1430349134, 1400, 1 ],
+        [ 1450221134, 1600, 0 ],
+        [ 1450569600, 1601, 1 ]
+      ]
   },
   "113":{
       "tag":"arc_warden",
       "name":"Arc Warden",
       "alt":"Zet",
-      "aliases":"ancient,aw"
+      "aliases":"ancient,aw",
+      "released": [
+        [ 1450221134, 1600 ],
+        [ 1481490000, 1900, 1 ]
+      ]
   },
   "114":{
       "tag":"monkey_king",
       "name":"Monkey King",
       "alt":"Sun Wukong",
       "aliases":"mk",
-      "alticons": ["alt"]
+      "alticons": ["alt"],
+      "released": [
+        [ 1481497934, 1900 ],
+        [ 1489533134, 2200, 1 ]
+      ]
   },
   "119":{
       "tag":"dark_willow",
       "name":"Dark Willow",
       "alt":"Mireska",
-      "aliases":"sylph,fairy,dw"
+      "aliases":"sylph,fairy,dw",
+      "released": [
+        [ 1509405134, 2600 ],
+        [ 1519859534, 2900, 1 ]
+      ]
   },
   "120":{
       "tag":"pangolier",
       "name":"Pangolier",
       "alt":"Donte",
-      "aliases":"armodillo"
+      "aliases":"armodillo",
+      "released": [
+        [ 1509405134, 2600 ],
+        [ 1522278734, 3100, 1 ]
+      ]
   },
   "121":{
       "tag": "grimstroke",
       "name": "Grimstroke",
       "alt":"Ascended One",
-      "aliases":"ashkavor"
+      "aliases":"ashkavor,artist,brush",
+      "released": [
+        [ 1535065934, 3800 ],
+        [ 1542582734, 3900, 1 ]
+      ]
   },
   "123":{
       "tag": "hoodwink",
       "name": "Hoodwink",
       "alt":"Sharpshooter",
-      "aliases":"squirrel,rat,mouse,mistwoods"
+      "aliases":"squirrel,rat,mouse,mistwoods",
+      "released": [
+        [ 1608160334, 4700 ],
+        [ 1618787534, 4800, 1 ]
+      ]
   },
   "126":{
       "tag":"void_spirit",
       "name":"Void Spirit",
       "alt":"Inai",
-      "aliases":"vs"
+      "aliases":"vs",
+      "released": [
+        [ 1574723534, 4200 ],
+        [ 1579993934, 4300, 1 ]
+      ]
   },
   "128":{
       "tag":"snapfire",
       "name":"Snapfire",
       "alt":"Beatrix",
-      "aliases":"granny"
+      "aliases":"granny",
+      "released": [
+        [ 1574723534, 4200 ],
+        [ 1579993934, 4300, 1 ]
+      ]
   },
   "129":{
       "tag":"mars",
       "name":"Mars",
       "alt":"First Son of Heaven",
-      "aliases":"ares,god of war"
+      "aliases":"ares,god of war",
+      "released": [
+        [ 1551599902, 4001 ],
+        [ 1558653134, 4100, 1 ]
+      ]
   },
   "135":{
       "tag":"dawnbreaker",
       "name":"Dawnbreaker",
       "alt":"Valora",
-      "aliases":"battlemaiden,valkyrie,db"
+      "aliases":"battlemaiden,valkyrie,db",
+      "released": [
+        [ 1618787534, 4800 ],
+        [ 1631342680, 4902, 1 ]
+      ]
   },
   "136":{
     "tag":"marci",
     "name":"Marci",
     "alt":"Sidekick",
-    "aliases":"fighter,sidekick"
+    "aliases":"fighter,sidekick,bruiser",
+      "released": [
+        [ 1635449655, 4904 ]
+      ]
   }
 }
