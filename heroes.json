@@ -1209,8 +1209,17 @@
     "name":"Marci",
     "alt":"Sidekick",
     "aliases":"fighter,sidekick,bruiser",
-      "released": [
-        [ 1635449655, 4904 ]
-      ]
+    "released": [
+      [ 1635449655, 4904 ]
+    ]
+  },
+  "137":{
+    "tag":"primal_beast",
+    "name":"Primal Beast",
+    "alt":"Fenrir",
+    "aliases":"pb",
+    "released": [
+      [ 1645655934, 5000 ]
+    ]
   }
 }
