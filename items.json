@@ -417,5 +417,11 @@
     "838": "unstable_wand",
     "839": "fortitude_ring",
     "840": "pogo_stick",
-    "849": "mechanical_arm"
+    "849": "mechanical_arm",
+    "907": "recipe_wraith_pact",
+    "908": "wraith_pact",
+    "910": "recipe_revenants_brooch",
+    "911": "revenants_brooch",
+    "930": "recipe_boots_of_bearing",
+    "931": "boots_of_bearing"
 }

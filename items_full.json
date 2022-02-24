@@ -146,7 +146,7 @@
     "11": {
         "id": 11,
         "name": "item_quelling_blade",
-        "cost": 130,
+        "cost": 100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1118,7 +1118,7 @@
     "97": {
         "id": 97,
         "name": "item_recipe_orchid",
-        "cost": 475,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1127,7 +1127,7 @@
     "98": {
         "id": 98,
         "name": "item_orchid",
-        "cost": 3475,
+        "cost": 3175,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1136,7 +1136,7 @@
     "245": {
         "id": 245,
         "name": "item_recipe_bloodthorn",
-        "cost": 800,
+        "cost": 925,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1145,7 +1145,7 @@
     "250": {
         "id": 250,
         "name": "item_bloodthorn",
-        "cost": 6275,
+        "cost": 6500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1568,7 +1568,7 @@
     "120": {
         "id": 120,
         "name": "item_recipe_bloodstone",
-        "cost": 0,
+        "cost": 900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1577,7 +1577,7 @@
     "121": {
         "id": 121,
         "name": "item_bloodstone",
-        "cost": 5750,
+        "cost": 4600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1775,7 +1775,7 @@
     "126": {
         "id": 126,
         "name": "item_recipe_blade_mail",
-        "cost": 575,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1784,7 +1784,7 @@
     "127": {
         "id": 127,
         "name": "item_blade_mail",
-        "cost": 2125,
+        "cost": 2100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1883,7 +1883,7 @@
     "136": {
         "id": 136,
         "name": "item_recipe_radiance",
-        "cost": 1350,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1892,7 +1892,7 @@
     "137": {
         "id": 137,
         "name": "item_radiance",
-        "cost": 5150,
+        "cost": 5050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1964,7 +1964,7 @@
     "145": {
         "id": 145,
         "name": "item_bfury",
-        "cost": 4130,
+        "cost": 4100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2333,7 +2333,7 @@
     "173": {
         "id": 173,
         "name": "item_recipe_diffusal_blade",
-        "cost": 700,
+        "cost": 1050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2342,7 +2342,7 @@
     "174": {
         "id": 174,
         "name": "item_diffusal_blade",
-        "cost": 3150,
+        "cost": 2500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2369,7 +2369,7 @@
     "175": {
         "id": 175,
         "name": "item_recipe_ethereal_blade",
-        "cost": 0,
+        "cost": 1100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2378,7 +2378,7 @@
     "176": {
         "id": 176,
         "name": "item_ethereal_blade",
-        "cost": 4300,
+        "cost": 4650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2387,7 +2387,7 @@
     "177": {
         "id": 177,
         "name": "item_recipe_soul_ring",
-        "cost": 225,
+        "cost": 245,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2396,7 +2396,7 @@
     "178": {
         "id": 178,
         "name": "item_soul_ring",
-        "cost": 680,
+        "cost": 700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3787,5 +3787,59 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Fae Grenade"
+    },
+    "907": {
+        "id": 907,
+        "name": "item_recipe_wraith_pact",
+        "cost": 400,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Recipe: Wraith Pact"
+    },
+    "908": {
+        "id": 908,
+        "name": "item_wraith_pact",
+        "cost": 4200,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Wraith Pact"
+    },
+    "910": {
+        "id": 910,
+        "name": "item_recipe_revenants_brooch",
+        "cost": 800,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Recipe: Revenant's Brooch"
+    },
+    "911": {
+        "id": 911,
+        "name": "item_revenants_brooch",
+        "cost": 6200,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Revenant's Brooch"
+    },
+    "930": {
+        "id": 930,
+        "name": "item_recipe_boots_of_bearing",
+        "cost": 1500,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Recipe: Boots of Bearing"
+    },
+    "931": {
+        "id": 931,
+        "name": "item_boots_of_bearing",
+        "cost": 4125,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Boots of Bearing"
     }
 }
