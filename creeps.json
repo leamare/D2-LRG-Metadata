@@ -1,9 +1,11 @@
 {
   "lane": {
     "melee": [
+      "creep_badguys_flag",
       "creep_badguys_melee",
       "creep_badguys_melee_upgraded",
       "creep_badguys_melee_upgraded_mega",
+      "creep_goodguys_flag",
       "creep_goodguys_melee",
       "creep_goodguys_melee_upgraded",
       "creep_goodguys_melee_upgraded_mega"
@@ -56,7 +58,8 @@
       "neutral_dark_troll",
       "neutral_wildkin",
       "neutral_enraged_wildkin",
-      "neutral_satyr_hellcaller"
+      "neutral_satyr_hellcaller",
+      "neutral_warpine_raider"
     ],
     "ancients": [
       "neutral_black_drake",
@@ -68,7 +71,9 @@
       "neutral_rock_golem",
       "neutral_small_thunder_lizard",
       "neutral_jungle_stalker",
-      "neutral_big_thunder_lizard"
+      "neutral_big_thunder_lizard",
+      "neutral_ice_shaman",
+      "neutral_frostbitten_golem"
     ]
   },
   "summons": [
