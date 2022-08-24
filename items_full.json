@@ -956,7 +956,7 @@
     "78": {
         "id": 78,
         "name": "item_recipe_mekansm",
-        "cost": 900,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -965,7 +965,7 @@
     "79": {
         "id": 79,
         "name": "item_mekansm",
-        "cost": 1875,
+        "cost": 1775,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1568,7 +1568,7 @@
     "120": {
         "id": 120,
         "name": "item_recipe_bloodstone",
-        "cost": 900,
+        "cost": 700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1577,7 +1577,7 @@
     "121": {
         "id": 121,
         "name": "item_bloodstone",
-        "cost": 4600,
+        "cost": 4400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2009,7 +2009,7 @@
     "234": {
         "id": 234,
         "name": "item_recipe_dragon_lance",
-        "cost": 0,
+        "cost": 450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2603,7 +2603,7 @@
     "230": {
         "id": 230,
         "name": "item_recipe_guardian_greaves",
-        "cost": 1500,
+        "cost": 1550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2612,7 +2612,7 @@
     "231": {
         "id": 231,
         "name": "item_guardian_greaves",
-        "cost": 5100,
+        "cost": 5050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3841,5 +3841,158 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Boots of Bearing"
+    },
+    "945": {
+        "id": 945,
+        "name": "item_seeds_of_serenity",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Seeds of Serenity"
+    },
+    "946": {
+        "id": 946,
+        "name": "item_lance_of_pursuit",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Lance of Pursuit"
+    },
+    "947": {
+        "id": 947,
+        "name": "item_occult_bracelet",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Occult Bracelet"
+    },
+    "948": {
+        "id": 948,
+        "name": "item_tome_of_omniscience",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tome of Omniscience"
+    },
+    "949": {
+        "id": 949,
+        "name": "item_ogre_seal_totem",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Ogre Seal Totem"
+    },
+    "940": {
+        "id": 940,
+        "name": "item_wand_of_the_brine",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Wand of the Brine"
+    },
+    "938": {
+        "id": 938,
+        "name": "item_slime_vial",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Slime Vial"
+    },
+    "939": {
+        "id": 939,
+        "name": "item_harpoon",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Harpoon"
+    },
+    "950": {
+        "id": 950,
+        "name": "item_guardian_shell",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Guardian Shell"
+    },
+    "968": {
+        "id": 968,
+        "name": "item_arcane_scout",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Arcane Scout"
+    },
+    "969": {
+        "id": 969,
+        "name": "item_barricade",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Barricade"
+    },
+    "990": {
+        "id": 990,
+        "name": "item_eye_of_the_vizier",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Eye of the Vizier"
+    },
+    "998": {
+        "id": 998,
+        "name": "item_manacles_of_power",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Manacles of Power"
+    },
+    "1000": {
+        "id": 1000,
+        "name": "item_bottomless_chalice",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Bottomless Chalice"
+    },
+    "1017": {
+        "id": 1017,
+        "name": "item_wand_of_sanctitude",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Wand of Sanctitude"
+    },
+    "1076": {
+        "id": 1076,
+        "name": "item_specialists_array",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Specialist's Array"
+    },
+    "1077": {
+        "id": 1077,
+        "name": "item_dagger_of_ristul",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Dagger of Ristul"
     }
 }
