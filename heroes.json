@@ -380,6 +380,7 @@
       "name":"Faceless Void",
       "alt":"Darkterror",
       "aliases":"void,claszureme",
+      "alticons": ["alt1", "alt2"],
       "released": [
         [ 1266529849,    0, 1 ],
         [ 1450216249, 1600, 0 ],
@@ -411,8 +412,8 @@
       "tag":"phantom_assassin",
       "name":"Phantom Assassin",
       "alt":"Mortred",
-      "aliases":"pa",
-      "alticons": ["alt1"],
+      "aliases":"pa,asan",
+      "alticons": ["alt1", "persona1"],
       "released": [
         [ 1339361449,  400 ],
         [ 1339620649,  400, 1 ]
