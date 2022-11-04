@@ -44,8 +44,8 @@
       "tag":"crystal_maiden",
       "name":"Crystal Maiden",
       "alt":"Rylai",
-      "aliases":"cm",
-      "alticons": ["alt1"],
+      "aliases":"cm,blueheart,conduit",
+      "alticons": ["alt1", "persona1"],
       "released": [
         [ 1288558800,    0, 1 ]
       ]
