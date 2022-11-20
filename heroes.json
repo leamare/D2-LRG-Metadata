@@ -147,6 +147,7 @@
       "name":"Razor",
       "alt":"Lightning Revenant",
       "aliases":"",
+      "alticons": ["alt1", "alt2"],
       "released": [
         [ 1288558800,    0, 1 ]
       ]
