@@ -18,7 +18,11 @@ Part of the data is managed manually.
 - `item_categories` - types of items
 - `items_full` - full items data from Valve WebAPI
 - `modes` - Game modes
-- `patchdates` - Timestamps for lettered gameplay versions
+- `patchdates` - Timestamps for gameplay versions
+    - IDs are in OpenDota compatible format
+    - starting with 6.70 (including versions which were not technically released in Dota 2, using early timestamps based on Stratz)
+    - `main` key represents the release date for the original patch (without a letter), `add` is for "a" version of it
+    - UNIX timestamps in `dates` array represent all other versions starting with litera "b"
 - `versions` - Major version codes
 - `zones` - Map zones
 - `levels` - exp required for levels
@@ -26,13 +30,10 @@ Part of the data is managed manually.
     - doen't include all the matches and all the overwritable data (it would be too much otherwise)
     - only has a handful of patches
     - meant to describe changes to every patch below stated (e.g. item being placed in a different category)
+- `spells_tags` - map of IDs and internal spell tags
+- `spells_linked` - map of subabilities and their corresponding primary spells
+- `heroes_spells` - objects describing abilities of heroes (using spell tags) and talents
 
 ## Map zones
 
 Map zones are divided by polygons and described by verticies coordinates in cell format. So, for example, point [0,0] corresponds to cell [128,128] which belongs to the `dire_mid` polygon. Every polygon contains every point inside of it and on its perimeter.
-
-## Unlisted patchdates
-
-Patches with 'a' literal are unlisted for compatibility reasons (and it's pretty much the same patches anyway). I'll list them here tho.
-
-- 7.23a - 1574913991
