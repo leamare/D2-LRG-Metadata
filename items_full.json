@@ -497,7 +497,7 @@
     "39": {
         "id": 39,
         "name": "item_flask",
-        "cost": 110,
+        "cost": 100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -974,7 +974,7 @@
     "80": {
         "id": 80,
         "name": "item_recipe_vladmir",
-        "cost": 400,
+        "cost": 250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -983,7 +983,7 @@
     "81": {
         "id": 81,
         "name": "item_vladmir",
-        "cost": 2600,
+        "cost": 2450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1064,7 +1064,7 @@
     "91": {
         "id": 91,
         "name": "item_recipe_urn_of_shadows",
-        "cost": 335,
+        "cost": 375,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1073,7 +1073,7 @@
     "92": {
         "id": 92,
         "name": "item_urn_of_shadows",
-        "cost": 840,
+        "cost": 880,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1118,7 +1118,7 @@
     "97": {
         "id": 97,
         "name": "item_recipe_orchid",
-        "cost": 0,
+        "cost": 300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1127,7 +1127,7 @@
     "98": {
         "id": 98,
         "name": "item_orchid",
-        "cost": 3175,
+        "cost": 3475,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1145,7 +1145,7 @@
     "250": {
         "id": 250,
         "name": "item_bloodthorn",
-        "cost": 6500,
+        "cost": 6800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1721,7 +1721,7 @@
     "266": {
         "id": 266,
         "name": "item_recipe_spirit_vessel",
-        "cost": 1000,
+        "cost": 1100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1730,7 +1730,7 @@
     "267": {
         "id": 267,
         "name": "item_spirit_vessel",
-        "cost": 2840,
+        "cost": 2980,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1856,7 +1856,7 @@
     "133": {
         "id": 133,
         "name": "item_rapier",
-        "cost": 6000,
+        "cost": 5950,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2234,7 +2234,7 @@
     "635": {
         "id": 635,
         "name": "item_helm_of_the_overlord",
-        "cost": 6325,
+        "cost": 6175,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2387,7 +2387,7 @@
     "177": {
         "id": 177,
         "name": "item_recipe_soul_ring",
-        "cost": 245,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2396,7 +2396,7 @@
     "178": {
         "id": 178,
         "name": "item_soul_ring",
-        "cost": 700,
+        "cost": 855,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3800,7 +3800,7 @@
     "908": {
         "id": 908,
         "name": "item_wraith_pact",
-        "cost": 4200,
+        "cost": 4050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
