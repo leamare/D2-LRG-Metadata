@@ -2423,5 +2423,7 @@
     "9709": "seasonal_ti11_balloon",
     "9710": "seasonal_ti11_bubble_gun",
     "9711": "seasonal_ti11_duel",
-    "9712": "seasonal_ti11_conga_line"
+    "9712": "seasonal_ti11_conga_line",
+    "1089": "special_bonus_magic_resistance_14",
+    "6383": "special_bonus_unique_morphling_waveform_cooldown"
 }

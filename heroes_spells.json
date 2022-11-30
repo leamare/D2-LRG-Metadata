@@ -405,7 +405,7 @@
             ],
             [
                 "special_bonus_strength_35",
-                "special_bonus_unique_morphling_6"
+                "special_bonus_unique_morphling_waveform_cooldown"
             ]
         ],
         "innate": null,
@@ -545,7 +545,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_agility_9",
+                "special_bonus_agility_12",
                 "special_bonus_unique_razor_4"
             ],
             [
@@ -1565,7 +1565,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_magic_resistance_12",
+                "special_bonus_magic_resistance_14",
                 "special_bonus_attack_damage_30"
             ],
             [
@@ -1908,7 +1908,7 @@
         "talents": [
             [
                 "special_bonus_unique_leshrac_5",
-                "special_bonus_mp_regen_175"
+                "special_bonus_mp_regen_150"
             ],
             [
                 "special_bonus_movement_speed_25",
@@ -3441,8 +3441,7 @@
         ],
         "shard_granted": [],
         "aghs": [
-            "visage_silent_as_the_grave",
-            "visage_summon_familiars"
+            "visage_silent_as_the_grave"
         ],
         "aghs_granted": [
             "visage_silent_as_the_grave"
@@ -4224,7 +4223,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_hp_225",
+                "special_bonus_hp_200",
                 "special_bonus_unique_arc_warden_5"
             ],
             [
