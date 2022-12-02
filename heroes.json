@@ -999,8 +999,8 @@
   "103":{
       "tag":"elder_titan",
       "name":"Elder Titan",
-      "alt":"Creator",
-      "aliases":"et",
+      "alt":"Cairne the Worldsmith",
+      "aliases":"et,tauren chieftain,tc",
       "released": [
         [ 1367446334,  701 ],
         [ 1377204649,  801, 1 ]
