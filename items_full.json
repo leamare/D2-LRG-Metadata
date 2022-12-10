@@ -1757,7 +1757,7 @@
     "243": {
         "id": 243,
         "name": "item_recipe_crimson_guard",
-        "cost": 600,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1766,7 +1766,7 @@
     "242": {
         "id": 242,
         "name": "item_crimson_guard",
-        "cost": 3575,
+        "cost": 3600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,

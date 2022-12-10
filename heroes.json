@@ -380,7 +380,7 @@
       "tag":"faceless_void",
       "name":"Faceless Void",
       "alt":"Darkterror",
-      "aliases":"void,claszureme",
+      "aliases":"fv,void,claszureme",
       "alticons": ["alt1", "alt2"],
       "released": [
         [ 1266529849,    0, 1 ],
