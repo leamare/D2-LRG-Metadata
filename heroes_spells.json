@@ -893,7 +893,7 @@
             ],
             [
                 "special_bonus_unique_lina_3",
-                "special_bonus_hp_350"
+                "special_bonus_hp_250"
             ],
             [
                 "special_bonus_unique_lina_2",
@@ -1565,15 +1565,15 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_magic_resistance_14",
+                "special_bonus_magic_resistance_12",
                 "special_bonus_attack_damage_30"
             ],
             [
                 "special_bonus_unique_death_prophet_2",
-                "special_bonus_unique_death_prophet_3"
+                "special_bonus_hp_300"
             ],
             [
-                "special_bonus_hp_400",
+                "special_bonus_unique_death_prophet_3",
                 "special_bonus_unique_death_prophet_4"
             ],
             [
@@ -1828,7 +1828,7 @@
         "talents": [
             [
                 "special_bonus_mp_regen_175",
-                "special_bonus_attack_damage_50"
+                "special_bonus_attack_damage_60"
             ],
             [
                 "special_bonus_unique_dazzle_poison_touch_attack_range_bonus",
@@ -3956,7 +3956,7 @@
         "talents": [
             [
                 "special_bonus_unique_ember_spirit_1",
-                "special_bonus_attack_damage_15"
+                "special_bonus_attack_damage_12"
             ],
             [
                 "special_bonus_unique_ember_spirit_2",
@@ -4704,5 +4704,37 @@
         "linked": {
             "primal_beast_onslaught_release": "primal_beast_onslaught"
         }
+    },
+    "138": {
+        "main": [
+            "muerta_dead_shot",
+            "muerta_the_calling",
+            "muerta_gunslinger"
+        ],
+        "ultimate": "muerta_pierce_the_veil",
+        "shard": null,
+        "shard_granted": [],
+        "aghs": [],
+        "aghs_granted": [],
+        "talents": [
+            [
+                "special_bonus_strength_8",
+                "special_bonus_unique_muerta_dead_shot_damage"
+            ],
+            [
+                "special_bonus_attack_damage_25",
+                "special_bonus_unique_muerta_dead_shot_range"
+            ],
+            [
+                "special_bonus_unique_muerta_the_calling_num_revenants",
+                "special_bonus_unique_muerta_dead_shot_charges"
+            ],
+            [
+                "special_bonus_magic_resistance_25",
+                "special_bonus_unique_muerta_gunslinger_double_shot_chance"
+            ]
+        ],
+        "innate": null,
+        "linked": null
     }
 }
