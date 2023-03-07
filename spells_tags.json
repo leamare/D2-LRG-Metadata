@@ -2425,5 +2425,14 @@
     "9711": "seasonal_ti11_duel",
     "9712": "seasonal_ti11_conga_line",
     "1089": "special_bonus_magic_resistance_14",
-    "6383": "special_bonus_unique_morphling_waveform_cooldown"
+    "6383": "special_bonus_unique_morphling_waveform_cooldown",
+    "5751": "muerta_dead_shot",
+    "5752": "muerta_the_calling",
+    "5753": "muerta_gunslinger",
+    "5754": "muerta_pierce_the_veil",
+    "5755": "special_bonus_unique_muerta_dead_shot_charges",
+    "5756": "special_bonus_unique_muerta_dead_shot_damage",
+    "5757": "special_bonus_unique_muerta_dead_shot_range",
+    "5758": "special_bonus_unique_muerta_the_calling_num_revenants",
+    "5759": "special_bonus_unique_muerta_gunslinger_double_shot_chance"
 }

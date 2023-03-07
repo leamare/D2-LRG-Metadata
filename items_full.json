@@ -686,7 +686,7 @@
     "54": {
         "id": 54,
         "name": "item_relic",
-        "cost": 3750,
+        "cost": 3400,
         "secret_shop": 1,
         "side_shop": 0,
         "recipe": 0,
@@ -1649,7 +1649,7 @@
     "225": {
         "id": 225,
         "name": "item_nullifier",
-        "cost": 4725,
+        "cost": 4375,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1856,7 +1856,7 @@
     "133": {
         "id": 133,
         "name": "item_rapier",
-        "cost": 5950,
+        "cost": 5600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1892,7 +1892,7 @@
     "137": {
         "id": 137,
         "name": "item_radiance",
-        "cost": 5050,
+        "cost": 4700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2648,7 +2648,7 @@
     "239": {
         "id": 239,
         "name": "item_iron_talon",
-        "cost": 301,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2999,7 +2999,7 @@
     "304": {
         "id": 304,
         "name": "item_ironwood_tree",
-        "cost": 151,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3994,5 +3994,41 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Dagger of Ristul"
+    },
+    "4300": {
+        "id": 4300,
+        "name": "item_ofrenda",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Beloved Memory"
+    },
+    "4301": {
+        "id": 4301,
+        "name": "item_ofrenda_shovel",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Scrying Shovel"
+    },
+    "4302": {
+        "id": 4302,
+        "name": "item_ofrenda_pledge",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Forebearer's Fortune"
+    },
+    "1090": {
+        "id": 1090,
+        "name": "item_muertas_gun",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Mercy & Grace"
     }
 }
