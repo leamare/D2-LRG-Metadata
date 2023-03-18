@@ -4722,16 +4722,16 @@
                 "special_bonus_unique_muerta_dead_shot_damage"
             ],
             [
-                "special_bonus_attack_damage_25",
+                "special_bonus_attack_damage_35",
                 "special_bonus_unique_muerta_dead_shot_range"
             ],
             [
-                "special_bonus_unique_muerta_the_calling_num_revenants",
+                "special_bonus_unique_muerta_gunslinger_double_shot_chance",
                 "special_bonus_unique_muerta_dead_shot_charges"
             ],
             [
                 "special_bonus_magic_resistance_25",
-                "special_bonus_unique_muerta_gunslinger_double_shot_chance"
+                "special_bonus_unique_muerta_the_calling_num_revenants"
             ]
         ],
         "innate": null,
