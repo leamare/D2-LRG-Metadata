@@ -92,11 +92,11 @@
         "talents": [
             [
                 "special_bonus_unique_bane_11",
-                "special_bonus_unique_bane_10"
+                "special_bonus_unique_bane_8"
             ],
             [
                 "special_bonus_unique_bane_9",
-                "special_bonus_unique_bane_8"
+                "special_bonus_unique_bane_10"
             ],
             [
                 "special_bonus_movement_speed_30",
@@ -176,7 +176,7 @@
             ],
             [
                 "special_bonus_unique_crystal_maiden_3",
-                "special_bonus_attack_speed_200"
+                "special_bonus_attack_speed_225"
             ],
             [
                 "special_bonus_unique_crystal_maiden_2",
@@ -196,11 +196,13 @@
         ],
         "ultimate": "drow_ranger_marksmanship",
         "shard": [
-            "drow_ranger_frost_arrows"
+            "drow_ranger_glacier"
         ],
-        "shard_granted": [],
+        "shard_granted": [
+            "drow_ranger_glacier"
+        ],
         "aghs": [
-            "drow_ranger_marksmanship"
+            "drow_ranger_frost_arrows"
         ],
         "aghs_granted": [],
         "talents": [
@@ -383,6 +385,7 @@
         ],
         "ultimate": "morphling_replicate",
         "shard": [
+            "morphling_adaptive_strike_agi",
             "morphling_morph_agi"
         ],
         "shard_granted": [],
@@ -424,11 +427,11 @@
         ],
         "ultimate": "phantom_lancer_juxtapose",
         "shard": [
-            "phantom_lancer_spirit_lance"
+            "phantom_lancer_juxtapose"
         ],
         "shard_granted": [],
         "aghs": [
-            "phantom_lancer_juxtapose"
+            "phantom_lancer_spirit_lance"
         ],
         "aghs_granted": [],
         "talents": [
@@ -464,7 +467,7 @@
         ],
         "shard_granted": [],
         "aghs": [
-            "puck_waning_rift"
+            "puck_dream_coil"
         ],
         "aghs_granted": [],
         "talents": [
@@ -481,7 +484,7 @@
                 "special_bonus_unique_puck_2"
             ],
             [
-                "special_bonus_unique_puck_3",
+                "special_bonus_unique_puck_rift_radius",
                 "special_bonus_unique_puck_5"
             ]
         ],
@@ -576,7 +579,7 @@
         ],
         "shard_granted": [],
         "aghs": [
-            "sandking_burrowstrike"
+            "sandking_sand_storm"
         ],
         "aghs_granted": [],
         "talents": [
@@ -741,7 +744,7 @@
                 "special_bonus_unique_vengeful_spirit_1"
             ],
             [
-                "special_bonus_unique_vengeful_spirit_3",
+                "special_bonus_unique_vengeful_spirit_swap_damage_reduction",
                 "special_bonus_unique_vengeful_spirit_2"
             ]
         ],
@@ -794,10 +797,10 @@
         ],
         "ultimate": "zuus_thundergods_wrath",
         "shard": [
-            "zuus_static_field"
+            "zuus_lightning_hands"
         ],
         "shard_granted": [
-            "zuus_static_field"
+            "zuus_lightning_hands"
         ],
         "aghs": [
             "zuus_cloud"
@@ -816,10 +819,10 @@
             ],
             [
                 "special_bonus_unique_zeus_3",
-                "special_bonus_unique_zeus_4"
+                "special_bonus_unique_zeus_2"
             ],
             [
-                "special_bonus_unique_zeus_2",
+                "special_bonus_unique_zeus_4",
                 "special_bonus_unique_zeus_5"
             ]
         ],
@@ -1138,23 +1141,21 @@
         ],
         "ultimate": "riki_backstab",
         "shard": [
-            "riki_poison_dart"
+            "riki_smoke_screen"
         ],
-        "shard_granted": [
-            "riki_poison_dart"
-        ],
+        "shard_granted": [],
         "aghs": [
             "riki_tricks_of_the_trade"
         ],
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_riki_2",
+                "special_bonus_unique_riki_8",
                 "special_bonus_unique_riki_7"
             ],
             [
                 "special_bonus_unique_riki_3",
-                "special_bonus_unique_riki_8"
+                "special_bonus_unique_riki_2"
             ],
             [
                 "special_bonus_unique_riki_9",
@@ -1331,7 +1332,7 @@
         ],
         "ultimate": "warlock_rain_of_chaos",
         "shard": [
-            "warlock_shadow_word"
+            "warlock_upheaval"
         ],
         "shard_granted": [],
         "aghs": [
@@ -1344,11 +1345,11 @@
                 "special_bonus_unique_warlock_5"
             ],
             [
-                "special_bonus_unique_warlock_3",
+                "special_bonus_unique_warlock_7",
                 "special_bonus_unique_warlock_10"
             ],
             [
-                "special_bonus_unique_warlock_7",
+                "special_bonus_unique_warlock_3",
                 "special_bonus_unique_warlock_4"
             ],
             [
@@ -1442,7 +1443,7 @@
             "venomancer_poison_sting",
             "venomancer_plague_ward"
         ],
-        "ultimate": "venomancer_poison_nova",
+        "ultimate": "venomancer_noxious_plague",
         "shard": [
             "venomancer_latent_poison"
         ],
@@ -1452,7 +1453,9 @@
         "aghs": [
             "venomancer_poison_nova"
         ],
-        "aghs_granted": [],
+        "aghs_granted": [
+            "venomancer_poison_nova"
+        ],
         "talents": [
             [
                 "special_bonus_unique_venomancer_poisonsting_regen_reduction",
@@ -1823,12 +1826,14 @@
             "dazzle_poison_touch"
         ],
         "shard_granted": [],
-        "aghs": [],
+        "aghs": [
+            "dazzle_shadow_wave"
+        ],
         "aghs_granted": [],
         "talents": [
             [
                 "special_bonus_mp_regen_175",
-                "special_bonus_attack_damage_60"
+                "special_bonus_attack_speed_30"
             ],
             [
                 "special_bonus_unique_dazzle_poison_touch_attack_range_bonus",
@@ -1877,7 +1882,7 @@
                 "special_bonus_unique_clockwerk_5"
             ],
             [
-                "special_bonus_unique_clockwerk_2",
+                "special_bonus_unique_clockwerk_flare_damage",
                 "special_bonus_unique_clockwerk_4"
             ],
             [
@@ -1911,12 +1916,12 @@
                 "special_bonus_mp_regen_150"
             ],
             [
-                "special_bonus_movement_speed_25",
+                "special_bonus_unique_leshrac_7",
                 "special_bonus_unique_leshrac_6"
             ],
             [
                 "special_bonus_unique_leshrac_3",
-                "special_bonus_strength_20"
+                "special_bonus_unique_leshrac_4"
             ],
             [
                 "special_bonus_unique_leshrac_1",
@@ -1949,8 +1954,8 @@
                 "special_bonus_unique_furion_6"
             ],
             [
-                "special_bonus_unique_furion_2",
-                "special_bonus_attack_speed_25"
+                "special_bonus_unique_furion_teleportation_max_stacks",
+                "special_bonus_unique_furion_2"
             ],
             [
                 "special_bonus_unique_furion_4",
@@ -2045,15 +2050,18 @@
     "56": {
         "main": [
             "clinkz_strafe",
-            "clinkz_searing_arrows",
-            "clinkz_wind_walk"
+            "clinkz_tar_bomb",
+            "clinkz_death_pact"
         ],
-        "ultimate": "clinkz_death_pact",
+        "ultimate": "clinkz_wind_walk",
         "shard": [
-            "clinkz_wind_walk"
+            "clinkz_burning_barrage"
         ],
-        "shard_granted": [],
+        "shard_granted": [
+            "clinkz_burning_barrage"
+        ],
         "aghs": [
+            "clinkz_death_pact",
             "clinkz_burning_army"
         ],
         "aghs_granted": [
@@ -2065,12 +2073,12 @@
                 "special_bonus_unique_clinkz_1"
             ],
             [
-                "special_bonus_unique_clinkz_2",
-                "special_bonus_unique_clinkz_8"
+                "special_bonus_unique_clinkz_9",
+                "special_bonus_attack_range_75"
             ],
             [
-                "special_bonus_unique_clinkz_12",
-                "special_bonus_attack_range_125"
+                "special_bonus_unique_clinkz_7",
+                "special_bonus_unique_clinkz_8"
             ],
             [
                 "special_bonus_unique_clinkz_3",
@@ -2088,11 +2096,9 @@
         ],
         "ultimate": "omniknight_guardian_angel",
         "shard": [
-            "omniknight_degen_aura"
+            "omniknight_hammer_of_purity"
         ],
-        "shard_granted": [
-            "omniknight_degen_aura"
-        ],
+        "shard_granted": [],
         "aghs": [
             "omniknight_guardian_angel"
         ],
@@ -2126,6 +2132,7 @@
         ],
         "ultimate": "enchantress_untouchable",
         "shard": [
+            "enchantress_enchant",
             "enchantress_little_friends"
         ],
         "shard_granted": [
@@ -2140,14 +2147,14 @@
         "talents": [
             [
                 "special_bonus_unique_enchantress_6",
-                "special_bonus_magic_resistance_10"
+                "special_bonus_magic_resistance_8"
             ],
             [
                 "special_bonus_unique_enchantress_2",
                 "special_bonus_attack_damage_45"
             ],
             [
-                "special_bonus_unique_enchantress_1",
+                "special_bonus_unique_enchantress_enchant_health_damage",
                 "special_bonus_unique_enchantress_3"
             ],
             [
@@ -2257,7 +2264,7 @@
                 "special_bonus_unique_broodmother_5"
             ],
             [
-                "special_bonus_agility_25",
+                "special_bonus_attack_speed_35",
                 "special_bonus_unique_broodmother_2"
             ],
             [
@@ -2534,7 +2541,7 @@
         ],
         "ultimate": "ancient_apparition_ice_blast",
         "shard": [
-            "ancient_apparition_ice_vortex"
+            "ancient_apparition_ice_blast"
         ],
         "shard_granted": [],
         "aghs": [
@@ -2629,7 +2636,7 @@
                 "special_bonus_unique_spirit_breaker_1"
             ],
             [
-                "special_bonus_hp_800",
+                "special_bonus_unique_spirit_breaker_shield",
                 "special_bonus_unique_spirit_breaker_3"
             ]
         ],
@@ -2676,7 +2683,7 @@
         "main": [
             "alchemist_acid_spray",
             "alchemist_unstable_concoction",
-            "alchemist_goblins_greed"
+            "alchemist_corrosive_weaponry"
         ],
         "ultimate": "alchemist_chemical_rage",
         "shard": [
@@ -2707,7 +2714,7 @@
                 "special_bonus_unique_alchemist_6"
             ]
         ],
-        "innate": null,
+        "innate": "alchemist_goblins_greed",
         "linked": {
             "alchemist_unstable_concoction_throw": "alchemist_unstable_concoction"
         }
@@ -2720,7 +2727,7 @@
         ],
         "ultimate": "invoker_invoke",
         "shard": [
-            "invoker_chaos_meteor"
+            "invoker_emp"
         ],
         "shard_granted": [],
         "aghs": [
@@ -2730,7 +2737,7 @@
         "talents": [
             [
                 "special_bonus_unique_invoker_3",
-                "special_bonus_unique_invoker_10"
+                "special_bonus_unique_invoker_ice_wall_dps"
             ],
             [
                 "special_bonus_unique_invoker_9",
@@ -2738,7 +2745,7 @@
             ],
             [
                 "special_bonus_unique_invoker_5",
-                "special_bonus_unique_invoker_6"
+                "special_bonus_unique_invoker_additional_chaos_meteors"
             ],
             [
                 "special_bonus_unique_invoker_13",
@@ -2807,7 +2814,7 @@
         ],
         "shard_granted": [],
         "aghs": [
-            "obsidian_destroyer_astral_imprisonment"
+            "obsidian_destroyer_equilibrium"
         ],
         "aghs_granted": [],
         "talents": [
@@ -2877,7 +2884,6 @@
         ],
         "ultimate": "brewmaster_primal_split",
         "shard": [
-            "brewmaster_drunken_brawler",
             "brewmaster_primal_split"
         ],
         "shard_granted": [],
@@ -2890,7 +2896,7 @@
         "talents": [
             [
                 "special_bonus_unique_brewmaster_7",
-                "special_bonus_attack_damage_15"
+                "special_bonus_unique_brewmaster_2"
             ],
             [
                 "special_bonus_unique_brewmaster_8",
@@ -2938,11 +2944,11 @@
                 "special_bonus_unique_shadow_demon_4"
             ],
             [
-                "special_bonus_unique_shadow_demon_1",
+                "special_bonus_unique_shadow_demon_3",
                 "special_bonus_movement_speed_25"
             ],
             [
-                "special_bonus_unique_shadow_demon_3",
+                "special_bonus_unique_shadow_demon_1",
                 "special_bonus_unique_shadow_demon_disseminate_damage"
             ],
             [
@@ -3045,14 +3051,16 @@
         ],
         "ultimate": "meepo_divided_we_stand",
         "shard": [
-            "meepo_divided_we_stand"
-        ],
-        "shard_granted": [],
-        "aghs": [
             "meepo_petrify"
+        ],
+        "shard_granted": [
+            "meepo_petrify"
+        ],
+        "aghs": [
+            "meepo_megameepo"
         ],
         "aghs_granted": [
-            "meepo_petrify"
+            "meepo_megameepo"
         ],
         "talents": [
             [
@@ -3073,7 +3081,9 @@
             ]
         ],
         "innate": null,
-        "linked": null
+        "linked": {
+            "meepo_megameepo_fling": "meepo_megameepo"
+        }
     },
     "83": {
         "main": [
@@ -3107,7 +3117,7 @@
             ],
             [
                 "special_bonus_unique_treant_7",
-                "special_bonus_unique_treant_11"
+                "special_bonus_unique_treant_14"
             ]
         ],
         "innate": "treant_natures_guise",
@@ -3150,7 +3160,7 @@
                 "special_bonus_unique_ogre_magi_3"
             ]
         ],
-        "innate": null,
+        "innate": "ogre_magi_dumb_luck",
         "linked": null
     },
     "85": {
@@ -3161,7 +3171,7 @@
         ],
         "ultimate": "undying_flesh_golem",
         "shard": [
-            "undying_flesh_golem"
+            "undying_tombstone"
         ],
         "shard_granted": [],
         "aghs": [
@@ -3183,10 +3193,10 @@
             ],
             [
                 "special_bonus_unique_undying_5",
-                "special_bonus_reincarnation_300"
+                "special_bonus_unique_undying_4"
             ]
         ],
-        "innate": null,
+        "innate": "undying_tombstone_grab",
         "linked": null
     },
     "86": {
@@ -3267,7 +3277,7 @@
     "88": {
         "main": [
             "nyx_assassin_impale",
-            "nyx_assassin_mana_burn",
+            "nyx_assassin_jolt",
             "nyx_assassin_spiked_carapace"
         ],
         "ultimate": "nyx_assassin_vendetta",
@@ -3348,8 +3358,8 @@
     "90": {
         "main": [
             "keeper_of_the_light_illuminate",
-            "keeper_of_the_light_radiant_bind",
-            "keeper_of_the_light_chakra_magic"
+            "keeper_of_the_light_chakra_magic",
+            "keeper_of_the_light_blinding_light"
         ],
         "ultimate": "keeper_of_the_light_spirit_form",
         "shard": [
@@ -3382,7 +3392,7 @@
                 "special_bonus_unique_keeper_of_the_light_10"
             ]
         ],
-        "innate": "keeper_of_the_light_blinding_light",
+        "innate": "keeper_of_the_light_radiant_bind",
         "linked": {
             "keeper_of_the_light_illuminate_end": "keeper_of_the_light_illuminate",
             "keeper_of_the_light_spirit_form_illuminate": "keeper_of_the_light_illuminate",
@@ -3527,7 +3537,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_medusa_6",
+                "special_bonus_unique_medusa_8",
                 "special_bonus_unique_medusa_7"
             ],
             [
@@ -3540,7 +3550,7 @@
             ],
             [
                 "special_bonus_unique_medusa_4",
-                "special_bonus_intelligence_75"
+                "special_bonus_unique_medusa_6"
             ]
         ],
         "innate": null,
@@ -3632,15 +3642,15 @@
         ],
         "ultimate": "magnataur_reverse_polarity",
         "shard": [
-            "magnataur_horn_toss"
-        ],
-        "shard_granted": [
-            "magnataur_horn_toss"
-        ],
-        "aghs": [
             "magnataur_shockwave"
         ],
-        "aghs_granted": [],
+        "shard_granted": [],
+        "aghs": [
+            "magnataur_horn_toss"
+        ],
+        "aghs_granted": [
+            "magnataur_horn_toss"
+        ],
         "talents": [
             [
                 "special_bonus_unique_magnus_6",
@@ -3648,7 +3658,7 @@
             ],
             [
                 "special_bonus_unique_magnus_7",
-                "special_bonus_unique_magnus_reverse_polarity_strength"
+                "special_bonus_unique_magnus_reverse_polarity_stats"
             ],
             [
                 "special_bonus_unique_magnus_3",
@@ -3676,12 +3686,9 @@
             "shredder_flamethrower"
         ],
         "aghs": [
-            "shredder_chakram",
-            "shredder_chakram_2"
+            "shredder_reactive_armor"
         ],
-        "aghs_granted": [
-            "shredder_chakram_2"
-        ],
+        "aghs_granted": [],
         "talents": [
             [
                 "special_bonus_mp_regen_150",
@@ -3693,14 +3700,14 @@
             ],
             [
                 "special_bonus_unique_timbersaw_4",
-                "special_bonus_strength_16"
+                "special_bonus_magic_resistance_20"
             ],
             [
                 "special_bonus_unique_timbersaw_3",
                 "special_bonus_unique_timbersaw"
             ]
         ],
-        "innate": null,
+        "innate": "shredder_chakram_2",
         "linked": {
             "shredder_return_chakram": "shredder_chakram",
             "shredder_return_chakram_2": "shredder_chakram_2"
@@ -3809,7 +3816,7 @@
         "talents": [
             [
                 "special_bonus_intelligence_8",
-                "special_bonus_hp_175"
+                "special_bonus_hp_200"
             ],
             [
                 "special_bonus_unique_skywrath_2",
@@ -3852,7 +3859,7 @@
                 "special_bonus_attack_damage_65"
             ],
             [
-                "special_bonus_unique_abaddon_5",
+                "special_bonus_unique_abaddon_immolation",
                 "special_bonus_unique_abaddon"
             ],
             [
@@ -3920,7 +3927,7 @@
         "talents": [
             [
                 "special_bonus_unique_legion_commander",
-                "special_bonus_unique_legion_commander_2"
+                "special_bonus_unique_legion_commander_9"
             ],
             [
                 "special_bonus_unique_legion_commander_4",
@@ -3984,7 +3991,7 @@
         ],
         "ultimate": "earth_spirit_magnetize",
         "shard": [
-            "earth_spirit_stone_caller"
+            "earth_spirit_geomagnetic_grip"
         ],
         "shard_granted": [],
         "aghs": [
@@ -3995,7 +4002,7 @@
         ],
         "talents": [
             [
-                "special_bonus_unique_earth_spirit_6",
+                "special_bonus_spell_amplify_8",
                 "special_bonus_unique_earth_spirit_4"
             ],
             [
@@ -4004,11 +4011,11 @@
             ],
             [
                 "special_bonus_unique_earth_spirit_5",
-                "special_bonus_unique_earth_spirit_2"
+                "special_bonus_unique_earth_spirit_6"
             ],
             [
                 "special_bonus_unique_earth_spirit_3",
-                "special_bonus_spell_amplify_25"
+                "special_bonus_unique_earth_spirit_2"
             ]
         ],
         "innate": "earth_spirit_stone_caller",
@@ -4104,15 +4111,15 @@
         ],
         "ultimate": "oracle_false_promise",
         "shard": [
+            "oracle_rain_of_destiny"
+        ],
+        "shard_granted": [
+            "oracle_rain_of_destiny"
+        ],
+        "aghs": [
             "oracle_false_promise"
         ],
-        "shard_granted": [],
-        "aghs": [
-            "oracle_rain_of_destiny"
-        ],
-        "aghs_granted": [
-            "oracle_rain_of_destiny"
-        ],
+        "aghs_granted": [],
         "talents": [
             [
                 "special_bonus_unique_oracle_9",
@@ -4142,11 +4149,11 @@
         ],
         "ultimate": "techies_land_mines",
         "shard": [
-            "techies_suicide"
+            "techies_reactive_tazer"
         ],
         "shard_granted": [],
         "aghs": [
-            "techies_reactive_tazer"
+            "techies_minefield_sign"
         ],
         "aghs_granted": [],
         "talents": [
@@ -4231,12 +4238,12 @@
                 "special_bonus_unique_arc_warden_4"
             ],
             [
-                "special_bonus_unique_arc_warden_2",
+                "special_bonus_unique_arc_warden_9",
                 "special_bonus_unique_arc_warden"
             ],
             [
                 "special_bonus_unique_arc_warden_6",
-                "special_bonus_unique_arc_warden_7"
+                "special_bonus_unique_arc_warden_8"
             ]
         ],
         "innate": null,
@@ -4305,11 +4312,11 @@
             ],
             [
                 "special_bonus_unique_monkey_king_10",
-                "special_bonus_unique_monkey_king_11"
+                "special_bonus_unique_monkey_king_8"
             ],
             [
                 "special_bonus_unique_monkey_king_6",
-                "special_bonus_unique_monkey_king_8"
+                "special_bonus_unique_monkey_king_11"
             ]
         ],
         "innate": "monkey_king_mischief",
@@ -4389,7 +4396,7 @@
                 "special_bonus_unique_dark_willow_1"
             ],
             [
-                "special_bonus_unique_dark_willow_2",
+                "special_bonus_unique_dark_willow_bedlam_targets",
                 "special_bonus_attack_speed_100"
             ]
         ],
@@ -4620,7 +4627,7 @@
             ],
             [
                 "special_bonus_unique_dawnbreaker_celestial_hammer_cast_range",
-                "special_bonus_unique_dawnbreaker_fire_wreath_charges"
+                "special_bonus_unique_dawnbreaker_fire_wreath_cooldown"
             ]
         ],
         "innate": null,
@@ -4659,7 +4666,7 @@
             ],
             [
                 "special_bonus_unique_marci_guardian_magic_immune",
-                "special_bonus_unique_marci_unleash_silence"
+                "special_bonus_unique_marci_dispose_range"
             ]
         ],
         "innate": null,
@@ -4697,7 +4704,7 @@
             ],
             [
                 "special_bonus_unique_primal_beast_pulverize_duration",
-                "special_bonus_unique_primal_beast_pulverize_pierces_magic_immunity"
+                "special_bonus_unique_primal_beast_trample_unslowable"
             ]
         ],
         "innate": null,
@@ -4712,10 +4719,16 @@
             "muerta_gunslinger"
         ],
         "ultimate": "muerta_pierce_the_veil",
-        "shard": null,
+        "shard": [
+            "muerta_pierce_the_veil"
+        ],
         "shard_granted": [],
-        "aghs": [],
-        "aghs_granted": [],
+        "aghs": [
+            "muerta_parting_shot"
+        ],
+        "aghs_granted": [
+            "muerta_parting_shot"
+        ],
         "talents": [
             [
                 "special_bonus_strength_8",
