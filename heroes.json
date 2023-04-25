@@ -1232,7 +1232,8 @@
     "alt":"Celeste",
     "aliases":"revenant death mercy grace",
     "released": [
-      [ 1678144259, 5104 ]
+      [ 1678144259, 5104 ],
+      [ 1682034723, 5200, 1 ]
     ]
   }
 }
