@@ -416,7 +416,7 @@
     "31": {
         "id": 31,
         "name": "item_cloak",
-        "cost": 500,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -704,7 +704,7 @@
     "56": {
         "id": 56,
         "name": "item_ring_of_health",
-        "cost": 825,
+        "cost": 700,
         "secret_shop": 1,
         "side_shop": 0,
         "recipe": 0,
@@ -713,7 +713,7 @@
     "57": {
         "id": 57,
         "name": "item_void_stone",
-        "cost": 825,
+        "cost": 700,
         "secret_shop": 1,
         "side_shop": 0,
         "recipe": 0,
@@ -866,7 +866,7 @@
     "69": {
         "id": 69,
         "name": "item_pers",
-        "cost": 1650,
+        "cost": 1400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1028,7 +1028,7 @@
     "268": {
         "id": 268,
         "name": "item_recipe_holy_locket",
-        "cost": 475,
+        "cost": 525,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1046,7 +1046,7 @@
     "89": {
         "id": 89,
         "name": "item_recipe_pipe",
-        "cost": 1550,
+        "cost": 1450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1055,7 +1055,7 @@
     "90": {
         "id": 90,
         "name": "item_pipe",
-        "cost": 3475,
+        "cost": 3375,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1109,7 +1109,7 @@
     "96": {
         "id": 96,
         "name": "item_sheepstick",
-        "cost": 5675,
+        "cost": 5550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1118,7 +1118,7 @@
     "97": {
         "id": 97,
         "name": "item_recipe_orchid",
-        "cost": 300,
+        "cost": 275,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1136,7 +1136,7 @@
     "245": {
         "id": 245,
         "name": "item_recipe_bloodthorn",
-        "cost": 925,
+        "cost": 825,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1172,7 +1172,7 @@
     "99": {
         "id": 99,
         "name": "item_recipe_cyclone",
-        "cost": 650,
+        "cost": 775,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1208,7 +1208,7 @@
     "233": {
         "id": 233,
         "name": "item_recipe_aether_lens",
-        "cost": 650,
+        "cost": 775,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1262,7 +1262,7 @@
     "103": {
         "id": 103,
         "name": "item_recipe_dagon",
-        "cost": 1250,
+        "cost": 1150,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1307,7 +1307,7 @@
     "104": {
         "id": 104,
         "name": "item_dagon",
-        "cost": 2700,
+        "cost": 2850,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1316,7 +1316,7 @@
     "201": {
         "id": 201,
         "name": "item_dagon_2",
-        "cost": 3950,
+        "cost": 4000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1325,7 +1325,7 @@
     "202": {
         "id": 202,
         "name": "item_dagon_3",
-        "cost": 5200,
+        "cost": 5150,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1334,7 +1334,7 @@
     "203": {
         "id": 203,
         "name": "item_dagon_4",
-        "cost": 6450,
+        "cost": 6300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1343,7 +1343,7 @@
     "204": {
         "id": 204,
         "name": "item_dagon_5",
-        "cost": 7700,
+        "cost": 7450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1469,7 +1469,7 @@
     "109": {
         "id": 109,
         "name": "item_recipe_refresher",
-        "cost": 1700,
+        "cost": 2600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1586,7 +1586,7 @@
     "122": {
         "id": 122,
         "name": "item_recipe_sphere",
-        "cost": 900,
+        "cost": 1350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1604,7 +1604,7 @@
     "221": {
         "id": 221,
         "name": "item_recipe_lotus_orb",
-        "cost": 0,
+        "cost": 250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1622,7 +1622,7 @@
     "222": {
         "id": 222,
         "name": "item_recipe_meteor_hammer",
-        "cost": 250,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1631,7 +1631,7 @@
     "223": {
         "id": 223,
         "name": "item_meteor_hammer",
-        "cost": 2350,
+        "cost": 2400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1748,7 +1748,7 @@
     "125": {
         "id": 125,
         "name": "item_vanguard",
-        "cost": 1825,
+        "cost": 1700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1757,7 +1757,7 @@
     "243": {
         "id": 243,
         "name": "item_recipe_crimson_guard",
-        "cost": 800,
+        "cost": 925,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1820,7 +1820,7 @@
     "131": {
         "id": 131,
         "name": "item_hood_of_defiance",
-        "cost": 1500,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1829,7 +1829,7 @@
     "691": {
         "id": 691,
         "name": "item_recipe_eternal_shroud",
-        "cost": 1100,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1955,7 +1955,7 @@
     "144": {
         "id": 144,
         "name": "item_recipe_bfury",
-        "cost": 0,
+        "cost": 450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2153,7 +2153,7 @@
     "157": {
         "id": 157,
         "name": "item_recipe_mjollnir",
-        "cost": 900,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2162,7 +2162,7 @@
     "158": {
         "id": 158,
         "name": "item_mjollnir",
-        "cost": 5600,
+        "cost": 5500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2207,7 +2207,7 @@
     "163": {
         "id": 163,
         "name": "item_recipe_helm_of_the_dominator",
-        "cost": 975,
+        "cost": 650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2216,7 +2216,7 @@
     "164": {
         "id": 164,
         "name": "item_helm_of_the_dominator",
-        "cost": 2400,
+        "cost": 2625,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2234,7 +2234,7 @@
     "635": {
         "id": 635,
         "name": "item_helm_of_the_overlord",
-        "cost": 6175,
+        "cost": 6400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2423,7 +2423,7 @@
     "228": {
         "id": 228,
         "name": "item_recipe_octarine_core",
-        "cost": 0,
+        "cost": 200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2432,7 +2432,7 @@
     "235": {
         "id": 235,
         "name": "item_octarine_core",
-        "cost": 5275,
+        "cost": 4600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2495,7 +2495,7 @@
     "597": {
         "id": 597,
         "name": "item_recipe_mage_slayer",
-        "cost": 400,
+        "cost": 200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2504,7 +2504,7 @@
     "598": {
         "id": 598,
         "name": "item_mage_slayer",
-        "cost": 2400,
+        "cost": 2500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2549,7 +2549,7 @@
     "227": {
         "id": 227,
         "name": "item_recipe_solar_crest",
-        "cost": 900,
+        "cost": 700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2558,7 +2558,7 @@
     "229": {
         "id": 229,
         "name": "item_solar_crest",
-        "cost": 2625,
+        "cost": 2425,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2657,7 +2657,7 @@
     "207": {
         "id": 207,
         "name": "item_recipe_abyssal_blade",
-        "cost": 1550,
+        "cost": 1675,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2738,7 +2738,7 @@
     "253": {
         "id": 253,
         "name": "item_recipe_glimmer_cape",
-        "cost": 450,
+        "cost": 350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2747,7 +2747,7 @@
     "254": {
         "id": 254,
         "name": "item_glimmer_cape",
-        "cost": 1950,
+        "cost": 2150,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3908,7 +3908,7 @@
     "939": {
         "id": 939,
         "name": "item_harpoon",
-        "cost": 0,
+        "cost": 4500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3916,12 +3916,12 @@
     },
     "950": {
         "id": 950,
-        "name": "item_guardian_shell",
+        "name": "item_defiant_shell",
         "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Guardian Shell"
+        "localized_name": "Defiant Shell"
     },
     "968": {
         "id": 968,
@@ -4030,5 +4030,347 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Mercy & Grace"
+    },
+    "1122": {
+        "id": 1122,
+        "name": "item_diadem",
+        "cost": 1000,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Diadem"
+    },
+    "4204": {
+        "id": 4204,
+        "name": "item_famango",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Healing Lotus"
+    },
+    "4205": {
+        "id": 4205,
+        "name": "item_great_famango",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Great Healing Lotus"
+    },
+    "4206": {
+        "id": 4206,
+        "name": "item_greater_famango",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Greater Healing Lotus"
+    },
+    "4207": {
+        "id": 4207,
+        "name": "item_recipe_great_famango",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": ""
+    },
+    "4208": {
+        "id": 4208,
+        "name": "item_recipe_greater_famango",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": ""
+    },
+    "1123": {
+        "id": 1123,
+        "name": "item_blood_grenade",
+        "cost": 65,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Blood Grenade"
+    },
+    "1154": {
+        "id": 1154,
+        "name": "item_royale_with_cheese",
+        "cost": 2,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Block of Cheese"
+    },
+    "1098": {
+        "id": 1098,
+        "name": "item_recipe_samurai_tabi",
+        "cost": 1100,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Samurai Tabi Recipe"
+    },
+    "1091": {
+        "id": 1091,
+        "name": "item_samurai_tabi",
+        "cost": 4500,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Samurai Tabi"
+    },
+    "1092": {
+        "id": 1092,
+        "name": "item_recipe_hermes_sandals",
+        "cost": 500,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Hermes Sandals Recipe"
+    },
+    "1093": {
+        "id": 1093,
+        "name": "item_hermes_sandals",
+        "cost": 4800,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Hermes Sandals"
+    },
+    "1099": {
+        "id": 1099,
+        "name": "item_recipe_witches_switch",
+        "cost": 625,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Witches Switch Recipe"
+    },
+    "1100": {
+        "id": 1100,
+        "name": "item_witches_switch",
+        "cost": 1900,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Witches Switch"
+    },
+    "1094": {
+        "id": 1094,
+        "name": "item_recipe_lunar_crest",
+        "cost": 250,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Lunar Crest Recipe"
+    },
+    "1095": {
+        "id": 1095,
+        "name": "item_lunar_crest",
+        "cost": 2300,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Lunar Crest"
+    },
+    "1106": {
+        "id": 1106,
+        "name": "item_recipe_phylactery",
+        "cost": 200,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": ""
+    },
+    "1107": {
+        "id": 1107,
+        "name": "item_phylactery",
+        "cost": 2400,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Phylactery"
+    },
+    "1125": {
+        "id": 1125,
+        "name": "item_cornucopia",
+        "cost": 1200,
+        "secret_shop": 1,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Cornucopia"
+    },
+    "1096": {
+        "id": 1096,
+        "name": "item_recipe_disperser",
+        "cost": 1000,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Disperser Recipe"
+    },
+    "1097": {
+        "id": 1097,
+        "name": "item_disperser",
+        "cost": 5700,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Disperser"
+    },
+    "1127": {
+        "id": 1127,
+        "name": "item_recipe_pavise",
+        "cost": 275,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": "Pavise Recipe"
+    },
+    "1128": {
+        "id": 1128,
+        "name": "item_pavise",
+        "cost": 1400,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Pavise"
+    },
+    "1124": {
+        "id": 1124,
+        "name": "item_spark_of_courage",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Spark of Courage"
+    },
+    "1101": {
+        "id": 1101,
+        "name": "item_recipe_harpoon",
+        "cost": 1000,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": ""
+    },
+    "2091": {
+        "id": 2091,
+        "name": "item_tier1_token",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tier 1 Token"
+    },
+    "2092": {
+        "id": 2092,
+        "name": "item_tier2_token",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tier 2 Token"
+    },
+    "2093": {
+        "id": 2093,
+        "name": "item_tier3_token",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tier 3 Token"
+    },
+    "2094": {
+        "id": 2094,
+        "name": "item_tier4_token",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tier 4 Token"
+    },
+    "2095": {
+        "id": 2095,
+        "name": "item_tier5_token",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tier 5 Token"
+    },
+    "2096": {
+        "id": 2096,
+        "name": "item_vindicators_axe",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Vindicator's Axe"
+    },
+    "2097": {
+        "id": 2097,
+        "name": "item_duelist_gloves",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Duelist Gloves"
+    },
+    "2098": {
+        "id": 2098,
+        "name": "item_horizons_equilibrium",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Horizon's Equilibrium"
+    },
+    "2099": {
+        "id": 2099,
+        "name": "item_blighted_spirit",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Blighted Spirit"
+    },
+    "2190": {
+        "id": 2190,
+        "name": "item_dandelion_amulet",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Dandelion Amulet"
+    },
+    "2191": {
+        "id": 2191,
+        "name": "item_turtle_shell",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Turtle Shell"
+    },
+    "2192": {
+        "id": 2192,
+        "name": "item_martyrs_plate",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Martyr's Plate"
+    },
+    "2193": {
+        "id": 2193,
+        "name": "item_gossamer_cape",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Gossamer Cape"
     }
 }
