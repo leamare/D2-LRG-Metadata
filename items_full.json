@@ -3332,7 +3332,7 @@
     "317": {
         "id": 317,
         "name": "item_recipe_fallen_sky",
-        "cost": 1,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -3341,7 +3341,7 @@
     "371": {
         "id": 371,
         "name": "item_fallen_sky",
-        "cost": 4751,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4178,7 +4178,7 @@
     "1106": {
         "id": 1106,
         "name": "item_recipe_phylactery",
-        "cost": 200,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4187,7 +4187,7 @@
     "1107": {
         "id": 1107,
         "name": "item_phylactery",
-        "cost": 2400,
+        "cost": 2375,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
