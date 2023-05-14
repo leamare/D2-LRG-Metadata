@@ -155,7 +155,7 @@
     "237": {
         "id": 237,
         "name": "item_faerie_fire",
-        "cost": 70,
+        "cost": 65,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1757,7 +1757,7 @@
     "243": {
         "id": 243,
         "name": "item_recipe_crimson_guard",
-        "cost": 925,
+        "cost": 1050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1766,7 +1766,7 @@
     "242": {
         "id": 242,
         "name": "item_crimson_guard",
-        "cost": 3600,
+        "cost": 3725,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3827,7 +3827,7 @@
     "930": {
         "id": 930,
         "name": "item_recipe_boots_of_bearing",
-        "cost": 1500,
+        "cost": 1700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -3836,7 +3836,7 @@
     "931": {
         "id": 931,
         "name": "item_boots_of_bearing",
-        "cost": 4075,
+        "cost": 4275,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
