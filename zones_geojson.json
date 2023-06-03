@@ -1,0 +1,856 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -9472,
+                          -9472
+                      ],
+                      [
+                          -2944,
+                          -9472
+                      ],
+                      [
+                          -2944,
+                          -4480
+                      ],
+                      [
+                          -4736,
+                          -2688
+                      ],
+                      [
+                          -9472,
+                          -2688
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_base"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -9472,
+                          -2688
+                      ],
+                      [
+                          -7168,
+                          -2688
+                      ],
+                      [
+                          -7168,
+                          2432
+                      ],
+                      [
+                          -9472,
+                          2432
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_sentinel"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -2944,
+                          -6912
+                      ],
+                      [
+                          3712,
+                          -6912
+                      ],
+                      [
+                          3604,
+                          -5248
+                      ],
+                      [
+                          -1408,
+                          -5248
+                      ],
+                      [
+                          -2944,
+                          -4608
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_bottom"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -4352,
+                          -3072
+                      ],
+                      [
+                          -3328,
+                          -4096
+                      ],
+                      [
+                          -1088,
+                          -1728
+                      ],
+                      [
+                          -1984,
+                          -832
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_mid"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -7168,
+                          -2688
+                      ],
+                      [
+                          -4736,
+                          -2688
+                      ],
+                      [
+                          -5376,
+                          -1664
+                      ],
+                      [
+                          -5376,
+                          2048
+                      ],
+                      [
+                          -7168,
+                          2048
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_top"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -2944,
+                          -4480
+                      ],
+                      [
+                          -2944,
+                          -4608
+                      ],
+                      [
+                          -1408,
+                          -5248
+                      ],
+                      [
+                          3604,
+                          -5248
+                      ],
+                      [
+                          3456,
+                          -2944
+                      ],
+                      [
+                          1536,
+                          -2944
+                      ],
+                      [
+                          512,
+                          -2048
+                      ],
+                      [
+                          128,
+                          -2304
+                      ],
+                      [
+                          -512,
+                          -1558
+                      ],
+                      [
+                          -640,
+                          -1408
+                      ],
+                      [
+                          -1024,
+                          -1792
+                      ],
+                      [
+                          -1088,
+                          -1728
+                      ],
+                      [
+                          -3328,
+                          -4096
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_bottom_jungle"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -4736,
+                          -2688
+                      ],
+                      [
+                          -4352,
+                          -3072
+                      ],
+                      [
+                          -1984,
+                          -832
+                      ],
+                      [
+                          -2048,
+                          -768
+                      ],
+                      [
+                          -1664,
+                          -384
+                      ],
+                      [
+                          -5068,
+                          2944
+                      ],
+                      [
+                          -5376,
+                          2432
+                      ],
+                      [
+                          -5376,
+                          -1664
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_top_jungle"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -2944,
+                          -9472
+                      ],
+                      [
+                          3712,
+                          -9472
+                      ],
+                      [
+                          3712,
+                          -6912
+                      ],
+                      [
+                          -2944,
+                          -6912
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_aura_jungle"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          3712,
+                          -9472
+                      ],
+                      [
+                          9728,
+                          -9472
+                      ],
+                      [
+                          9728,
+                          -6912
+                      ],
+                      [
+                          3712,
+                          -6912
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "radiant_roshpit"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          3712,
+                          -6912
+                      ],
+                      [
+                          9728,
+                          -6912
+                      ],
+                      [
+                          9728,
+                          -2048
+                      ],
+                      [
+                          5120,
+                          -2048
+                      ],
+                      [
+                          5120,
+                          -2944
+                      ],
+                      [
+                          3456,
+                          -2944
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "bottom_laning"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -9472,
+                          2432
+                      ],
+                      [
+                          -7168,
+                          2432
+                      ],
+                      [
+                          -7168,
+                          2048
+                      ],
+                      [
+                          -5376,
+                          2048
+                      ],
+                      [
+                          -5376,
+                          2432
+                      ],
+                      [
+                          -4992,
+                          3072
+                      ],
+                      [
+                          -4736,
+                          3328
+                      ],
+                      [
+                          -3968,
+                          3328
+                      ],
+                      [
+                          -3968,
+                          7040
+                      ],
+                      [
+                          -6400,
+                          7040
+                      ],
+                      [
+                          -6912,
+                          6656
+                      ],
+                      [
+                          -9472,
+                          6656
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "top_laning"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -1664,
+                          -384
+                      ],
+                      [
+                          -256,
+                          1024
+                      ],
+                      [
+                          -3200,
+                          3328
+                      ],
+                      [
+                          -4736,
+                          3328
+                      ],
+                      [
+                          -5068,
+                          2944
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "top_river"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -2048,
+                          -768
+                      ],
+                      [
+                          -1024,
+                          -1792
+                      ],
+                      [
+                          1152,
+                          384
+                      ],
+                      [
+                          128,
+                          1408
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "middle_laning"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -640,
+                          -1408
+                      ],
+                      [
+                          128,
+                          -2304
+                      ],
+                      [
+                          512,
+                          -2048
+                      ],
+                      [
+                          1536,
+                          -2944
+                      ],
+                      [
+                          5120,
+                          -2944
+                      ],
+                      [
+                          5120,
+                          -2048
+                      ],
+                      [
+                          4096,
+                          -1280
+                      ],
+                      [
+                          2816,
+                          -1280
+                      ],
+                      [
+                          896,
+                          128
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "bottom_river"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          2688,
+                          4352
+                      ],
+                      [
+                          4864,
+                          2176
+                      ],
+                      [
+                          9728,
+                          2176
+                      ],
+                      [
+                          9728,
+                          9728
+                      ],
+                      [
+                          2688,
+                          9728
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_base"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          7424,
+                          -2048
+                      ],
+                      [
+                          9728,
+                          -2048
+                      ],
+                      [
+                          9728,
+                          2176
+                      ],
+                      [
+                          7424,
+                          2176
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_sentinel"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -3968,
+                          5376
+                      ],
+                      [
+                          2688,
+                          5376
+                      ],
+                      [
+                          2688,
+                          6656
+                      ],
+                      [
+                          -3968,
+                          6656
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_top"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          192,
+                          1344
+                      ],
+                      [
+                          1088,
+                          448
+                      ],
+                      [
+                          4544,
+                          2496
+                      ],
+                      [
+                          3008,
+                          4032
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_mid"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          5504,
+                          -2048
+                      ],
+                      [
+                          7424,
+                          -2048
+                      ],
+                      [
+                          7424,
+                          2176
+                      ],
+                      [
+                          5504,
+                          2176
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_bottom"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -3968,
+                          3328
+                      ],
+                      [
+                          -3200,
+                          3328
+                      ],
+                      [
+                          -256,
+                          1024
+                      ],
+                      [
+                          128,
+                          1408
+                      ],
+                      [
+                          192,
+                          1344
+                      ],
+                      [
+                          3008,
+                          4032
+                      ],
+                      [
+                          2688,
+                          4352
+                      ],
+                      [
+                          2688,
+                          5376
+                      ],
+                      [
+                          -3968,
+                          5376
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_top_jungle"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          896,
+                          128
+                      ],
+                      [
+                          2816,
+                          -1280
+                      ],
+                      [
+                          4096,
+                          -1280
+                      ],
+                      [
+                          5120,
+                          -2048
+                      ],
+                      [
+                          5504,
+                          -2048
+                      ],
+                      [
+                          5504,
+                          2176
+                      ],
+                      [
+                          4864,
+                          2176
+                      ],
+                      [
+                          4544,
+                          2496
+                      ],
+                      [
+                          1088,
+                          448
+                      ],
+                      [
+                          1152,
+                          384
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_bottom_jungle"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -3968,
+                          6656
+                      ],
+                      [
+                          2688,
+                          6656
+                      ],
+                      [
+                          2688,
+                          9728
+                      ],
+                      [
+                          -3968,
+                          9728
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_aura_jungle"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                  [
+                      [
+                          -9472,
+                          6656
+                      ],
+                      [
+                          -6912,
+                          6656
+                      ],
+                      [
+                          -6400,
+                          7040
+                      ],
+                      [
+                          -3968,
+                          7040
+                      ],
+                      [
+                          -3968,
+                          9728
+                      ],
+                      [
+                          -9472,
+                          9728
+                      ]
+                  ]
+              ]
+          },
+          "properties": {
+              "name": "dire_roshpit"
+          }
+      }
+  ]
+}
