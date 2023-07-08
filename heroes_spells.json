@@ -436,12 +436,12 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_phantom_lancer_2",
+                "special_bonus_strength_8",
                 "special_bonus_unique_phantom_lancer_lance_damage"
             ],
             [
                 "special_bonus_unique_phantom_lancer_5",
-                "special_bonus_strength_15"
+                "special_bonus_unique_phantom_lancer_2"
             ],
             [
                 "special_bonus_unique_phantom_lancer_6",
@@ -548,7 +548,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_agility_12",
+                "special_bonus_agility_14",
                 "special_bonus_unique_razor_4"
             ],
             [
@@ -896,7 +896,7 @@
             ],
             [
                 "special_bonus_unique_lina_3",
-                "special_bonus_hp_250"
+                "special_bonus_hp_275"
             ],
             [
                 "special_bonus_unique_lina_2",
@@ -1418,8 +1418,8 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_11",
-                "special_bonus_attack_damage_20"
+                "special_bonus_strength_8",
+                "special_bonus_attack_damage_15"
             ],
             [
                 "special_bonus_attack_speed_30",
@@ -1833,7 +1833,7 @@
         "talents": [
             [
                 "special_bonus_mp_regen_175",
-                "special_bonus_attack_speed_30"
+                "special_bonus_attack_speed_35"
             ],
             [
                 "special_bonus_unique_dazzle_poison_touch_attack_range_bonus",
@@ -3294,7 +3294,7 @@
         "talents": [
             [
                 "special_bonus_unique_nyx_4",
-                "special_bonus_spell_amplify_8"
+                "special_bonus_spell_amplify_6"
             ],
             [
                 "special_bonus_unique_nyx_5",
@@ -3358,8 +3358,8 @@
     "90": {
         "main": [
             "keeper_of_the_light_illuminate",
-            "keeper_of_the_light_chakra_magic",
-            "keeper_of_the_light_blinding_light"
+            "keeper_of_the_light_radiant_bind",
+            "keeper_of_the_light_chakra_magic"
         ],
         "ultimate": "keeper_of_the_light_spirit_form",
         "shard": [
@@ -3392,7 +3392,7 @@
                 "special_bonus_unique_keeper_of_the_light_10"
             ]
         ],
-        "innate": "keeper_of_the_light_radiant_bind",
+        "innate": "keeper_of_the_light_blinding_light",
         "linked": {
             "keeper_of_the_light_illuminate_end": "keeper_of_the_light_illuminate",
             "keeper_of_the_light_spirit_form_illuminate": "keeper_of_the_light_illuminate",
@@ -3696,7 +3696,7 @@
             ],
             [
                 "special_bonus_unique_timbersaw_2",
-                "special_bonus_spell_amplify_8"
+                "special_bonus_spell_amplify_7"
             ],
             [
                 "special_bonus_unique_timbersaw_4",
@@ -3851,12 +3851,12 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_8",
+                "special_bonus_strength_7",
                 "special_bonus_unique_abaddon_6"
             ],
             [
                 "special_bonus_unique_abaddon_2",
-                "special_bonus_attack_damage_65"
+                "special_bonus_attack_damage_55"
             ],
             [
                 "special_bonus_unique_abaddon_immolation",
@@ -4497,15 +4497,15 @@
         "talents": [
             [
                 "special_bonus_unique_void_spirit_2",
-                "special_bonus_mp_regen_175"
+                "special_bonus_mp_regen_150"
             ],
             [
-                "special_bonus_unique_void_spirit_dissimilate_outerring",
+                "special_bonus_unique_void_spirit_4",
                 "special_bonus_unique_void_spirit_7"
             ],
             [
                 "special_bonus_unique_void_spirit_1",
-                "special_bonus_unique_void_spirit_4"
+                "special_bonus_unique_void_spirit_dissimilate_outerring"
             ],
             [
                 "special_bonus_unique_void_spirit_3",
@@ -4653,12 +4653,12 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_marci_grapple_damage",
+                "special_bonus_unique_marci_guardian_lifesteal",
                 "special_bonus_unique_marci_lunge_range"
             ],
             [
                 "special_bonus_unique_marci_lunge_cooldown",
-                "special_bonus_unique_marci_guardian_lifesteal"
+                "special_bonus_unique_marci_grapple_damage"
             ],
             [
                 "special_bonus_unique_marci_unleash_speed",
