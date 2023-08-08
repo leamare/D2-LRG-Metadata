@@ -1721,7 +1721,7 @@
     "266": {
         "id": 266,
         "name": "item_recipe_spirit_vessel",
-        "cost": 1100,
+        "cost": 1200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1865,7 +1865,7 @@
     "134": {
         "id": 134,
         "name": "item_recipe_monkey_king_bar",
-        "cost": 675,
+        "cost": 600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1874,7 +1874,7 @@
     "135": {
         "id": 135,
         "name": "item_monkey_king_bar",
-        "cost": 4975,
+        "cost": 4900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1928,7 +1928,7 @@
     "141": {
         "id": 141,
         "name": "item_greater_crit",
-        "cost": 5150,
+        "cost": 5100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1991,7 +1991,7 @@
     "148": {
         "id": 148,
         "name": "item_recipe_lesser_crit",
-        "cost": 500,
+        "cost": 450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2000,7 +2000,7 @@
     "149": {
         "id": 149,
         "name": "item_lesser_crit",
-        "cost": 1950,
+        "cost": 1900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2063,7 +2063,7 @@
     "248": {
         "id": 248,
         "name": "item_recipe_silver_edge",
-        "cost": 500,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2270,7 +2270,7 @@
     "1466": {
         "id": 1466,
         "name": "item_gungir",
-        "cost": 6150,
+        "cost": 5650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2387,7 +2387,7 @@
     "177": {
         "id": 177,
         "name": "item_recipe_soul_ring",
-        "cost": 400,
+        "cost": 350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2396,7 +2396,7 @@
     "178": {
         "id": 178,
         "name": "item_soul_ring",
-        "cost": 855,
+        "cost": 805,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2621,7 +2621,7 @@
     "205": {
         "id": 205,
         "name": "item_recipe_rod_of_atos",
-        "cost": 850,
+        "cost": 250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2630,7 +2630,7 @@
     "206": {
         "id": 206,
         "name": "item_rod_of_atos",
-        "cost": 2750,
+        "cost": 2250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4088,7 +4088,7 @@
     "1123": {
         "id": 1123,
         "name": "item_blood_grenade",
-        "cost": 65,
+        "cost": 50,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
