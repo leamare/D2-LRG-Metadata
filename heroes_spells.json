@@ -250,14 +250,14 @@
         "talents": [
             [
                 "special_bonus_unique_earthshaker_4",
-                "special_bonus_attack_base_damage_40"
+                "special_bonus_attack_base_damage_30"
             ],
             [
                 "special_bonus_unique_earthshaker_6",
-                "special_bonus_unique_earthshaker_totem_damage"
+                "special_bonus_unique_earthshaker_3"
             ],
             [
-                "special_bonus_unique_earthshaker_3",
+                "special_bonus_unique_earthshaker_totem_damage",
                 "special_bonus_unique_earthshaker_2"
             ],
             [
@@ -332,7 +332,7 @@
                 "special_bonus_unique_mirana_5"
             ],
             [
-                "special_bonus_attack_damage_35",
+                "special_bonus_attack_damage_45",
                 "special_bonus_unique_mirana_4"
             ],
             [
@@ -898,11 +898,11 @@
         "talents": [
             [
                 "special_bonus_unique_lina_1",
-                "special_bonus_attack_damage_20"
+                "special_bonus_attack_damage_25"
             ],
             [
                 "special_bonus_unique_lina_3",
-                "special_bonus_hp_275"
+                "special_bonus_hp_325"
             ],
             [
                 "special_bonus_unique_lina_2",
@@ -1842,7 +1842,7 @@
                 "special_bonus_unique_dazzle_poison_touch_attack_range_bonus"
             ],
             [
-                "special_bonus_attack_speed_60",
+                "special_bonus_attack_speed_80",
                 "special_bonus_unique_dazzle_2"
             ],
             [
@@ -2376,7 +2376,7 @@
         "talents": [
             [
                 "special_bonus_unique_jakiro_dualbreath_slow",
-                "special_bonus_attack_range_275"
+                "special_bonus_attack_range_250"
             ],
             [
                 "special_bonus_hp_325",
@@ -2637,7 +2637,7 @@
                 "special_bonus_night_vision_500"
             ],
             [
-                "special_bonus_attack_damage_40",
+                "special_bonus_attack_damage_45",
                 "special_bonus_unique_spirit_breaker_2"
             ],
             [
@@ -2669,16 +2669,16 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_hp_200",
+                "special_bonus_hp_175",
                 "special_bonus_unique_gyrocopter_4"
             ],
             [
-                "special_bonus_unique_gyrocopter_2",
+                "special_bonus_unique_gyrocopter_flak_cannon_bonus_damage",
                 "special_bonus_unique_gyrocopter_6"
             ],
             [
                 "special_bonus_unique_gyrocopter_3",
-                "special_bonus_unique_gyrocopter_flak_cannon_bonus_damage"
+                "special_bonus_unique_gyrocopter_2"
             ],
             [
                 "special_bonus_unique_gyrocopter_5",
@@ -4060,7 +4060,7 @@
             ],
             [
                 "special_bonus_unique_terrorblade_6",
-                "special_bonus_hp_300"
+                "special_bonus_hp_275"
             ],
             [
                 "special_bonus_unique_terrorblade_5",

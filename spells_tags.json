@@ -2506,5 +2506,8 @@
     "1151": "special_bonus_unique_death_prophet_crypt_swarm_slow",
     "1141": "special_bonus_unique_ancient_apparition_ice_vortex_duration",
     "1142": "special_bonus_unique_disruptor_consecutive_strike_damage",
-    "8482": "special_bonus_unique_timbersaw_5"
+    "8482": "special_bonus_unique_timbersaw_5",
+    "1153": "special_bonus_attack_speed_90",
+    "1155": "special_bonus_unique_earth_spirit_rolling_boulder_cooldown",
+    "8036": "seasonal_10th_anniversary_party_hat"
 }
