@@ -44,7 +44,7 @@
       "tag":"crystal_maiden",
       "name":"Crystal Maiden",
       "alt":"Rylai",
-      "aliases":"cm,blueheart,conduit",
+      "aliases":"cm,blueheart,conduit,wolf",
       "alticons": ["alt1", "persona1"],
       "released": [
         [ 1288558800,    0, 1 ]
@@ -136,7 +136,7 @@
       "tag":"pudge",
       "name":"Pudge",
       "alt":"Butcher",
-      "aliases":"dendi",
+      "aliases":"dendi,toy",
       "alticons": ["alt1", "alt2", "persona1"],
       "released": [
         [ 1288558800,    0, 1 ]
@@ -461,7 +461,7 @@
       "tag":"dragon_knight",
       "name":"Dragon Knight",
       "alt":"Davion",
-      "aliases":"slyrak,dk",
+      "aliases":"slyrak,dk,dragon's blood",
       "released": [
         [ 1320267049,  200, 1 ]
       ]
@@ -699,7 +699,7 @@
       "tag":"invoker",
       "name":"Invoker",
       "alt":"Carl",
-      "aliases":"carl,destroyer,arsenal magus",
+      "aliases":"carl,destroyer,arsenal magus,kid",
       "alticons": ["persona1"],
       "released": [
         [ 1326919849,  300 ],
