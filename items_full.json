@@ -1172,7 +1172,7 @@
     "99": {
         "id": 99,
         "name": "item_recipe_cyclone",
-        "cost": 775,
+        "cost": 675,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1181,7 +1181,7 @@
     "100": {
         "id": 100,
         "name": "item_cyclone",
-        "cost": 2725,
+        "cost": 2625,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1190,7 +1190,7 @@
     "612": {
         "id": 612,
         "name": "item_recipe_wind_waker",
-        "cost": 1300,
+        "cost": 1400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1505,7 +1505,7 @@
     "113": {
         "id": 113,
         "name": "item_recipe_heart",
-        "cost": 1200,
+        "cost": 1300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1514,7 +1514,7 @@
     "114": {
         "id": 114,
         "name": "item_heart",
-        "cost": 5000,
+        "cost": 5100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
