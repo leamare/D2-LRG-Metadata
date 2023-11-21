@@ -1505,7 +1505,7 @@
     "113": {
         "id": 113,
         "name": "item_recipe_heart",
-        "cost": 1300,
+        "cost": 1400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1514,7 +1514,7 @@
     "114": {
         "id": 114,
         "name": "item_heart",
-        "cost": 5100,
+        "cost": 5200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
