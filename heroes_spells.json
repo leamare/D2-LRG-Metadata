@@ -60,7 +60,7 @@
         "talents": [
             [
                 "special_bonus_unique_axe_8",
-                "special_bonus_unique_axe_7"
+                "special_bonus_unique_axe_culling_blade_speed_duration"
             ],
             [
                 "special_bonus_unique_axe_4",
@@ -218,7 +218,7 @@
             ],
             [
                 "special_bonus_unique_drow_ranger_6",
-                "special_bonus_unique_drow_ranger_gust_invis"
+                "special_bonus_lifesteal_20"
             ],
             [
                 "special_bonus_unique_drow_ranger_7",
@@ -288,11 +288,11 @@
         ],
         "talents": [
             [
-                "special_bonus_unique_juggernaut",
-                "special_bonus_all_stats_5"
+                "special_bonus_unique_juggernaut_3",
+                "special_bonus_unique_juggernaut_4"
             ],
             [
-                "special_bonus_unique_juggernaut_3",
+                "special_bonus_unique_juggernaut_blade_fury_movespeed",
                 "special_bonus_unique_juggernaut_5"
             ],
             [
@@ -332,7 +332,7 @@
                 "special_bonus_unique_mirana_5"
             ],
             [
-                "special_bonus_attack_damage_45",
+                "special_bonus_20_crit_2",
                 "special_bonus_unique_mirana_4"
             ],
             [
@@ -346,8 +346,8 @@
     "11": {
         "main": [
             "nevermore_shadowraze2",
-            "nevermore_dark_lord",
-            "nevermore_necromastery"
+            "nevermore_necromastery",
+            "nevermore_dark_lord"
         ],
         "ultimate": "nevermore_requiem",
         "shard": [
@@ -442,7 +442,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_8",
+                "special_bonus_unique_phantom_lancer_phantom_rush_agility",
                 "special_bonus_unique_phantom_lancer_lance_damage"
             ],
             [
@@ -517,7 +517,7 @@
         "talents": [
             [
                 "special_bonus_unique_pudge_4",
-                "special_bonus_armor_4"
+                "special_bonus_armor_5"
             ],
             [
                 "special_bonus_unique_pudge_7",
@@ -554,11 +554,11 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_agility_14",
+                "special_bonus_spell_lifesteal_10",
                 "special_bonus_unique_razor_4"
             ],
             [
-                "special_bonus_strength_14",
+                "special_bonus_unique_razor_3",
                 "special_bonus_unique_razor"
             ],
             [
@@ -627,7 +627,7 @@
         "talents": [
             [
                 "special_bonus_mp_regen_150",
-                "special_bonus_attack_speed_20"
+                "special_bonus_unique_storm_spirit_overload_aspd"
             ],
             [
                 "special_bonus_unique_storm_spirit_5",
@@ -671,7 +671,7 @@
             ],
             [
                 "special_bonus_unique_sven_7",
-                "special_bonus_unique_sven_6"
+                "special_bonus_unique_sven_gods_strength_slow_resist"
             ],
             [
                 "special_bonus_unique_sven_4",
@@ -746,11 +746,11 @@
                 "special_bonus_unique_vengeful_spirit_4"
             ],
             [
-                "special_bonus_unique_vengeful_spirit_9",
+                "special_bonus_unique_vengeful_spirit_wave_of_terror_steal",
                 "special_bonus_unique_vengeful_spirit_1"
             ],
             [
-                "special_bonus_unique_vengeful_spirit_swap_damage_reduction",
+                "special_bonus_unique_vengeful_spirit_9",
                 "special_bonus_unique_vengeful_spirit_2"
             ]
         ],
@@ -777,7 +777,7 @@
         "talents": [
             [
                 "special_bonus_unique_windranger_9",
-                "special_bonus_unique_windranger"
+                "special_bonus_unique_windranger_powershot_slow"
             ],
             [
                 "special_bonus_unique_windranger_3",
@@ -866,7 +866,7 @@
             ],
             [
                 "special_bonus_unique_kunkka_4",
-                "special_bonus_unique_kunkka"
+                "special_bonus_unique_kunkka_torrent_cooldown"
             ],
             [
                 "special_bonus_unique_kunkka_5",
@@ -906,10 +906,10 @@
             ],
             [
                 "special_bonus_unique_lina_2",
-                "special_bonus_spell_amplify_11"
+                "special_bonus_unique_lina_supercharge_stacks"
             ],
             [
-                "special_bonus_unique_lina_7",
+                "special_bonus_unique_lina_dragon_slave_crits",
                 "special_bonus_unique_lina_6"
             ]
         ],
@@ -1007,7 +1007,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_shadow_shaman_5",
+                "special_bonus_unique_shadow_shaman_hex_damage_amp",
                 "special_bonus_unique_shadow_shaman_6"
             ],
             [
@@ -1219,8 +1219,8 @@
         ],
         "ultimate": "tinker_rearm",
         "shard": [
-            "tinker_rearm",
-            "tinker_warp_grenade"
+            "tinker_warp_grenade",
+            "tinker_rearm"
         ],
         "shard_granted": [
             "tinker_warp_grenade"
@@ -1424,8 +1424,8 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_8",
-                "special_bonus_attack_damage_15"
+                "special_bonus_unique_queen_of_pain_strike_heal",
+                "special_bonus_attack_damage_20"
             ],
             [
                 "special_bonus_attack_speed_30",
@@ -1547,7 +1547,7 @@
             ],
             [
                 "special_bonus_unique_wraith_king_5",
-                "special_bonus_cleave_25"
+                "special_bonus_cleave_35"
             ],
             [
                 "special_bonus_unique_wraith_king_4",
@@ -1583,7 +1583,7 @@
             ],
             [
                 "special_bonus_unique_death_prophet_3",
-                "special_bonus_unique_death_prophet_crypt_swarm_slow"
+                "special_bonus_unique_death_prophet_silence_slow"
             ],
             [
                 "special_bonus_unique_death_prophet",
@@ -1650,7 +1650,7 @@
         "talents": [
             [
                 "special_bonus_hp_200",
-                "special_bonus_movement_speed_20"
+                "special_bonus_unique_pugna_decrepify_ally_movespeed"
             ],
             [
                 "special_bonus_unique_pugna_6",
@@ -2153,7 +2153,7 @@
         "talents": [
             [
                 "special_bonus_unique_enchantress_6",
-                "special_bonus_magic_resistance_8"
+                "special_bonus_unique_enchantress_enchant_armor"
             ],
             [
                 "special_bonus_unique_enchantress_2",
@@ -2305,7 +2305,7 @@
                 "special_bonus_unique_bounty_hunter_5"
             ],
             [
-                "special_bonus_unique_bounty_hunter_6",
+                "special_bonus_unique_bounty_hunter_3",
                 "special_bonus_unique_bounty_hunter_9"
             ],
             [
@@ -2313,7 +2313,7 @@
                 "special_bonus_unique_bounty_hunter_8"
             ],
             [
-                "special_bonus_unique_bounty_hunter_3",
+                "special_bonus_unique_bounty_hunter_jinada_no_cooldown",
                 "special_bonus_unique_bounty_hunter_7"
             ]
         ],
@@ -2337,7 +2337,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_9",
+                "special_bonus_strength_8",
                 "special_bonus_unique_weaver_1"
             ],
             [
@@ -2376,7 +2376,7 @@
         "talents": [
             [
                 "special_bonus_unique_jakiro_dualbreath_slow",
-                "special_bonus_attack_range_250"
+                "special_bonus_attack_range_200"
             ],
             [
                 "special_bonus_hp_325",
@@ -2433,8 +2433,8 @@
     "66": {
         "main": [
             "chen_penitence",
-            "chen_divine_favor",
-            "chen_holy_persuasion"
+            "chen_holy_persuasion",
+            "chen_divine_favor"
         ],
         "ultimate": "chen_hand_of_god",
         "shard": [
@@ -2485,7 +2485,7 @@
         ],
         "talents": [
             [
-                "special_bonus_all_stats_5",
+                "special_bonus_unique_spectre_desolate_radius",
                 "special_bonus_unique_spectre"
             ],
             [
@@ -2641,12 +2641,12 @@
                 "special_bonus_unique_spirit_breaker_2"
             ],
             [
-                "special_bonus_unique_spirit_breaker_4",
-                "special_bonus_unique_spirit_breaker_3"
-            ],
-            [
                 "special_bonus_unique_spirit_breaker_shield",
                 "special_bonus_unique_spirit_breaker_1"
+            ],
+            [
+                "special_bonus_unique_spirit_breaker_4",
+                "special_bonus_unique_spirit_breaker_3"
             ]
         ],
         "innate": null,
@@ -2837,7 +2837,7 @@
             ],
             [
                 "special_bonus_unique_outworld_devourer_4",
-                "special_bonus_strength_20"
+                "special_bonus_spell_lifesteal_20"
             ],
             [
                 "special_bonus_unique_outworld_devourer_5",
@@ -2912,7 +2912,7 @@
                 "special_bonus_unique_brewmaster_5"
             ],
             [
-                "special_bonus_attack_speed_80",
+                "special_bonus_attack_speed_90",
                 "special_bonus_unique_brewmaster"
             ],
             [
@@ -3158,7 +3158,7 @@
                 "special_bonus_unique_ogre_magi_4"
             ],
             [
-                "special_bonus_hp_250",
+                "special_bonus_unique_ogre_magi_dumb_luck_mana",
                 "special_bonus_attack_damage_80"
             ],
             [
@@ -3234,12 +3234,12 @@
                 "special_bonus_unique_rubick_6"
             ],
             [
-                "special_bonus_unique_rubick",
+                "special_bonus_unique_rubick_4",
                 "special_bonus_unique_rubick_3"
             ],
             [
                 "special_bonus_unique_rubick_5",
-                "special_bonus_unique_rubick_4"
+                "special_bonus_unique_rubick"
             ]
         ],
         "innate": null,
@@ -3304,7 +3304,7 @@
         "talents": [
             [
                 "special_bonus_unique_nyx_4",
-                "special_bonus_spell_amplify_6"
+                "special_bonus_unique_nyx_vendetta_damage"
             ],
             [
                 "special_bonus_unique_nyx_5",
@@ -3569,9 +3569,9 @@
     },
     "95": {
         "main": [
-            "troll_warlord_fervor",
+            "troll_warlord_berserkers_rage",
             "troll_warlord_whirling_axes_ranged",
-            "troll_warlord_berserkers_rage"
+            "troll_warlord_fervor"
         ],
         "ultimate": "troll_warlord_battle_trance",
         "shard": [
@@ -3745,7 +3745,7 @@
         "talents": [
             [
                 "special_bonus_mp_regen_150",
-                "special_bonus_attack_damage_20"
+                "special_bonus_attack_speed_25"
             ],
             [
                 "special_bonus_unique_bristleback_6",
@@ -3863,12 +3863,12 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_7",
+                "special_bonus_unique_abaddon_7",
                 "special_bonus_unique_abaddon_6"
             ],
             [
                 "special_bonus_unique_abaddon_2",
-                "special_bonus_attack_damage_55"
+                "special_bonus_unique_abaddon_5"
             ],
             [
                 "special_bonus_unique_abaddon_immolation",
@@ -3929,7 +3929,8 @@
         ],
         "ultimate": "legion_commander_duel",
         "shard": [
-            "legion_commander_overwhelming_odds"
+            "legion_commander_overwhelming_odds",
+            "legion_commander_duel"
         ],
         "shard_granted": [],
         "aghs": [
@@ -3938,7 +3939,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_legion_commander",
+                "special_bonus_unique_legion_commander_pta_movespeed",
                 "special_bonus_unique_legion_commander_9"
             ],
             [
@@ -4060,7 +4061,7 @@
             ],
             [
                 "special_bonus_unique_terrorblade_6",
-                "special_bonus_hp_275"
+                "special_bonus_unique_terrorblade_metamorphosis_cooldown"
             ],
             [
                 "special_bonus_unique_terrorblade_5",
@@ -4091,7 +4092,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_spell_amplify_6",
+                "special_bonus_unique_phoenix_dive_damage",
                 "special_bonus_unique_phoenix_6"
             ],
             [
@@ -4139,7 +4140,7 @@
             ],
             [
                 "special_bonus_unique_oracle_5",
-                "special_bonus_unique_oracle_fortunes_end_damage"
+                "special_bonus_unique_oracle_damage_per_purge"
             ],
             [
                 "special_bonus_unique_oracle_8",
@@ -4318,7 +4319,7 @@
         "talents": [
             [
                 "special_bonus_unique_monkey_king_9",
-                "special_bonus_unique_monkey_king_12"
+                "special_bonus_unique_monkey_king_3"
             ],
             [
                 "special_bonus_unique_monkey_king_2",
@@ -4363,11 +4364,11 @@
                 "special_bonus_unique_pangolier_luckyshot_armor"
             ],
             [
-                "special_bonus_unique_pangolier_6",
-                "special_bonus_unique_pangolier_2"
+                "special_bonus_unique_pangolier_shield_crash_herostacks",
+                "special_bonus_unique_pangolier_6"
             ],
             [
-                "special_bonus_unique_pangolier_shield_crash_herostacks",
+                "special_bonus_unique_pangolier_shield_crash_radius",
                 "special_bonus_unique_pangolier_3"
             ],
             [
@@ -4513,7 +4514,7 @@
         "talents": [
             [
                 "special_bonus_unique_void_spirit_2",
-                "special_bonus_mp_regen_150"
+                "special_bonus_mp_regen_175"
             ],
             [
                 "special_bonus_unique_void_spirit_4",
@@ -4585,8 +4586,8 @@
             "hoodwink_hunters_boomerang"
         ],
         "aghs": [
-            "hoodwink_sharpshooter",
-            "hoodwink_decoy"
+            "hoodwink_decoy",
+            "hoodwink_sharpshooter"
         ],
         "aghs_granted": [
             "hoodwink_decoy"
