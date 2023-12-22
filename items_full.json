@@ -974,7 +974,7 @@
     "80": {
         "id": 80,
         "name": "item_recipe_vladmir",
-        "cost": 250,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -983,7 +983,7 @@
     "81": {
         "id": 81,
         "name": "item_vladmir",
-        "cost": 2450,
+        "cost": 2200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1622,7 +1622,7 @@
     "222": {
         "id": 222,
         "name": "item_recipe_meteor_hammer",
-        "cost": 800,
+        "cost": 600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1631,7 +1631,7 @@
     "223": {
         "id": 223,
         "name": "item_meteor_hammer",
-        "cost": 3300,
+        "cost": 3100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3800,7 +3800,7 @@
     "908": {
         "id": 908,
         "name": "item_wraith_pact",
-        "cost": 4050,
+        "cost": 3800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
