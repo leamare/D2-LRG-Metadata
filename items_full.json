@@ -1118,7 +1118,7 @@
     "97": {
         "id": 97,
         "name": "item_recipe_orchid",
-        "cost": 650,
+        "cost": 450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1127,7 +1127,7 @@
     "98": {
         "id": 98,
         "name": "item_orchid",
-        "cost": 3475,
+        "cost": 3275,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1145,7 +1145,7 @@
     "250": {
         "id": 250,
         "name": "item_bloodthorn",
-        "cost": 6825,
+        "cost": 6625,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1550,7 +1550,7 @@
     "118": {
         "id": 118,
         "name": "item_recipe_shivas_guard",
-        "cost": 1700,
+        "cost": 2050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1559,7 +1559,7 @@
     "119": {
         "id": 119,
         "name": "item_shivas_guard",
-        "cost": 4825,
+        "cost": 5175,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1568,7 +1568,7 @@
     "120": {
         "id": 120,
         "name": "item_recipe_bloodstone",
-        "cost": 700,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1622,7 +1622,7 @@
     "222": {
         "id": 222,
         "name": "item_recipe_meteor_hammer",
-        "cost": 600,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1631,7 +1631,7 @@
     "223": {
         "id": 223,
         "name": "item_meteor_hammer",
-        "cost": 3100,
+        "cost": 2850,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1676,7 +1676,7 @@
     "258": {
         "id": 258,
         "name": "item_recipe_kaya",
-        "cost": 600,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1685,7 +1685,7 @@
     "259": {
         "id": 259,
         "name": "item_kaya",
-        "cost": 2050,
+        "cost": 2000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1865,7 +1865,7 @@
     "134": {
         "id": 134,
         "name": "item_recipe_monkey_king_bar",
-        "cost": 800,
+        "cost": 600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1874,7 +1874,7 @@
     "135": {
         "id": 135,
         "name": "item_monkey_king_bar",
-        "cost": 4900,
+        "cost": 4700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1982,7 +1982,7 @@
     "147": {
         "id": 147,
         "name": "item_manta",
-        "cost": 4600,
+        "cost": 4550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2090,7 +2090,7 @@
     "154": {
         "id": 154,
         "name": "item_sange_and_yasha",
-        "cost": 4100,
+        "cost": 4000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2108,7 +2108,7 @@
     "273": {
         "id": 273,
         "name": "item_kaya_and_sange",
-        "cost": 4100,
+        "cost": 4000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2126,7 +2126,7 @@
     "277": {
         "id": 277,
         "name": "item_yasha_and_kaya",
-        "cost": 4100,
+        "cost": 4000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2189,7 +2189,7 @@
     "161": {
         "id": 161,
         "name": "item_recipe_sange",
-        "cost": 600,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2198,7 +2198,7 @@
     "162": {
         "id": 162,
         "name": "item_sange",
-        "cost": 2050,
+        "cost": 2000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2225,7 +2225,7 @@
     "633": {
         "id": 633,
         "name": "item_recipe_helm_of_the_overlord",
-        "cost": 775,
+        "cost": 300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2234,7 +2234,7 @@
     "635": {
         "id": 635,
         "name": "item_helm_of_the_overlord",
-        "cost": 6200,
+        "cost": 5725,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2261,7 +2261,7 @@
     "1565": {
         "id": 1565,
         "name": "item_recipe_gungir",
-        "cost": 450,
+        "cost": 250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2270,7 +2270,7 @@
     "1466": {
         "id": 1466,
         "name": "item_gungir",
-        "cost": 5650,
+        "cost": 5450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2297,7 +2297,7 @@
     "169": {
         "id": 169,
         "name": "item_recipe_yasha",
-        "cost": 600,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2306,7 +2306,7 @@
     "170": {
         "id": 170,
         "name": "item_yasha",
-        "cost": 2050,
+        "cost": 2000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2441,7 +2441,7 @@
     "181": {
         "id": 181,
         "name": "item_orb_of_venom",
-        "cost": 275,
+        "cost": 250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2468,7 +2468,7 @@
     "569": {
         "id": 569,
         "name": "item_orb_of_corrosion",
-        "cost": 900,
+        "cost": 875,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2495,7 +2495,7 @@
     "597": {
         "id": 597,
         "name": "item_recipe_mage_slayer",
-        "cost": 200,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2504,7 +2504,7 @@
     "598": {
         "id": 598,
         "name": "item_mage_slayer",
-        "cost": 2625,
+        "cost": 2825,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2684,7 +2684,7 @@
     "210": {
         "id": 210,
         "name": "item_heavens_halberd",
-        "cost": 3550,
+        "cost": 3500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4205,7 +4205,7 @@
     "1096": {
         "id": 1096,
         "name": "item_recipe_disperser",
-        "cost": 400,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4214,7 +4214,7 @@
     "1097": {
         "id": 1097,
         "name": "item_disperser",
-        "cost": 5700,
+        "cost": 6100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4439,7 +4439,7 @@
     "1805": {
         "id": 1805,
         "name": "item_recipe_devastator",
-        "cost": 0,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4448,7 +4448,7 @@
     "1806": {
         "id": 1806,
         "name": "item_devastator",
-        "cost": 5575,
+        "cost": 5975,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
