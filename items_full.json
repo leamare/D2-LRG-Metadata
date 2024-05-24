@@ -1622,7 +1622,7 @@
     "222": {
         "id": 222,
         "name": "item_recipe_meteor_hammer",
-        "cost": 400,
+        "cost": 300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1676,7 +1676,7 @@
     "258": {
         "id": 258,
         "name": "item_recipe_kaya",
-        "cost": 550,
+        "cost": 650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1685,7 +1685,7 @@
     "259": {
         "id": 259,
         "name": "item_kaya",
-        "cost": 2000,
+        "cost": 2100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1694,7 +1694,7 @@
     "369": {
         "id": 369,
         "name": "item_trident",
-        "cost": 0,
+        "cost": 6301,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1829,7 +1829,7 @@
     "691": {
         "id": 691,
         "name": "item_recipe_eternal_shroud",
-        "cost": 800,
+        "cost": 900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1838,7 +1838,7 @@
     "692": {
         "id": 692,
         "name": "item_eternal_shroud",
-        "cost": 3600,
+        "cost": 3700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1982,7 +1982,7 @@
     "147": {
         "id": 147,
         "name": "item_manta",
-        "cost": 4550,
+        "cost": 4650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2090,7 +2090,7 @@
     "154": {
         "id": 154,
         "name": "item_sange_and_yasha",
-        "cost": 4000,
+        "cost": 4200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2108,7 +2108,7 @@
     "273": {
         "id": 273,
         "name": "item_kaya_and_sange",
-        "cost": 4000,
+        "cost": 4200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2126,7 +2126,7 @@
     "277": {
         "id": 277,
         "name": "item_yasha_and_kaya",
-        "cost": 4000,
+        "cost": 4200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2189,7 +2189,7 @@
     "161": {
         "id": 161,
         "name": "item_recipe_sange",
-        "cost": 550,
+        "cost": 650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2198,7 +2198,7 @@
     "162": {
         "id": 162,
         "name": "item_sange",
-        "cost": 2000,
+        "cost": 2100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2297,7 +2297,7 @@
     "169": {
         "id": 169,
         "name": "item_recipe_yasha",
-        "cost": 550,
+        "cost": 650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2306,7 +2306,7 @@
     "170": {
         "id": 170,
         "name": "item_yasha",
-        "cost": 2000,
+        "cost": 2100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2675,7 +2675,7 @@
     "209": {
         "id": 209,
         "name": "item_recipe_heavens_halberd",
-        "cost": 200,
+        "cost": 100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4543,5 +4543,23 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Roshan's Banner"
+    },
+    "1440": {
+        "id": 1440,
+        "name": "item_black_grimoire",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Black Grimoire"
+    },
+    "1441": {
+        "id": 1441,
+        "name": "item_grisgris",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Gris-Gris"
     }
 }
