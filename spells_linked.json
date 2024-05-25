@@ -75,5 +75,14 @@
     "dawnbreaker_converge": "dawnbreaker_celestial_hammer",
     "primal_beast_onslaught_release": "primal_beast_onslaught",
     "alchemist_unstable_concoction_throw": "alchemist_unstable_concoction",
-    "meepo_megameepo_fling": "meepo_megameepo"
+    "meepo_megameepo_fling": "meepo_megameepo",
+    "chen_holy_persuasion": "chen_summon_convert",
+    "windrunner_focusfire_cancel": "windrunner_focusfire",
+    "batrider_sticky_napalm_application_damage": "batrider_sticky_napalm",
+    "naga_siren_reel_in": "naga_siren_ensnare",
+    "centaur_mount": "centaur_work_horse",
+    "techies_reactive_tazer_stop": "techies_reactive_tazer",
+    "grimstroke_return": "grimstroke_spirit_walk",
+    "furion_spirit_of_the_forest": "furion_force_of_nature",
+    "chen_summon_convert": "chen_holy_persuasion"
 }
