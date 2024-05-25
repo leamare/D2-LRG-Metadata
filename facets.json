@@ -1,0 +1,2451 @@
+{
+    "colors": [
+        "Purple",
+        "Blue",
+        "Red",
+        "Gray",
+        "Yellow",
+        "Green"
+    ],
+    "heroes": {
+        "1": [
+            {
+                "name": "antimage_magebanes_mirror",
+                "color": "Purple",
+                "icon": "ricochet",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "antimage_mana_thirst",
+                "color": "Blue",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "2": [
+            {
+                "name": "axe_one_man_army",
+                "color": "Red",
+                "icon": "strength",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "axe_one_man_army",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "axe_call_out",
+                "color": "Red",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "3": [
+            {
+                "name": "bane_dream_stalker",
+                "color": "Gray",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "bane_sleepwalk",
+                "color": "Purple",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "4": [
+            {
+                "name": "bloodseeker_arterial_spray",
+                "color": "Red",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "bloodseeker_bloodrush",
+                "color": "Gray",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "5": [
+            {
+                "name": "crystal_maiden_frozen_expanse",
+                "color": "Gray",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "crystal_maiden_cold_comfort",
+                "color": "Blue",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "6": [
+            {
+                "name": "drow_ranger_high_ground",
+                "color": "Gray",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "drow_ranger_vantage_point",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "drow_ranger_sidestep",
+                "color": "Blue",
+                "icon": "multi_arrow",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "7": [
+            {
+                "name": "earthshaker_tectonic_buildup",
+                "color": "Red",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "earthshaker_slugger",
+                "color": "Yellow",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "8": [
+            {
+                "name": "juggernaut_bladestorm",
+                "color": "Yellow",
+                "icon": "spinning",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "juggernaut_agigain",
+                "color": "Red",
+                "icon": "agility",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "juggernaut_bladeform",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "9": [
+            {
+                "name": "mirana_moonlight",
+                "color": "Blue",
+                "icon": "moon",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "mirana_invis",
+                        "slot": 5,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "mirana_sunlight",
+                "color": "Gray",
+                "icon": "sun",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "mirana_solar_flare",
+                        "slot": 5,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "11": [
+            {
+                "name": "nevermore_lasting_presence",
+                "color": "Gray",
+                "icon": "armor_broken",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "nevermore_shadowmire",
+                "color": "Red",
+                "icon": "slow",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "10": [
+            {
+                "name": "morphling_agi",
+                "color": "Green",
+                "icon": "agility",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "morphling_ebb",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "morphling_str",
+                "color": "Red",
+                "icon": "strength",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "morphling_flow",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "12": [
+            {
+                "name": "phantom_lancer_convergence",
+                "color": "Yellow",
+                "icon": "illusion",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "phantom_lancer_divergence",
+                "color": "Blue",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "13": [
+            {
+                "name": "puck_jostling_rift",
+                "color": "Purple",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "puck_curveball",
+                "color": "Blue",
+                "icon": "curve_ball",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "14": [
+            {
+                "name": "pudge_fresh_meat",
+                "color": "Green",
+                "icon": "meat",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "pudge_flayers_hook",
+                "color": "Red",
+                "icon": "pudge_hook",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "15": [
+            {
+                "name": "razor_thunderhead",
+                "color": "Gray",
+                "icon": "barrier",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "razor_spellamp",
+                "color": "Blue",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "razor_dynamo",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "16": [
+            {
+                "name": "sand_king_sandshroud",
+                "color": "Gray",
+                "icon": "vision",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "sand_king_dust_devil",
+                "color": "Yellow",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "17": [
+            {
+                "name": "storm_spirit_shock_collar",
+                "color": "Blue",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "storm_spirit_static_slide",
+                "color": "Gray",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "18": [
+            {
+                "name": "sven_heavy_plate",
+                "color": "Blue",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "sven_strscaling",
+                "color": "Red",
+                "icon": "strength",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "sven_wrath_of_god",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "19": [
+            {
+                "name": "tiny_crash_landing",
+                "color": "Gray",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "tiny_insurmountable",
+                "color": "Green",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "tiny_insurmountable",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "20": [
+            {
+                "name": "vengefulspirit_avenging_missile",
+                "color": "Purple",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "vvengefulspirit_melee",
+                "color": "Blue",
+                "icon": "fist",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "vengefulspirit_soul_strike",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "21": [
+            {
+                "name": "windrunner_tailwind",
+                "color": "Yellow",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "windrunner_whirlwind",
+                "color": "Green",
+                "icon": "multi_arrow",
+                "spellicons": {
+                    "windrunner_focusfire": "windrunner_whirlwind",
+                    "windrunner_focusfire_cancel": "windrunner_whirlwind_stop"
+                },
+                "abilities": null
+            }
+        ],
+        "22": [
+            {
+                "name": "zuus_livewire",
+                "color": "Blue",
+                "icon": "range",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "zuus_divine_rampage",
+                "color": "Gray",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "23": [
+            {
+                "name": "kunkka_high_tide",
+                "color": "Blue",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "kunkka_grog",
+                "color": "Yellow",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "25": [
+            {
+                "name": "lina_supercharge",
+                "color": "Yellow",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "lina_dot",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "lina_slow_burn",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "31": [
+            {
+                "name": "lich_frostbound",
+                "color": "Blue",
+                "icon": "snowflake",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "lich_growing_cold",
+                "color": "Gray",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "26": [
+            {
+                "name": "lion_essence_eater",
+                "color": "Purple",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "lion_fist_of_death",
+                "color": "Red",
+                "icon": "fist",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "27": [
+            {
+                "name": "shadow_shaman_cluster_cluck",
+                "color": "Yellow",
+                "icon": "chicken",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "shadow_shaman_massive_serpent_ward",
+                "color": "Red",
+                "icon": "snake",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "28": [
+            {
+                "name": "slardar_leg_day",
+                "color": "Red",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "slardar_brineguard",
+                "color": "Purple",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "29": [
+            {
+                "name": "tidehunter_kraken_swell",
+                "color": "Green",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "tidehunter_sizescale",
+                "color": "Green",
+                "icon": "overshadow",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "tidehunter_krill_eater",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "30": [
+            {
+                "name": "witch_doctor_headhunter",
+                "color": "Gray",
+                "icon": "ricochet",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "witch_doctor_voodoo_festeration",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "witch_doctor_cleft_death",
+                "color": "Purple",
+                "icon": "death_ward",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "32": [
+            {
+                "name": "riki_contract_killer",
+                "color": "Gray",
+                "icon": "xp",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "riki_exterminator",
+                "color": "Purple",
+                "icon": "agility",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "33": [
+            {
+                "name": "enigma_gravity",
+                "color": "Gray",
+                "icon": "slow",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "enigma_event_horizon",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "enigma_fragment",
+                "color": "Purple",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "enigma_splitting_image",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "34": [
+            {
+                "name": "tinker_repair_bots",
+                "color": "Blue",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "tinker_translocator",
+                "color": "Yellow",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "35": [
+            {
+                "name": "sniper_ghillie_suit",
+                "color": "Yellow",
+                "icon": "vision",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "sniper_scattershot",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "36": [
+            {
+                "name": "necrolyte_profane_potency",
+                "color": "Yellow",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "necrolyte_rapid_decay",
+                "color": "Green",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "37": [
+            {
+                "name": "warlock_golem",
+                "color": "Red",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "warlock_grimoire",
+                "color": "Gray",
+                "icon": "xp",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "warlock_black_grimoire",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "38": [
+            {
+                "name": "beastmaster_wild_hunt",
+                "color": "Red",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "beastmaster_beast_mode",
+                "color": "Yellow",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "39": [
+            {
+                "name": "queenofpain_lifesteal",
+                "color": "Blue",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "queenofpain_succubus",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "queenofpain_selfdmg",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "queenofpain_masochist",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "40": [
+            {
+                "name": "venomancer_patient_zero",
+                "color": "Green",
+                "icon": "snot",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "venomancer_plague_carrier",
+                "color": "Yellow",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "41": [
+            {
+                "name": "faceless_void_temporal_impunity",
+                "color": "Green",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "faceless_void_time_zone",
+                "color": "Purple",
+                "icon": "chrono_cube",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "faceless_void_time_zone",
+                        "slot": null,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "42": [
+            {
+                "name": "skeleton_king_facet_bone_guard",
+                "color": "Yellow",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "skeleton_king_bone_guard",
+                        "slot": 1,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "skeleton_king_facet_cursed_blade",
+                "color": "Red",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "skeleton_king_spectral_blade",
+                        "slot": 1,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "43": [
+            {
+                "name": "death_prophet_suppress",
+                "color": "Purple",
+                "icon": "slow",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "death_prophet_ghosts",
+                "color": "Green",
+                "icon": "spirit",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "death_prophet_spirit_collector",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "44": [
+            {
+                "name": "phantom_assassin_veiled_one",
+                "color": "Blue",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "phantom_assassin_methodical",
+                "color": "Gray",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "45": [
+            {
+                "name": "pugna_siphoning_ward",
+                "color": "Green",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "pugna_rewards_of_ruin",
+                "color": "Purple",
+                "icon": "siege",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "46": [
+            {
+                "name": "templar_assassin_voidblades",
+                "color": "Gray",
+                "icon": "slow",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "templar_assassin_refractor",
+                "color": "Purple",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "47": [
+            {
+                "name": "viper_poison_burst",
+                "color": "Green",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "viper_caustic_bath",
+                "color": "Yellow",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "48": [
+            {
+                "name": "luna_lunar_orbit",
+                "color": "Gray",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "luna_moonstorm",
+                "color": "Blue",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "49": [
+            {
+                "name": "dragon_knight_fire_dragon",
+                "color": "Red",
+                "icon": "dragon_fire",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "dragon_knight_corrosive_dragon",
+                "color": "Green",
+                "icon": "dragon_poison",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "dragon_knight_frost_dragon",
+                "color": "Blue",
+                "icon": "dragon_frost",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "50": [
+            {
+                "name": "dazzle_facet_nothl_boon",
+                "color": "Red",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "dazzle_nothl_boon",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "dazzle_poison_bloom",
+                "color": "Purple",
+                "icon": "ricochet",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "51": [
+            {
+                "name": "rattletrap_hookup",
+                "color": "Gray",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "rattletrap_expanded_armature",
+                "color": "Red",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "52": [
+            {
+                "name": "leshrac_attacks_mana",
+                "color": "Blue",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "leshrac_chronoptic_nourishment",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "leshrac_misanthropy",
+                "color": "Purple",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "53": [
+            {
+                "name": "furion_soothing_saplings",
+                "color": "Green",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "furion_ironwood_treant",
+                "color": "Blue",
+                "icon": "siege",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "54": [
+            {
+                "name": "life_stealer_maxhp_gain",
+                "color": "Yellow",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "life_stealer_corpse_eater",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "life_stealer_rage_dispell",
+                "color": "Red",
+                "icon": "broken_chain",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "life_stealer_unfettered",
+                        "slot": null,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "55": [
+            {
+                "name": "dark_seer_atkspd",
+                "color": "Gray",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "dark_seer_quick_wit",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "dark_seer_movespd",
+                "color": "Purple",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "dark_seer_heart_of_battle",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "56": [
+            {
+                "name": "clinkz_suppressive_fire",
+                "color": "Gray",
+                "icon": "no_vision",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "clinkz_engulfing_step",
+                "color": "Yellow",
+                "icon": "teleport",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "57": [
+            {
+                "name": "omniknight_omnipresent",
+                "color": "Gray",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "omniknight_dmgheals",
+                "color": "Yellow",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "omniknight_healing_hammer",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "58": [
+            {
+                "name": "enchantress_overprotective_wisps",
+                "color": "Green",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "enchantress_spellbound",
+                "color": "Yellow",
+                "icon": "range",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "59": [
+            {
+                "name": "huskar_bloodbath",
+                "color": "Red",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "huskar_nothl_transfusion",
+                "color": "Blue",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "60": [
+            {
+                "name": "night_stalker_blinding_void",
+                "color": "Blue",
+                "icon": "no_vision",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "night_stalker_dayswap",
+                "color": "Gray",
+                "icon": "moon",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "night_stalker_night_reign",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "61": [
+            {
+                "name": "broodmother_necrotic_webs",
+                "color": "Gray",
+                "icon": "debuff",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "broodmother_feeding_frenzy",
+                "color": "Red",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "62": [
+            {
+                "name": "bounty_hunter_shuriken",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "bounty_hunter_mugging",
+                "color": "Yellow",
+                "icon": "gold",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "bounty_hunter_cutpurse",
+                        "slot": null,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "63": [
+            {
+                "name": "weaver_skitterstep",
+                "color": "Red",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "weaver_hivemind",
+                "color": "Blue",
+                "icon": "xp",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "64": [
+            {
+                "name": "jakiro_fire",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "jakiro_liquid_fire",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "jakiro_ice",
+                "color": "Blue",
+                "icon": "snowflake",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "jakiro_liquid_ice",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "65": [
+            {
+                "name": "batrider_buff_on_displacement",
+                "color": "Yellow",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "batrider_stoked",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "batrider_arsonist",
+                "color": "Red",
+                "icon": "siege",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "66": [
+            {
+                "name": "chen_centaur_convert",
+                "color": "Blue",
+                "icon": "area_of_effect",
+                "spellicons": {
+                    "chen_summon_convert": "chen_summon_convert_centaur"
+                },
+                "abilities": null
+            },
+            {
+                "name": "chen_wolf_convert",
+                "color": "Yellow",
+                "icon": "damage",
+                "spellicons": {
+                    "chen_summon_convert": "chen_summon_convert_wolf"
+                },
+                "abilities": null
+            },
+            {
+                "name": "chen_hellbear_convert",
+                "color": "Red",
+                "icon": "slow",
+                "spellicons": {
+                    "chen_summon_convert": "chen_summon_convert_hellbear"
+                },
+                "abilities": null
+            },
+            {
+                "name": "chen_troll_convert",
+                "color": "Green",
+                "icon": "summons",
+                "spellicons": {
+                    "chen_summon_convert": "chen_summon_convert_troll"
+                },
+                "abilities": null
+            },
+            {
+                "name": "chen_satyr_convert",
+                "color": "Purple",
+                "icon": "mana",
+                "spellicons": {
+                    "chen_summon_convert": "chen_summon_convert_satyr"
+                },
+                "abilities": null
+            }
+        ],
+        "67": [
+            {
+                "name": "spectre_forsaken",
+                "color": "Gray",
+                "icon": "spectre",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "spectre_twist_the_knife",
+                "color": "Purple",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "69": [
+            {
+                "name": "doom_bringer_gluttony",
+                "color": "Red",
+                "icon": "meat",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "doom_bringer_boost_selling",
+                "color": "Yellow",
+                "icon": "gold",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "doom_bringer_devils_bargain",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "68": [
+            {
+                "name": "ancient_apparition_bone_chill",
+                "color": "Gray",
+                "icon": "debuff",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "ancient_apparition_exposure",
+                "color": "Blue",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "70": [
+            {
+                "name": "ursa_grudge_bearer",
+                "color": "Red",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "ursa_debuff_reduce",
+                "color": "Blue",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "ursa_bear_down",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "71": [
+            {
+                "name": "spirit_breaker_bull_rush",
+                "color": "Red",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "spirit_breaker_imbalanced",
+                "color": "Blue",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "72": [
+            {
+                "name": "gyrocopter_secondary_strikes",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "gyrocopter_afterburner",
+                "color": "Yellow",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "73": [
+            {
+                "name": "alchemist_seed_money",
+                "color": "Yellow",
+                "icon": "gold",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "alchemist_mixologist",
+                "color": "Purple",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "74": [
+            {
+                "name": "invoker_agnostic",
+                "color": "Purple",
+                "icon": "invoker_passive",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "invoker_elitist",
+                "color": "Gray",
+                "icon": "invoker_active",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "75": [
+            {
+                "name": "silencer_irrepressible",
+                "color": "Purple",
+                "icon": "silencer",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "silencer_irrepressible",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "silencer_reverberating_silence",
+                "color": "Gray",
+                "icon": "debuff",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "76": [
+            {
+                "name": "obsidian_destroyer_obsidian_decimator",
+                "color": "Blue",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "obsidian_destroyer_overwhelming_devourer",
+                "color": "Blue",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "77": [
+            {
+                "name": "lycan_pack_leader",
+                "color": "Gray",
+                "icon": "wolf",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "lycan_spirit_wolves",
+                "color": "Red",
+                "icon": "spirit",
+                "spellicons": {
+                    "lycan_summon_wolves": "lycan_summon_spirit_wolves"
+                },
+                "abilities": null
+            }
+        ],
+        "78": [
+            {
+                "name": "brewmaster_roll_out_the_barrel",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "brewmaster_drunken_master",
+                "color": "Yellow",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "79": [
+            {
+                "name": "shadow_demon_promulgate",
+                "color": "Gray",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "shadow_demon_facet_soul_mastery",
+                "color": "Purple",
+                "icon": "illusion",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "shadow_demon_shadow_servant",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "80": [
+            {
+                "name": "lone_druid_bear_with_me",
+                "color": "Green",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "lone_druid_unbearable",
+                "color": "Yellow",
+                "icon": "overshadow",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "81": [
+            {
+                "name": "chaos_knight_strong_illusions",
+                "color": "Red",
+                "icon": "illusion",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "chaos_knight_phantasmagoria",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "chaos_knight_irrationality",
+                "color": "Gray",
+                "icon": "rng",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "82": [
+            {
+                "name": "meepo_more_meepo",
+                "color": "Blue",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "meepo_pack_rat",
+                "color": "Yellow",
+                "icon": "item",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "meepo_pack_rat",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "83": [
+            {
+                "name": "treant_primeval_power",
+                "color": "Yellow",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "treant_sapling",
+                "color": "Green",
+                "icon": "tree",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "84": [
+            {
+                "name": "ogre_magi_fat_chance",
+                "color": "Red",
+                "icon": "rng",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "ogre_magi_learning_curve",
+                "color": "Blue",
+                "icon": "ogre",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "85": [
+            {
+                "name": "undying_rotting_mitts",
+                "color": "Green",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "undying_ripped",
+                "color": "Red",
+                "icon": "strength",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "86": [
+            {
+                "name": "rubick_frugal_filch",
+                "color": "Purple",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "rubick_arcane_accumulation",
+                "color": "Green",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "87": [
+            {
+                "name": "disruptor_thunderstorm",
+                "color": "Red",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "disruptor_line_walls",
+                "color": "Blue",
+                "icon": "fence",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "disruptor_kinetic_fence",
+                        "slot": null,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "88": [
+            {
+                "name": "nyx_assassin_burn_mana",
+                "color": "Blue",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "nyx_assassin_innate_mana_burn",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "nyx_assassin_scuttle",
+                "color": "Red",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "89": [
+            {
+                "name": "naga_siren_passive_riptide",
+                "color": "Yellow",
+                "icon": "armor_broken",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "naga_siren_rip_tide",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "naga_siren_active_riptide",
+                "color": "Green",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "naga_siren_deluge",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "90": [
+            {
+                "name": "keeper_of_the_light_facet_solar_bind",
+                "color": "Yellow",
+                "icon": "slow",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "keeper_of_the_light_radiant_bind",
+                        "slot": 3,
+                        "autolevel": "true"
+                    }
+                ]
+            },
+            {
+                "name": "keeper_of_the_light_facet_recall",
+                "color": "Gray",
+                "icon": "teleport",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "keeper_of_the_light_recall",
+                        "slot": 3,
+                        "autolevel": "true"
+                    }
+                ]
+            }
+        ],
+        "91": [
+            {
+                "name": "wisp_kritzkrieg",
+                "color": "Blue",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "wisp_medigun",
+                "color": "Gray",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "92": [
+            {
+                "name": "visage_sepulchre",
+                "color": "Gray",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "visage_faithful_followers",
+                "color": "Blue",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "93": [
+            {
+                "name": "slark_leeching_leash",
+                "color": "Green",
+                "icon": "agility",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "slark_dark_reef_renegade",
+                "color": "Blue",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "94": [
+            {
+                "name": "medusa_engorged",
+                "color": "Green",
+                "icon": "snake",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "medusa_mana_pact",
+                "color": "Blue",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "95": [
+            {
+                "name": "troll_warlord_insensitive",
+                "color": "Blue",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "troll_warlord_bad_influence",
+                "color": "Red",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "96": [
+            {
+                "name": "centaur_counter_strike",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "centaur_horsepower",
+                "color": "Gray",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "centaur_horsepower",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "97": [
+            {
+                "name": "magnataur_run_through",
+                "color": "Gray",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "magnataur_reverse_reverse_polarity",
+                "color": "Gray",
+                "icon": "vortex_out",
+                "spellicons": {
+                    "magnataur_reverse_polarity": "magnataur_reversed_reverse_polarity"
+                },
+                "abilities": null
+            }
+        ],
+        "98": [
+            {
+                "name": "shredder_shredder",
+                "color": "Green",
+                "icon": "tree",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "shredder_second_chakram",
+                "color": "Red",
+                "icon": "spinning",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "shredder_twisted_chakram",
+                        "slot": 3,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "99": [
+            {
+                "name": "bristleback_berserk",
+                "color": "Red",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "bristleback_snot_rocket",
+                "color": "Green",
+                "icon": "snot",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "100": [
+            {
+                "name": "tusk_facet_tag_team",
+                "color": "Blue",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "tusk_tag_team",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "tusk_facet_fist_bump",
+                "color": "Yellow",
+                "icon": "movement",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "tusk_drinking_buddies",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "101": [
+            {
+                "name": "skywrath_mage_shield",
+                "color": "Blue",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "skywrath_mage_shield_of_the_scion",
+                        "slot": 3,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "skywrath_mage_staff",
+                "color": "Yellow",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "skywrath_mage_staff_of_the_scion",
+                        "slot": 3,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "102": [
+            {
+                "name": "abaddon_death_dude",
+                "color": "Gray",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "abaddon_the_quickening",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "abaddon_mephitic_shroud",
+                "color": "Blue",
+                "icon": "barrier",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "103": [
+            {
+                "name": "elder_titan_deconstruction",
+                "color": "Blue",
+                "icon": "armor_broken",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "elder_titan_boost_atkspd",
+                "color": "Yellow",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "elder_titan_momentum",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "104": [
+            {
+                "name": "legion_commander_stonehall_plate",
+                "color": "Yellow",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "legion_commander_spoils_of_war",
+                "color": "Red",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "106": [
+            {
+                "name": "ember_spirit_double_impact",
+                "color": "Red",
+                "icon": "fist",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "ember_spirit_chain_gang",
+                "color": "Yellow",
+                "icon": "debuff",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "107": [
+            {
+                "name": "earth_spirit_resonance",
+                "color": "Green",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "earth_spirit_stepping_stone",
+                "color": "Gray",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "109": [
+            {
+                "name": "terrorblade_condemned",
+                "color": "Gray",
+                "icon": "twin_hearts",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "terrorblade_soul_fragment",
+                "color": "Blue",
+                "icon": "illusion",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "110": [
+            {
+                "name": "phoenix_facet_immolate",
+                "color": "Red",
+                "icon": "barrier",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "phoenix_dying_light",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "phoenix_hotspot",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "111": [
+            {
+                "name": "oracle_facet_dmg",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "oracle_clairvoyant_curse",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "oracle_facet_heal",
+                "color": "Green",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "oracle_clairvoyant_cure",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "105": [
+            {
+                "name": "techies_atk_range",
+                "color": "Gray",
+                "icon": "range",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "techies_squees_scope",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "techies_spleens_secret_sauce",
+                "color": "Red",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "techies_backpack",
+                "color": "Blue",
+                "icon": "item",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "techies_spoons_stash",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "112": [
+            {
+                "name": "winter_wyvern_heal_mana",
+                "color": "Blue",
+                "icon": "mana",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "winter_wyvern_essence_of_the_blueheart",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "winter_wyvern_atk_range",
+                "color": "Gray",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "winter_wyvern_dragon_sight",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "113": [
+            {
+                "name": "arc_warden_order",
+                "color": "Gray",
+                "icon": "arc_warden",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "arc_warden_disorder",
+                "color": "Gray",
+                "icon": "arc_warden_alt",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "108": [
+            {
+                "name": "abyssal_underlord_demons_reach",
+                "color": "Green",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "abyssal_underlord_summons",
+                "color": "Yellow",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "abyssal_underlord_abyssal_horde",
+                        "slot": null,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "114": [
+            {
+                "name": "monkey_king_wukongs_faithful",
+                "color": "Red",
+                "icon": "summons",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "monkey_king_simian_stride",
+                "color": "Green",
+                "icon": "tree",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "120": [
+            {
+                "name": "pangolier_double_jump",
+                "color": "Red",
+                "icon": "double_bounce",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "pangolier_thunderbolt",
+                "color": "Yellow",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "119": [
+            {
+                "name": "dark_willow_throwing_shade",
+                "color": "Purple",
+                "icon": "damage",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "dark_willow_thorny_thicket",
+                "color": "Green",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "121": [
+            {
+                "name": "grimstroke_inkstigate",
+                "color": "Gray",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "grimstroke_fine_art",
+                "color": "Red",
+                "icon": "brush",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "129": [
+            {
+                "name": "mars_victory_feast",
+                "color": "Red",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "mars_arena",
+                "color": "Yellow",
+                "icon": "no_vision",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "126": [
+            {
+                "name": "void_spirit_sanctuary",
+                "color": "Purple",
+                "icon": "armor",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "void_spirit_phys_barrier",
+                "color": "Gray",
+                "icon": "nuke",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "void_spirit_symmetry",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ],
+        "128": [
+            {
+                "name": "snapfire_ricochet_ii",
+                "color": "Gray",
+                "icon": "ricochet",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "snapfire_full_bore",
+                "color": "Red",
+                "icon": "range",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "123": [
+            {
+                "name": "hoodwink_hunter",
+                "color": "Yellow",
+                "icon": "range",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "hoodwink_treebounce_trickshot",
+                "color": "Green",
+                "icon": "tree",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "135": [
+            {
+                "name": "dawnbreaker_solar_charged",
+                "color": "Gray",
+                "icon": "cooldown",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "dawnbreaker_gleaming_hammer",
+                "color": "Yellow",
+                "icon": "dawnbreaker_hammer",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "136": [
+            {
+                "name": "marci_sidekick",
+                "color": "Gray",
+                "icon": "healing",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "marci_guardian",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "marci_bodyguard",
+                "color": "Blue",
+                "icon": "ricochet",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "marci_bodyguard",
+                        "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            }
+        ],
+        "137": [
+            {
+                "name": "primal_beast_romp_n_stomp",
+                "color": "Red",
+                "icon": "speed",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "primal_beast_ferocity",
+                "color": "Yellow",
+                "icon": "area_of_effect",
+                "spellicons": null,
+                "abilities": null
+            }
+        ],
+        "138": [
+            {
+                "name": "muerta_dance_of_the_dead",
+                "color": "Green",
+                "icon": "spirit",
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "muerta_ofrenda",
+                "color": "Yellow",
+                "icon": "teleport",
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "muerta_ofrenda",
+                        "slot": 4,
+                        "autolevel": true
+                    }
+                ]
+            }
+        ]
+    }
+}
