@@ -13,6 +13,7 @@
                 "name": "antimage_magebanes_mirror",
                 "color": "Purple",
                 "icon": "ricochet",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -20,6 +21,7 @@
                 "name": "antimage_mana_thirst",
                 "color": "Blue",
                 "icon": "mana",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -29,6 +31,7 @@
                 "name": "axe_one_man_army",
                 "color": "Red",
                 "icon": "strength",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -42,6 +45,7 @@
                 "name": "axe_call_out",
                 "color": "Red",
                 "icon": "armor",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -51,6 +55,7 @@
                 "name": "bane_dream_stalker",
                 "color": "Gray",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -58,6 +63,7 @@
                 "name": "bane_sleepwalk",
                 "color": "Purple",
                 "icon": "movement",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -67,6 +73,7 @@
                 "name": "bloodseeker_arterial_spray",
                 "color": "Red",
                 "icon": "movement",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -74,6 +81,7 @@
                 "name": "bloodseeker_bloodrush",
                 "color": "Gray",
                 "icon": "speed",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -83,6 +91,7 @@
                 "name": "crystal_maiden_frozen_expanse",
                 "color": "Gray",
                 "icon": "area_of_effect",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -90,6 +99,7 @@
                 "name": "crystal_maiden_cold_comfort",
                 "color": "Blue",
                 "icon": "mana",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -99,6 +109,7 @@
                 "name": "drow_ranger_high_ground",
                 "color": "Gray",
                 "icon": "damage",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -112,6 +123,7 @@
                 "name": "drow_ranger_sidestep",
                 "color": "Blue",
                 "icon": "multi_arrow",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -121,6 +133,7 @@
                 "name": "earthshaker_tectonic_buildup",
                 "color": "Red",
                 "icon": "area_of_effect",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -128,6 +141,7 @@
                 "name": "earthshaker_slugger",
                 "color": "Yellow",
                 "icon": "movement",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -137,6 +151,7 @@
                 "name": "juggernaut_bladestorm",
                 "color": "Yellow",
                 "icon": "spinning",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -144,6 +159,7 @@
                 "name": "juggernaut_agigain",
                 "color": "Red",
                 "icon": "agility",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -159,6 +175,7 @@
                 "name": "mirana_moonlight",
                 "color": "Blue",
                 "icon": "moon",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -172,6 +189,7 @@
                 "name": "mirana_sunlight",
                 "color": "Gray",
                 "icon": "sun",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -187,6 +205,7 @@
                 "name": "nevermore_lasting_presence",
                 "color": "Gray",
                 "icon": "armor_broken",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -194,6 +213,7 @@
                 "name": "nevermore_shadowmire",
                 "color": "Red",
                 "icon": "slow",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -203,6 +223,7 @@
                 "name": "morphling_agi",
                 "color": "Green",
                 "icon": "agility",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -216,6 +237,7 @@
                 "name": "morphling_str",
                 "color": "Red",
                 "icon": "strength",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -231,6 +253,7 @@
                 "name": "phantom_lancer_convergence",
                 "color": "Yellow",
                 "icon": "illusion",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -238,6 +261,7 @@
                 "name": "phantom_lancer_divergence",
                 "color": "Blue",
                 "icon": "summons",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -247,6 +271,7 @@
                 "name": "puck_jostling_rift",
                 "color": "Purple",
                 "icon": "movement",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -254,6 +279,7 @@
                 "name": "puck_curveball",
                 "color": "Blue",
                 "icon": "curve_ball",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -263,6 +289,7 @@
                 "name": "pudge_fresh_meat",
                 "color": "Green",
                 "icon": "meat",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -270,6 +297,7 @@
                 "name": "pudge_flayers_hook",
                 "color": "Red",
                 "icon": "pudge_hook",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -279,6 +307,7 @@
                 "name": "razor_thunderhead",
                 "color": "Gray",
                 "icon": "barrier",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -286,6 +315,7 @@
                 "name": "razor_spellamp",
                 "color": "Blue",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -301,6 +331,7 @@
                 "name": "sand_king_sandshroud",
                 "color": "Gray",
                 "icon": "vision",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -308,6 +339,7 @@
                 "name": "sand_king_dust_devil",
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -317,6 +349,7 @@
                 "name": "storm_spirit_shock_collar",
                 "color": "Blue",
                 "icon": "nuke",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -324,6 +357,7 @@
                 "name": "storm_spirit_static_slide",
                 "color": "Gray",
                 "icon": "movement",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -333,6 +367,7 @@
                 "name": "sven_heavy_plate",
                 "color": "Blue",
                 "icon": "armor",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -340,6 +375,7 @@
                 "name": "sven_strscaling",
                 "color": "Red",
                 "icon": "strength",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -355,6 +391,7 @@
                 "name": "tiny_crash_landing",
                 "color": "Gray",
                 "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -362,6 +399,7 @@
                 "name": "tiny_insurmountable",
                 "color": "Green",
                 "icon": "armor",
+                "gradient": 4,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -377,6 +415,7 @@
                 "name": "vengefulspirit_avenging_missile",
                 "color": "Purple",
                 "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -384,6 +423,7 @@
                 "name": "vvengefulspirit_melee",
                 "color": "Blue",
                 "icon": "fist",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -399,6 +439,7 @@
                 "name": "windrunner_tailwind",
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -406,6 +447,7 @@
                 "name": "windrunner_whirlwind",
                 "color": "Green",
                 "icon": "multi_arrow",
+                "gradient": 0,
                 "spellicons": {
                     "windrunner_focusfire": "windrunner_whirlwind",
                     "windrunner_focusfire_cancel": "windrunner_whirlwind_stop"
@@ -418,6 +460,7 @@
                 "name": "zuus_livewire",
                 "color": "Blue",
                 "icon": "range",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -425,6 +468,7 @@
                 "name": "zuus_divine_rampage",
                 "color": "Gray",
                 "icon": "nuke",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -434,6 +478,7 @@
                 "name": "kunkka_high_tide",
                 "color": "Blue",
                 "icon": "cooldown",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -441,6 +486,7 @@
                 "name": "kunkka_grog",
                 "color": "Yellow",
                 "icon": "armor",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -450,6 +496,7 @@
                 "name": "lina_supercharge",
                 "color": "Yellow",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -457,6 +504,7 @@
                 "name": "lina_dot",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -472,6 +520,7 @@
                 "name": "lich_frostbound",
                 "color": "Blue",
                 "icon": "snowflake",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -479,6 +528,7 @@
                 "name": "lich_growing_cold",
                 "color": "Gray",
                 "icon": "cooldown",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -488,6 +538,7 @@
                 "name": "lion_essence_eater",
                 "color": "Purple",
                 "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -495,6 +546,7 @@
                 "name": "lion_fist_of_death",
                 "color": "Red",
                 "icon": "fist",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -504,6 +556,7 @@
                 "name": "shadow_shaman_cluster_cluck",
                 "color": "Yellow",
                 "icon": "chicken",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -511,6 +564,7 @@
                 "name": "shadow_shaman_massive_serpent_ward",
                 "color": "Red",
                 "icon": "snake",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -520,6 +574,7 @@
                 "name": "slardar_leg_day",
                 "color": "Red",
                 "icon": "speed",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -527,6 +582,7 @@
                 "name": "slardar_brineguard",
                 "color": "Purple",
                 "icon": "armor",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -536,6 +592,7 @@
                 "name": "tidehunter_kraken_swell",
                 "color": "Green",
                 "icon": "armor",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -543,6 +600,7 @@
                 "name": "tidehunter_sizescale",
                 "color": "Green",
                 "icon": "overshadow",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -558,6 +616,7 @@
                 "name": "witch_doctor_headhunter",
                 "color": "Gray",
                 "icon": "ricochet",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -565,6 +624,7 @@
                 "name": "witch_doctor_voodoo_festeration",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -572,6 +632,7 @@
                 "name": "witch_doctor_cleft_death",
                 "color": "Purple",
                 "icon": "death_ward",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -581,6 +642,7 @@
                 "name": "riki_contract_killer",
                 "color": "Gray",
                 "icon": "xp",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -588,6 +650,7 @@
                 "name": "riki_exterminator",
                 "color": "Purple",
                 "icon": "agility",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -597,6 +660,7 @@
                 "name": "enigma_gravity",
                 "color": "Gray",
                 "icon": "slow",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -610,6 +674,7 @@
                 "name": "enigma_fragment",
                 "color": "Purple",
                 "icon": "summons",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -625,6 +690,7 @@
                 "name": "tinker_repair_bots",
                 "color": "Blue",
                 "icon": "healing",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -632,6 +698,7 @@
                 "name": "tinker_translocator",
                 "color": "Yellow",
                 "icon": "movement",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -641,6 +708,7 @@
                 "name": "sniper_ghillie_suit",
                 "color": "Yellow",
                 "icon": "vision",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -648,6 +716,7 @@
                 "name": "sniper_scattershot",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -657,6 +726,7 @@
                 "name": "necrolyte_profane_potency",
                 "color": "Yellow",
                 "icon": "area_of_effect",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -664,6 +734,7 @@
                 "name": "necrolyte_rapid_decay",
                 "color": "Green",
                 "icon": "speed",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -673,6 +744,7 @@
                 "name": "warlock_golem",
                 "color": "Red",
                 "icon": "summons",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -680,6 +752,7 @@
                 "name": "warlock_grimoire",
                 "color": "Gray",
                 "icon": "xp",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -695,6 +768,7 @@
                 "name": "beastmaster_wild_hunt",
                 "color": "Red",
                 "icon": "summons",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -702,6 +776,7 @@
                 "name": "beastmaster_beast_mode",
                 "color": "Yellow",
                 "icon": "damage",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -711,6 +786,7 @@
                 "name": "queenofpain_lifesteal",
                 "color": "Blue",
                 "icon": "healing",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -724,6 +800,7 @@
                 "name": "queenofpain_selfdmg",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -739,6 +816,7 @@
                 "name": "venomancer_patient_zero",
                 "color": "Green",
                 "icon": "snot",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -746,6 +824,7 @@
                 "name": "venomancer_plague_carrier",
                 "color": "Yellow",
                 "icon": "summons",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -755,6 +834,7 @@
                 "name": "faceless_void_temporal_impunity",
                 "color": "Green",
                 "icon": "armor",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -762,6 +842,7 @@
                 "name": "faceless_void_time_zone",
                 "color": "Purple",
                 "icon": "chrono_cube",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -777,6 +858,7 @@
                 "name": "skeleton_king_facet_bone_guard",
                 "color": "Yellow",
                 "icon": "summons",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -790,6 +872,7 @@
                 "name": "skeleton_king_facet_cursed_blade",
                 "color": "Red",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -805,6 +888,7 @@
                 "name": "death_prophet_suppress",
                 "color": "Purple",
                 "icon": "slow",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -812,6 +896,7 @@
                 "name": "death_prophet_ghosts",
                 "color": "Green",
                 "icon": "spirit",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -827,6 +912,7 @@
                 "name": "phantom_assassin_veiled_one",
                 "color": "Blue",
                 "icon": "mana",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -834,6 +920,7 @@
                 "name": "phantom_assassin_methodical",
                 "color": "Gray",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -843,6 +930,7 @@
                 "name": "pugna_siphoning_ward",
                 "color": "Green",
                 "icon": "healing",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -850,6 +938,7 @@
                 "name": "pugna_rewards_of_ruin",
                 "color": "Purple",
                 "icon": "siege",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -859,6 +948,7 @@
                 "name": "templar_assassin_voidblades",
                 "color": "Gray",
                 "icon": "slow",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -866,6 +956,7 @@
                 "name": "templar_assassin_refractor",
                 "color": "Purple",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -875,6 +966,7 @@
                 "name": "viper_poison_burst",
                 "color": "Green",
                 "icon": "area_of_effect",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -882,6 +974,7 @@
                 "name": "viper_caustic_bath",
                 "color": "Yellow",
                 "icon": "armor",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -891,6 +984,7 @@
                 "name": "luna_lunar_orbit",
                 "color": "Gray",
                 "icon": "armor",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -898,6 +992,7 @@
                 "name": "luna_moonstorm",
                 "color": "Blue",
                 "icon": "damage",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -907,6 +1002,7 @@
                 "name": "dragon_knight_fire_dragon",
                 "color": "Red",
                 "icon": "dragon_fire",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -914,6 +1010,7 @@
                 "name": "dragon_knight_corrosive_dragon",
                 "color": "Green",
                 "icon": "dragon_poison",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -921,6 +1018,7 @@
                 "name": "dragon_knight_frost_dragon",
                 "color": "Blue",
                 "icon": "dragon_frost",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -930,6 +1028,7 @@
                 "name": "dazzle_facet_nothl_boon",
                 "color": "Red",
                 "icon": "armor",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -943,6 +1042,7 @@
                 "name": "dazzle_poison_bloom",
                 "color": "Purple",
                 "icon": "ricochet",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -952,6 +1052,7 @@
                 "name": "rattletrap_hookup",
                 "color": "Gray",
                 "icon": "cooldown",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -959,6 +1060,7 @@
                 "name": "rattletrap_expanded_armature",
                 "color": "Red",
                 "icon": "area_of_effect",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -968,6 +1070,7 @@
                 "name": "leshrac_attacks_mana",
                 "color": "Blue",
                 "icon": "mana",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -981,6 +1084,7 @@
                 "name": "leshrac_misanthropy",
                 "color": "Purple",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -990,6 +1094,7 @@
                 "name": "furion_soothing_saplings",
                 "color": "Green",
                 "icon": "healing",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -997,6 +1102,7 @@
                 "name": "furion_ironwood_treant",
                 "color": "Blue",
                 "icon": "siege",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1006,6 +1112,7 @@
                 "name": "life_stealer_maxhp_gain",
                 "color": "Yellow",
                 "icon": "armor",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1019,6 +1126,7 @@
                 "name": "life_stealer_rage_dispell",
                 "color": "Red",
                 "icon": "broken_chain",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1034,6 +1142,7 @@
                 "name": "dark_seer_atkspd",
                 "color": "Gray",
                 "icon": "damage",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1047,6 +1156,7 @@
                 "name": "dark_seer_movespd",
                 "color": "Purple",
                 "icon": "speed",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1062,6 +1172,7 @@
                 "name": "clinkz_suppressive_fire",
                 "color": "Gray",
                 "icon": "no_vision",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1069,6 +1180,7 @@
                 "name": "clinkz_engulfing_step",
                 "color": "Yellow",
                 "icon": "teleport",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1078,6 +1190,7 @@
                 "name": "omniknight_omnipresent",
                 "color": "Gray",
                 "icon": "damage",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1085,6 +1198,7 @@
                 "name": "omniknight_dmgheals",
                 "color": "Yellow",
                 "icon": "healing",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1100,6 +1214,7 @@
                 "name": "enchantress_overprotective_wisps",
                 "color": "Green",
                 "icon": "healing",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1107,6 +1222,7 @@
                 "name": "enchantress_spellbound",
                 "color": "Yellow",
                 "icon": "range",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1116,6 +1232,7 @@
                 "name": "huskar_bloodbath",
                 "color": "Red",
                 "icon": "area_of_effect",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1123,6 +1240,7 @@
                 "name": "huskar_nothl_transfusion",
                 "color": "Blue",
                 "icon": "healing",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1132,6 +1250,7 @@
                 "name": "night_stalker_blinding_void",
                 "color": "Blue",
                 "icon": "no_vision",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1139,6 +1258,7 @@
                 "name": "night_stalker_dayswap",
                 "color": "Gray",
                 "icon": "moon",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1154,6 +1274,7 @@
                 "name": "broodmother_necrotic_webs",
                 "color": "Gray",
                 "icon": "debuff",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1161,6 +1282,7 @@
                 "name": "broodmother_feeding_frenzy",
                 "color": "Red",
                 "icon": "summons",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1170,6 +1292,7 @@
                 "name": "bounty_hunter_shuriken",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1177,6 +1300,7 @@
                 "name": "bounty_hunter_mugging",
                 "color": "Yellow",
                 "icon": "gold",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1192,6 +1316,7 @@
                 "name": "weaver_skitterstep",
                 "color": "Red",
                 "icon": "speed",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1199,6 +1324,7 @@
                 "name": "weaver_hivemind",
                 "color": "Blue",
                 "icon": "xp",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1208,6 +1334,7 @@
                 "name": "jakiro_fire",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1221,6 +1348,7 @@
                 "name": "jakiro_ice",
                 "color": "Blue",
                 "icon": "snowflake",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1236,6 +1364,7 @@
                 "name": "batrider_buff_on_displacement",
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1249,6 +1378,7 @@
                 "name": "batrider_arsonist",
                 "color": "Red",
                 "icon": "siege",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1258,6 +1388,7 @@
                 "name": "chen_centaur_convert",
                 "color": "Blue",
                 "icon": "area_of_effect",
+                "gradient": 3,
                 "spellicons": {
                     "chen_summon_convert": "chen_summon_convert_centaur"
                 },
@@ -1267,6 +1398,7 @@
                 "name": "chen_wolf_convert",
                 "color": "Yellow",
                 "icon": "damage",
+                "gradient": 2,
                 "spellicons": {
                     "chen_summon_convert": "chen_summon_convert_wolf"
                 },
@@ -1276,6 +1408,7 @@
                 "name": "chen_hellbear_convert",
                 "color": "Red",
                 "icon": "slow",
+                "gradient": 0,
                 "spellicons": {
                     "chen_summon_convert": "chen_summon_convert_hellbear"
                 },
@@ -1285,6 +1418,7 @@
                 "name": "chen_troll_convert",
                 "color": "Green",
                 "icon": "summons",
+                "gradient": 0,
                 "spellicons": {
                     "chen_summon_convert": "chen_summon_convert_troll"
                 },
@@ -1294,6 +1428,7 @@
                 "name": "chen_satyr_convert",
                 "color": "Purple",
                 "icon": "mana",
+                "gradient": 1,
                 "spellicons": {
                     "chen_summon_convert": "chen_summon_convert_satyr"
                 },
@@ -1305,6 +1440,7 @@
                 "name": "spectre_forsaken",
                 "color": "Gray",
                 "icon": "spectre",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1312,6 +1448,7 @@
                 "name": "spectre_twist_the_knife",
                 "color": "Purple",
                 "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1321,6 +1458,7 @@
                 "name": "doom_bringer_gluttony",
                 "color": "Red",
                 "icon": "meat",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1328,6 +1466,7 @@
                 "name": "doom_bringer_boost_selling",
                 "color": "Yellow",
                 "icon": "gold",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1343,6 +1482,7 @@
                 "name": "ancient_apparition_bone_chill",
                 "color": "Gray",
                 "icon": "debuff",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1350,6 +1490,7 @@
                 "name": "ancient_apparition_exposure",
                 "color": "Blue",
                 "icon": "area_of_effect",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1359,6 +1500,7 @@
                 "name": "ursa_grudge_bearer",
                 "color": "Red",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1366,6 +1508,7 @@
                 "name": "ursa_debuff_reduce",
                 "color": "Blue",
                 "icon": "cooldown",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1381,6 +1524,7 @@
                 "name": "spirit_breaker_bull_rush",
                 "color": "Red",
                 "icon": "speed",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1388,6 +1532,7 @@
                 "name": "spirit_breaker_imbalanced",
                 "color": "Blue",
                 "icon": "movement",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1397,6 +1542,7 @@
                 "name": "gyrocopter_secondary_strikes",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1404,6 +1550,7 @@
                 "name": "gyrocopter_afterburner",
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1413,6 +1560,7 @@
                 "name": "alchemist_seed_money",
                 "color": "Yellow",
                 "icon": "gold",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1420,6 +1568,7 @@
                 "name": "alchemist_mixologist",
                 "color": "Purple",
                 "icon": "cooldown",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1429,6 +1578,7 @@
                 "name": "invoker_agnostic",
                 "color": "Purple",
                 "icon": "invoker_passive",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1436,6 +1586,7 @@
                 "name": "invoker_elitist",
                 "color": "Gray",
                 "icon": "invoker_active",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1445,6 +1596,7 @@
                 "name": "silencer_irrepressible",
                 "color": "Purple",
                 "icon": "silencer",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1458,6 +1610,7 @@
                 "name": "silencer_reverberating_silence",
                 "color": "Gray",
                 "icon": "debuff",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1467,6 +1620,7 @@
                 "name": "obsidian_destroyer_obsidian_decimator",
                 "color": "Blue",
                 "icon": "mana",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1474,6 +1628,7 @@
                 "name": "obsidian_destroyer_overwhelming_devourer",
                 "color": "Blue",
                 "icon": "healing",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1483,6 +1638,7 @@
                 "name": "lycan_pack_leader",
                 "color": "Gray",
                 "icon": "wolf",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1490,6 +1646,7 @@
                 "name": "lycan_spirit_wolves",
                 "color": "Red",
                 "icon": "spirit",
+                "gradient": 0,
                 "spellicons": {
                     "lycan_summon_wolves": "lycan_summon_spirit_wolves"
                 },
@@ -1501,6 +1658,7 @@
                 "name": "brewmaster_roll_out_the_barrel",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1508,6 +1666,7 @@
                 "name": "brewmaster_drunken_master",
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1517,6 +1676,7 @@
                 "name": "shadow_demon_promulgate",
                 "color": "Gray",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1524,6 +1684,7 @@
                 "name": "shadow_demon_facet_soul_mastery",
                 "color": "Purple",
                 "icon": "illusion",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1539,6 +1700,7 @@
                 "name": "lone_druid_bear_with_me",
                 "color": "Green",
                 "icon": "healing",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1546,6 +1708,7 @@
                 "name": "lone_druid_unbearable",
                 "color": "Yellow",
                 "icon": "overshadow",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1555,6 +1718,7 @@
                 "name": "chaos_knight_strong_illusions",
                 "color": "Red",
                 "icon": "illusion",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1568,6 +1732,7 @@
                 "name": "chaos_knight_irrationality",
                 "color": "Gray",
                 "icon": "rng",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1577,6 +1742,7 @@
                 "name": "meepo_more_meepo",
                 "color": "Blue",
                 "icon": "summons",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1584,6 +1750,7 @@
                 "name": "meepo_pack_rat",
                 "color": "Yellow",
                 "icon": "item",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1599,6 +1766,7 @@
                 "name": "treant_primeval_power",
                 "color": "Yellow",
                 "icon": "damage",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1606,6 +1774,7 @@
                 "name": "treant_sapling",
                 "color": "Green",
                 "icon": "tree",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1615,6 +1784,7 @@
                 "name": "ogre_magi_fat_chance",
                 "color": "Red",
                 "icon": "rng",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1622,6 +1792,7 @@
                 "name": "ogre_magi_learning_curve",
                 "color": "Blue",
                 "icon": "ogre",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1631,6 +1802,7 @@
                 "name": "undying_rotting_mitts",
                 "color": "Green",
                 "icon": "summons",
+                "gradient": 4,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1638,6 +1810,7 @@
                 "name": "undying_ripped",
                 "color": "Red",
                 "icon": "strength",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1647,6 +1820,7 @@
                 "name": "rubick_frugal_filch",
                 "color": "Purple",
                 "icon": "mana",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1654,6 +1828,7 @@
                 "name": "rubick_arcane_accumulation",
                 "color": "Green",
                 "icon": "area_of_effect",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1663,6 +1838,7 @@
                 "name": "disruptor_thunderstorm",
                 "color": "Red",
                 "icon": "area_of_effect",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1670,6 +1846,7 @@
                 "name": "disruptor_line_walls",
                 "color": "Blue",
                 "icon": "fence",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1685,6 +1862,7 @@
                 "name": "nyx_assassin_burn_mana",
                 "color": "Blue",
                 "icon": "nuke",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1698,6 +1876,7 @@
                 "name": "nyx_assassin_scuttle",
                 "color": "Red",
                 "icon": "speed",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1707,6 +1886,7 @@
                 "name": "naga_siren_passive_riptide",
                 "color": "Yellow",
                 "icon": "armor_broken",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1720,6 +1900,7 @@
                 "name": "naga_siren_active_riptide",
                 "color": "Green",
                 "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1735,6 +1916,7 @@
                 "name": "keeper_of_the_light_facet_solar_bind",
                 "color": "Yellow",
                 "icon": "slow",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1748,6 +1930,7 @@
                 "name": "keeper_of_the_light_facet_recall",
                 "color": "Gray",
                 "icon": "teleport",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1763,6 +1946,7 @@
                 "name": "wisp_kritzkrieg",
                 "color": "Blue",
                 "icon": "damage",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1770,6 +1954,7 @@
                 "name": "wisp_medigun",
                 "color": "Gray",
                 "icon": "armor",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1779,6 +1964,7 @@
                 "name": "visage_sepulchre",
                 "color": "Gray",
                 "icon": "area_of_effect",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1786,6 +1972,7 @@
                 "name": "visage_faithful_followers",
                 "color": "Blue",
                 "icon": "summons",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1795,6 +1982,7 @@
                 "name": "slark_leeching_leash",
                 "color": "Green",
                 "icon": "agility",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1802,6 +1990,7 @@
                 "name": "slark_dark_reef_renegade",
                 "color": "Blue",
                 "icon": "cooldown",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1811,6 +2000,7 @@
                 "name": "medusa_engorged",
                 "color": "Green",
                 "icon": "snake",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1818,6 +2008,7 @@
                 "name": "medusa_mana_pact",
                 "color": "Blue",
                 "icon": "mana",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1827,6 +2018,7 @@
                 "name": "troll_warlord_insensitive",
                 "color": "Blue",
                 "icon": "armor",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1834,6 +2026,7 @@
                 "name": "troll_warlord_bad_influence",
                 "color": "Red",
                 "icon": "damage",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1843,6 +2036,7 @@
                 "name": "centaur_counter_strike",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1850,6 +2044,7 @@
                 "name": "centaur_horsepower",
                 "color": "Gray",
                 "icon": "speed",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1865,6 +2060,7 @@
                 "name": "magnataur_run_through",
                 "color": "Gray",
                 "icon": "movement",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1872,6 +2068,7 @@
                 "name": "magnataur_reverse_reverse_polarity",
                 "color": "Gray",
                 "icon": "vortex_out",
+                "gradient": 0,
                 "spellicons": {
                     "magnataur_reverse_polarity": "magnataur_reversed_reverse_polarity"
                 },
@@ -1883,6 +2080,7 @@
                 "name": "shredder_shredder",
                 "color": "Green",
                 "icon": "tree",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1890,6 +2088,7 @@
                 "name": "shredder_second_chakram",
                 "color": "Red",
                 "icon": "spinning",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1905,6 +2104,7 @@
                 "name": "bristleback_berserk",
                 "color": "Red",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -1912,6 +2112,7 @@
                 "name": "bristleback_snot_rocket",
                 "color": "Green",
                 "icon": "snot",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1921,6 +2122,7 @@
                 "name": "tusk_facet_tag_team",
                 "color": "Blue",
                 "icon": "damage",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1934,6 +2136,7 @@
                 "name": "tusk_facet_fist_bump",
                 "color": "Yellow",
                 "icon": "movement",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1949,6 +2152,7 @@
                 "name": "skywrath_mage_shield",
                 "color": "Blue",
                 "icon": "armor",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1962,6 +2166,7 @@
                 "name": "skywrath_mage_staff",
                 "color": "Yellow",
                 "icon": "cooldown",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1977,6 +2182,7 @@
                 "name": "abaddon_death_dude",
                 "color": "Gray",
                 "icon": "cooldown",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -1990,6 +2196,7 @@
                 "name": "abaddon_mephitic_shroud",
                 "color": "Blue",
                 "icon": "barrier",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1999,6 +2206,7 @@
                 "name": "elder_titan_deconstruction",
                 "color": "Blue",
                 "icon": "armor_broken",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2006,6 +2214,7 @@
                 "name": "elder_titan_boost_atkspd",
                 "color": "Yellow",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2021,6 +2230,7 @@
                 "name": "legion_commander_stonehall_plate",
                 "color": "Yellow",
                 "icon": "armor",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2028,6 +2238,7 @@
                 "name": "legion_commander_spoils_of_war",
                 "color": "Red",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2037,6 +2248,7 @@
                 "name": "ember_spirit_double_impact",
                 "color": "Red",
                 "icon": "fist",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2044,6 +2256,7 @@
                 "name": "ember_spirit_chain_gang",
                 "color": "Yellow",
                 "icon": "debuff",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2053,6 +2266,7 @@
                 "name": "earth_spirit_resonance",
                 "color": "Green",
                 "icon": "damage",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2060,6 +2274,7 @@
                 "name": "earth_spirit_stepping_stone",
                 "color": "Gray",
                 "icon": "cooldown",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2069,6 +2284,7 @@
                 "name": "terrorblade_condemned",
                 "color": "Gray",
                 "icon": "twin_hearts",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2076,6 +2292,7 @@
                 "name": "terrorblade_soul_fragment",
                 "color": "Blue",
                 "icon": "illusion",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2085,6 +2302,7 @@
                 "name": "phoenix_facet_immolate",
                 "color": "Red",
                 "icon": "barrier",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2098,6 +2316,7 @@
                 "name": "phoenix_hotspot",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2107,6 +2326,7 @@
                 "name": "oracle_facet_dmg",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2120,6 +2340,7 @@
                 "name": "oracle_facet_heal",
                 "color": "Green",
                 "icon": "healing",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2135,6 +2356,7 @@
                 "name": "techies_atk_range",
                 "color": "Gray",
                 "icon": "range",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2148,6 +2370,7 @@
                 "name": "techies_spleens_secret_sauce",
                 "color": "Red",
                 "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2155,6 +2378,7 @@
                 "name": "techies_backpack",
                 "color": "Blue",
                 "icon": "item",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2170,6 +2394,7 @@
                 "name": "winter_wyvern_heal_mana",
                 "color": "Blue",
                 "icon": "mana",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2183,6 +2408,7 @@
                 "name": "winter_wyvern_atk_range",
                 "color": "Gray",
                 "icon": "damage",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2198,6 +2424,7 @@
                 "name": "arc_warden_order",
                 "color": "Gray",
                 "icon": "arc_warden",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2205,6 +2432,7 @@
                 "name": "arc_warden_disorder",
                 "color": "Gray",
                 "icon": "arc_warden_alt",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2214,6 +2442,7 @@
                 "name": "abyssal_underlord_demons_reach",
                 "color": "Green",
                 "icon": "area_of_effect",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2221,6 +2450,7 @@
                 "name": "abyssal_underlord_summons",
                 "color": "Yellow",
                 "icon": "summons",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2236,6 +2466,7 @@
                 "name": "monkey_king_wukongs_faithful",
                 "color": "Red",
                 "icon": "summons",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2243,6 +2474,7 @@
                 "name": "monkey_king_simian_stride",
                 "color": "Green",
                 "icon": "tree",
+                "gradient": 4,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2252,6 +2484,7 @@
                 "name": "pangolier_double_jump",
                 "color": "Red",
                 "icon": "double_bounce",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2259,6 +2492,7 @@
                 "name": "pangolier_thunderbolt",
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2268,6 +2502,7 @@
                 "name": "dark_willow_throwing_shade",
                 "color": "Purple",
                 "icon": "damage",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2275,6 +2510,7 @@
                 "name": "dark_willow_thorny_thicket",
                 "color": "Green",
                 "icon": "area_of_effect",
+                "gradient": 4,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2284,6 +2520,7 @@
                 "name": "grimstroke_inkstigate",
                 "color": "Gray",
                 "icon": "area_of_effect",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2291,6 +2528,7 @@
                 "name": "grimstroke_fine_art",
                 "color": "Red",
                 "icon": "brush",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2300,6 +2538,7 @@
                 "name": "mars_victory_feast",
                 "color": "Red",
                 "icon": "healing",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2307,6 +2546,7 @@
                 "name": "mars_arena",
                 "color": "Yellow",
                 "icon": "no_vision",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2316,6 +2556,7 @@
                 "name": "void_spirit_sanctuary",
                 "color": "Purple",
                 "icon": "armor",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2323,6 +2564,7 @@
                 "name": "void_spirit_phys_barrier",
                 "color": "Gray",
                 "icon": "nuke",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2338,6 +2580,7 @@
                 "name": "snapfire_ricochet_ii",
                 "color": "Gray",
                 "icon": "ricochet",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2345,6 +2588,7 @@
                 "name": "snapfire_full_bore",
                 "color": "Red",
                 "icon": "range",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2354,6 +2598,7 @@
                 "name": "hoodwink_hunter",
                 "color": "Yellow",
                 "icon": "range",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2361,6 +2606,7 @@
                 "name": "hoodwink_treebounce_trickshot",
                 "color": "Green",
                 "icon": "tree",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2370,6 +2616,7 @@
                 "name": "dawnbreaker_solar_charged",
                 "color": "Gray",
                 "icon": "cooldown",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2377,6 +2624,7 @@
                 "name": "dawnbreaker_gleaming_hammer",
                 "color": "Yellow",
                 "icon": "dawnbreaker_hammer",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2386,6 +2634,7 @@
                 "name": "marci_sidekick",
                 "color": "Gray",
                 "icon": "healing",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2399,6 +2648,7 @@
                 "name": "marci_bodyguard",
                 "color": "Blue",
                 "icon": "ricochet",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": [
                     {
@@ -2414,6 +2664,7 @@
                 "name": "primal_beast_romp_n_stomp",
                 "color": "Red",
                 "icon": "speed",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2421,6 +2672,7 @@
                 "name": "primal_beast_ferocity",
                 "color": "Yellow",
                 "icon": "area_of_effect",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2430,6 +2682,7 @@
                 "name": "muerta_dance_of_the_dead",
                 "color": "Green",
                 "icon": "spirit",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             },
@@ -2437,6 +2690,7 @@
                 "name": "muerta_ofrenda",
                 "color": "Yellow",
                 "icon": "teleport",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": [
                     {
