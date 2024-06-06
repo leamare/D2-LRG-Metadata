@@ -1028,7 +1028,7 @@
     "268": {
         "id": 268,
         "name": "item_recipe_holy_locket",
-        "cost": 900,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1037,7 +1037,7 @@
     "269": {
         "id": 269,
         "name": "item_holy_locket",
-        "cost": 2350,
+        "cost": 2250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1775,7 +1775,7 @@
     "126": {
         "id": 126,
         "name": "item_recipe_blade_mail",
-        "cost": 550,
+        "cost": 750,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1784,7 +1784,7 @@
     "127": {
         "id": 127,
         "name": "item_blade_mail",
-        "cost": 2100,
+        "cost": 2300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,

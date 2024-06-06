@@ -193,7 +193,7 @@
         "talents": [
             [
                 "special_bonus_unique_crystal_maiden_6",
-                "special_bonus_hp_250"
+                "special_bonus_hp_200"
             ],
             [
                 "special_bonus_unique_crystal_maiden_5",
@@ -753,7 +753,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_attack_speed_15",
+                "special_bonus_attack_speed_20",
                 "special_bonus_unique_sven_5"
             ],
             [
@@ -796,7 +796,7 @@
         ],
         "talents": [
             [
-                "special_bonus_strength_10",
+                "special_bonus_strength_8",
                 "special_bonus_unique_tiny_4"
             ],
             [
@@ -929,7 +929,7 @@
         ],
         "talents": [
             [
-                "special_bonus_hp_250",
+                "special_bonus_hp_200",
                 "special_bonus_unique_zeus_jump_cooldown"
             ],
             [
@@ -1032,7 +1032,7 @@
                 "special_bonus_unique_lina_6"
             ],
             [
-                "special_bonus_unique_lina_dragon_slave_crits",
+                "special_bonus_unique_lina_crit_debuff",
                 "special_bonus_unique_lina_7"
             ]
         ],
@@ -1145,7 +1145,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_shadow_shaman_hex_damage_amp",
+                "special_bonus_mp_regen_175",
                 "special_bonus_unique_shadow_shaman_6"
             ],
             [
@@ -1192,7 +1192,7 @@
             ],
             [
                 "special_bonus_unique_slardar_2",
-                "special_bonus_hp_325"
+                "special_bonus_hp_275"
             ],
             [
                 "special_bonus_unique_slardar_5",
@@ -2837,7 +2837,7 @@
         ],
         "talents": [
             [
-                "special_bonus_unique_spectre_desolate_radius",
+                "special_bonus_hp_regen_4",
                 "special_bonus_unique_spectre"
             ],
             [
@@ -3416,11 +3416,11 @@
             ],
             [
                 "special_bonus_unique_lone_druid_entangle_dps",
-                "special_bonus_unique_lone_druid_8"
+                "special_bonus_unique_lone_druid_savage_roar_aoe"
             ],
             [
                 "special_bonus_unique_lone_druid_spirit_link_attack_speed",
-                "special_bonus_unique_lone_druid_savage_roar_aoe"
+                "special_bonus_unique_lone_druid_8"
             ]
         ],
         "innate": "lone_druid_spirit_bear",
@@ -4140,7 +4140,7 @@
             ],
             [
                 "special_bonus_unique_centaur_4",
-                "special_bonus_strength_15"
+                "special_bonus_strength_12"
             ],
             [
                 "special_bonus_unique_centaur_5",
