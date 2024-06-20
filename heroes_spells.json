@@ -3132,20 +3132,20 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_invoker_11",
-                "special_bonus_unique_invoker_3"
+                "special_bonus_unique_invoker_3",
+                "special_bonus_unique_invoker_ice_wall_dps"
             ],
             [
-                "special_bonus_unique_invoker_additional_chaos_meteors",
-                "special_bonus_unique_invoker_9"
+                "special_bonus_unique_invoker_9",
+                "special_bonus_unique_invoker_11"
             ],
             [
-                "special_bonus_unique_invoker_2",
-                "special_bonus_unique_invoker_5"
+                "special_bonus_unique_invoker_5",
+                "special_bonus_unique_invoker_additional_chaos_meteors"
             ],
             [
-                "invoker_mastermind",
-                "special_bonus_unique_invoker_13"
+                "special_bonus_unique_invoker_13",
+                "special_bonus_unique_invoker_2"
             ]
         ],
         "innate": [
@@ -3158,7 +3158,8 @@
             "invoker_sun_strike",
             "invoker_forge_spirit",
             "invoker_ice_wall",
-            "invoker_deafening_blast"
+            "invoker_deafening_blast",
+            "invoker_mastermind"
         ],
         "facets": [
             "invoker_agnostic",
