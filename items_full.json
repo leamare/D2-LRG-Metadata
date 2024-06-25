@@ -4178,7 +4178,7 @@
     "1106": {
         "id": 1106,
         "name": "item_recipe_phylactery",
-        "cost": 200,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4187,7 +4187,7 @@
     "1107": {
         "id": 1107,
         "name": "item_phylactery",
-        "cost": 2400,
+        "cost": 2600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4394,7 +4394,7 @@
     "1808": {
         "id": 1808,
         "name": "item_angels_demise",
-        "cost": 5000,
+        "cost": 5200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,

@@ -1404,7 +1404,7 @@
                 "special_bonus_unique_tinker_march_duration"
             ],
             [
-                "special_bonus_unique_tinker_4",
+                "special_bonus_unique_tinker",
                 "special_bonus_unique_tinker_7"
             ],
             [
@@ -1413,7 +1413,7 @@
             ],
             [
                 "special_bonus_unique_tinker_rearm_magic_resistance",
-                "special_bonus_unique_tinker"
+                "special_bonus_unique_tinker_4"
             ]
         ],
         "innate": "tinker_eureka",
@@ -2353,8 +2353,8 @@
             "clinkz_burning_barrage"
         ],
         "aghs": [
-            "clinkz_death_pact",
-            "clinkz_burning_army"
+            "clinkz_burning_army",
+            "clinkz_bone_and_arrow"
         ],
         "aghs_granted": [
             "clinkz_burning_army"
@@ -2658,7 +2658,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_8",
+                "special_bonus_strength_7",
                 "special_bonus_unique_weaver_1"
             ],
             [
@@ -3462,7 +3462,7 @@
                 "special_bonus_unique_chaos_knight_6"
             ],
             [
-                "special_bonus_strength_12",
+                "special_bonus_strength_10",
                 "special_bonus_unique_chaos_knight_8"
             ],
             [
