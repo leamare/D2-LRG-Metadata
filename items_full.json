@@ -1064,7 +1064,7 @@
     "91": {
         "id": 91,
         "name": "item_recipe_urn_of_shadows",
-        "cost": 375,
+        "cost": 280,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1721,7 +1721,7 @@
     "266": {
         "id": 266,
         "name": "item_recipe_spirit_vessel",
-        "cost": 1200,
+        "cost": 900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2549,7 +2549,7 @@
     "227": {
         "id": 227,
         "name": "item_recipe_solar_crest",
-        "cost": 600,
+        "cost": 500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2558,7 +2558,7 @@
     "229": {
         "id": 229,
         "name": "item_solar_crest",
-        "cost": 2700,
+        "cost": 2600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
