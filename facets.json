@@ -1220,7 +1220,7 @@
             },
             {
                 "name": "luna_moonshield",
-                "id": 1,
+                "id": 2,
                 "deprecated": false,
                 "color": "Gray",
                 "icon": "armor",
@@ -1230,7 +1230,7 @@
             },
             {
                 "name": "luna_moonstorm",
-                "id": 2,
+                "id": 3,
                 "deprecated": false,
                 "color": "Blue",
                 "icon": "damage",
@@ -3391,7 +3391,7 @@
         ]
     },
     "id_shifts": {
-        "56": {
+        "5600": {
             "magnataur_reverse_reverse_polarity": {
                 "old": 2,
                 "new": 3
