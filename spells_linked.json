@@ -84,5 +84,10 @@
     "techies_reactive_tazer_stop": "techies_reactive_tazer",
     "grimstroke_return": "grimstroke_spirit_walk",
     "furion_spirit_of_the_forest": "furion_force_of_nature",
-    "chen_summon_convert": "chen_holy_persuasion"
+    "chen_summon_convert": "chen_holy_persuasion",
+    "ringmaster_tame_the_beasts_crack": "ringmaster_tame_the_beasts",
+    "ringmaster_funhouse_mirror": "ringmaster_dark_carnival_souvenirs",
+    "ringmaster_whoopee_cushion": "ringmaster_dark_carnival_souvenirs",
+    "ringmaster_strongman_tonic": "ringmaster_dark_carnival_souvenirs",
+    "ringmaster_empty_souvenir": "ringmaster_dark_carnival_souvenirs"
 }

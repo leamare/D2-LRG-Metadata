@@ -1196,6 +1196,15 @@
         [ 1558653134, 4100, 1 ]
       ]
   },
+  "131":{
+      "tag":"ringmaster",
+      "name":"Ringmaster",
+      "alt":"Great Cogliostro Kettle",
+      "aliases":"puppet master,clockwork marvel",
+      "released": [
+        [ 1724375582, 5601 ]
+      ]
+  },
   "135":{
       "tag":"dawnbreaker",
       "name":"Dawnbreaker",

@@ -65,11 +65,11 @@
                 "special_bonus_unique_axe_culling_blade_speed_duration"
             ],
             [
-                "special_bonus_unique_axe_4",
+                "special_bonus_unique_axe_7",
                 "special_bonus_unique_axe_6"
             ],
             [
-                "special_bonus_unique_axe_7",
+                "special_bonus_unique_axe_4",
                 "special_bonus_unique_axe_5"
             ],
             [
@@ -929,18 +929,18 @@
         "talents": [
             [
                 "special_bonus_hp_200",
-                "special_bonus_unique_zeus_jump_cooldown"
+                "special_bonus_mp_regen_175"
             ],
             [
                 "special_bonus_unique_zeus",
-                "special_bonus_unique_zeus_jump_postjump_movespeed"
+                "special_bonus_unique_zeus_4"
             ],
             [
                 "special_bonus_unique_zeus_3",
                 "special_bonus_unique_zeus_2"
             ],
             [
-                "special_bonus_unique_zeus_4",
+                "special_bonus_unique_zeus_static_field_dmg",
                 "special_bonus_unique_zeus_5"
             ]
         ],
@@ -1188,7 +1188,7 @@
             ],
             [
                 "special_bonus_unique_slardar_2",
-                "special_bonus_hp_275"
+                "special_bonus_hp_300"
             ],
             [
                 "special_bonus_unique_slardar_5",
@@ -1978,11 +1978,11 @@
                 "special_bonus_unique_viper_4"
             ],
             [
-                "special_bonus_unique_viper_6",
+                "special_bonus_unique_viper_7",
                 "special_bonus_unique_viper_3"
             ],
             [
-                "special_bonus_unique_viper_7",
+                "special_bonus_unique_viper_predator_damage",
                 "special_bonus_unique_viper_2"
             ],
             [
@@ -2469,7 +2469,7 @@
             ],
             [
                 "special_bonus_unique_enchantress_5",
-                "special_bonus_attack_damage_45"
+                "special_bonus_unique_enchantress_enchant_attackspeed"
             ],
             [
                 "special_bonus_unique_enchantress_enchant_health_damage",
@@ -2985,10 +2985,10 @@
             ],
             [
                 "special_bonus_unique_ursa_8",
-                "special_bonus_unique_ursa_earthshock_furyswipes"
+                "special_bonus_unique_ursa"
             ],
             [
-                "special_bonus_unique_ursa",
+                "special_bonus_unique_ursa_earthshock_furyswipes",
                 "special_bonus_unique_ursa_2"
             ],
             [
@@ -4399,7 +4399,7 @@
                 "special_bonus_mp_regen_150"
             ],
             [
-                "special_bonus_unique_skywrath_arcane_bolt_lifesteal",
+                "special_bonus_unique_skywrath_concussive_shot_slow",
                 "special_bonus_unique_skywrath"
             ],
             [
@@ -4835,7 +4835,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_attack_damage_35",
+                "special_bonus_attack_damage_30",
                 "special_bonus_unique_winter_wyvern_5"
             ],
             [
@@ -5138,7 +5138,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_mars_bulwark_redirect_chance",
+                "special_bonus_unique_mars_bulwark_damage_reduction",
                 "special_bonus_unique_mars_rebuke_radius"
             ],
             [
@@ -5147,7 +5147,7 @@
             ],
             [
                 "special_bonus_unique_mars_spear_stun_duration",
-                "special_bonus_unique_mars_bulwark_damage_reduction"
+                "special_bonus_unique_mars_arena_cooldown"
             ],
             [
                 "special_bonus_unique_mars_arena_of_blood_hp_regen",
@@ -5481,5 +5481,51 @@
             }
         },
         "linked": null
+    },
+    "131": {
+        "main": [
+            "ringmaster_tame_the_beasts",
+            "ringmaster_the_box",
+            "ringmaster_impalement"
+        ],
+        "ultimate": "ringmaster_wheel",
+        "shard": [
+            "ringmaster_spotlight"
+        ],
+        "shard_granted": [
+            "ringmaster_spotlight"
+        ],
+        "aghs": [],
+        "aghs_granted": [],
+        "talents": [
+            [
+                "special_bonus_unique_ringmaster_dagger_penetrates",
+                "special_bonus_unique_ringmaster_box_cast_range"
+            ],
+            [
+                "special_bonus_unique_ringmaster_dagger_bleed_and_slow_duration",
+                "special_bonus_unique_ringmaster_whip_debuff_immunity"
+            ],
+            [
+                "special_bonus_unique_ringmaster_wheel_radius",
+                "special_bonus_unique_ringmaster_whip_damage"
+            ],
+            [
+                "ringmaster_dark_carnival_souvenirs",
+                "special_bonus_unique_ringmaster_the_box_strong_dispel_and_flying"
+            ]
+        ],
+        "innate": "ringmaster_dark_carnival_souvenirs",
+        "facets": [
+            "ringmaster_default"
+        ],
+        "alts": [],
+        "linked": {
+            "ringmaster_tame_the_beasts_crack": "ringmaster_tame_the_beasts",
+            "ringmaster_funhouse_mirror": "ringmaster_dark_carnival_souvenirs",
+            "ringmaster_whoopee_cushion": "ringmaster_dark_carnival_souvenirs",
+            "ringmaster_strongman_tonic": "ringmaster_dark_carnival_souvenirs",
+            "ringmaster_empty_souvenir": "ringmaster_dark_carnival_souvenirs"
+        }
     }
 }

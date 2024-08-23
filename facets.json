@@ -3388,6 +3388,18 @@
                     }
                 ]
             }
+        ],
+        "131": [
+            {
+                "name": "ringmaster_default",
+                "id": 1,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "item",
+                "gradient": 3,
+                "spellicons": null,
+                "abilities": null
+            }
         ]
     },
     "id_shifts": {
