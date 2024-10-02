@@ -171,7 +171,13 @@
                 "icon": "movement",
                 "gradient": 1,
                 "spellicons": null,
-                "abilities": null
+                "abilities": [
+                    {
+                        "name": "earthshaker_slugger",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
             }
         ],
         "8": [
@@ -2520,7 +2526,7 @@
             },
             {
                 "name": "medusa_slow_attacks",
-                "id": 2,
+                "id": 3,
                 "deprecated": false,
                 "color": "Yellow",
                 "icon": "slow",
@@ -3230,7 +3236,7 @@
             },
             {
                 "name": "void_spirit_aether_artifice",
-                "id": 2,
+                "id": 3,
                 "deprecated": false,
                 "color": "Gray",
                 "icon": "illusion",

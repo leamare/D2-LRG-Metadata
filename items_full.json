@@ -2261,7 +2261,7 @@
     "1565": {
         "id": 1565,
         "name": "item_recipe_gungir",
-        "cost": 250,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2270,7 +2270,7 @@
     "1466": {
         "id": 1466,
         "name": "item_gungir",
-        "cost": 5450,
+        "cost": 5750,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2405,7 +2405,7 @@
     "179": {
         "id": 179,
         "name": "item_recipe_arcane_boots",
-        "cost": 375,
+        "cost": 475,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2414,7 +2414,7 @@
     "180": {
         "id": 180,
         "name": "item_arcane_boots",
-        "cost": 1300,
+        "cost": 1400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2612,7 +2612,7 @@
     "231": {
         "id": 231,
         "name": "item_guardian_greaves",
-        "cost": 4950,
+        "cost": 5050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,

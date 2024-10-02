@@ -19,7 +19,7 @@
         "talents": [
             [
                 "special_bonus_unique_antimage_manavoid_aoe",
-                "special_bonus_unique_antimage_4"
+                "special_bonus_hp_regen_3"
             ],
             [
                 "special_bonus_unique_antimage_5",
@@ -2105,7 +2105,7 @@
                 "special_bonus_unique_dazzle_poison_touch_attack_range_bonus"
             ],
             [
-                "special_bonus_attack_speed_80",
+                "special_bonus_attack_speed_90",
                 "special_bonus_unique_dazzle_2"
             ],
             [
@@ -2776,7 +2776,7 @@
             ],
             [
                 "special_bonus_unique_batrider_5",
-                "special_bonus_unique_batrider_1"
+                "special_bonus_unique_batrider_smoldering_resin_ticks"
             ],
             [
                 "special_bonus_unique_batrider_2",
