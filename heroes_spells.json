@@ -5527,5 +5527,50 @@
             "ringmaster_strongman_tonic": "ringmaster_dark_carnival_souvenirs",
             "ringmaster_empty_souvenir": "ringmaster_dark_carnival_souvenirs"
         }
+    },
+    "145": {
+        "main": [
+            "kez_echo_slash",
+            "kez_grappling_claw",
+            "kez_kazurai_katana"
+        ],
+        "ultimate": "kez_raptor_dance",
+        "shard": [
+            "kez_kazurai_katana"
+        ],
+        "shard_granted": [],
+        "aghs": [
+            "kez_switch_weapons"
+        ],
+        "aghs_granted": [],
+        "talents": [
+            [
+                "special_bonus_mp_regen_150",
+                "special_bonus_magic_resistance_12"
+            ],
+            [
+                "special_bonus_unique_kez_raptor_dance_radius",
+                "special_bonus_unique_kez_falcon_rush_duration"
+            ],
+            [
+                "special_bonus_unique_kez_falcon_rush_evasion",
+                "special_bonus_unique_kez_kazura_katana_bleed_damage"
+            ],
+            [
+                "special_bonus_unique_kez_echo_slash_strike_count",
+                "special_bonus_unique_kez_mark_damage"
+            ]
+        ],
+        "innate": "kez_switch_weapons",
+        "facets": [
+            "kez_default"
+        ],
+        "alts": [],
+        "linked": {
+            "kez_falcon_rush": "kez_echo_slash",
+            "kez_talon_toss": "kez_grappling_claw",
+            "kez_shodo_sai": "kez_kazurai_katana",
+            "kez_ravens_veil": "kez_raptor_dance"
+        }
     }
 }

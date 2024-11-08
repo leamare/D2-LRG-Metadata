@@ -1244,5 +1244,14 @@
       [ 1678144259, 5104 ],
       [ 1682034723, 5200, 1 ]
     ]
+  },
+  "145": {
+    "tag": "kez",
+    "name": "Kez",
+    "alt": "Kazurai Warrior",
+    "aliases": "bird samurai kestrel",
+    "released": [
+      [ 1731032762, 0, 0 ]
+    ]
   }
 }

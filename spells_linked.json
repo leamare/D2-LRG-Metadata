@@ -89,5 +89,9 @@
     "ringmaster_funhouse_mirror": "ringmaster_dark_carnival_souvenirs",
     "ringmaster_whoopee_cushion": "ringmaster_dark_carnival_souvenirs",
     "ringmaster_strongman_tonic": "ringmaster_dark_carnival_souvenirs",
-    "ringmaster_empty_souvenir": "ringmaster_dark_carnival_souvenirs"
+    "ringmaster_empty_souvenir": "ringmaster_dark_carnival_souvenirs",
+    "kez_falcon_rush": "kez_echo_slash",
+    "kez_talon_toss": "kez_grappling_claw",
+    "kez_shodo_sai": "kez_kazurai_katana",
+    "kez_ravens_veil": "kez_raptor_dance"
 }

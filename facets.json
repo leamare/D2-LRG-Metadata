@@ -3406,6 +3406,18 @@
                 "spellicons": null,
                 "abilities": null
             }
+        ],
+        "145": [
+            {
+                "name": "kez_default",
+                "id": 1,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "kez",
+                "gradient": 3,
+                "spellicons": null,
+                "abilities": null
+            }
         ]
     },
     "id_shifts": {
