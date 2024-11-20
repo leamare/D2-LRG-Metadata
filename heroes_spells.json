@@ -1614,7 +1614,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_8",
+                "special_bonus_strength_7",
                 "special_bonus_unique_queen_of_pain_1"
             ],
             [
@@ -1761,8 +1761,8 @@
                 "special_bonus_unique_wraith_king_11"
             ],
             [
-                "special_bonus_attack_speed_70",
-                "special_bonus_cleave_35"
+                "special_bonus_attack_speed_60",
+                "special_bonus_cleave_40"
             ],
             [
                 "special_bonus_unique_wraith_king_4",
@@ -2020,11 +2020,11 @@
             ],
             [
                 "special_bonus_unique_luna_6",
-                "special_bonus_unique_luna_1"
+                "special_bonus_unique_luna_lunar_orbit_glaive_count"
             ],
             [
                 "special_bonus_unique_luna_2",
-                "special_bonus_unique_luna_8"
+                "special_bonus_unique_luna_1"
             ],
             [
                 "special_bonus_unique_luna_5",
@@ -2148,7 +2148,7 @@
         ],
         "talents": [
             [
-                "special_bonus_unique_clockwerk_9",
+                "special_bonus_unique_clockwerk_hookshot_damage",
                 "special_bonus_unique_clockwerk_7"
             ],
             [
@@ -2720,7 +2720,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_jakiro_dualbreath_slow",
+                "special_bonus_unique_jakiro_dualbreath_cooldown",
                 "special_bonus_attack_range_150"
             ],
             [
@@ -4614,15 +4614,15 @@
         ],
         "talents": [
             [
-                "special_bonus_spell_amplify_10",
-                "special_bonus_unique_earth_spirit_4"
+                "special_bonus_spell_amplify_8",
+                "special_bonus_unique_earth_spirit_5"
             ],
             [
                 "special_bonus_unique_earth_spirit",
                 "special_bonus_unique_earth_spirit_8"
             ],
             [
-                "special_bonus_unique_earth_spirit_5",
+                "special_bonus_unique_earth_spirit_4",
                 "special_bonus_unique_earth_spirit_6"
             ],
             [
@@ -5495,7 +5495,9 @@
         "shard_granted": [
             "ringmaster_spotlight"
         ],
-        "aghs": [],
+        "aghs": [
+            "ringmaster_the_box"
+        ],
         "aghs_granted": [],
         "talents": [
             [

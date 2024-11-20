@@ -4385,7 +4385,7 @@
     "1807": {
         "id": 1807,
         "name": "item_recipe_angels_demise",
-        "cost": 600,
+        "cost": 500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4394,7 +4394,7 @@
     "1808": {
         "id": 1808,
         "name": "item_angels_demise",
-        "cost": 5200,
+        "cost": 5100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,

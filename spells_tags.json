@@ -2883,5 +2883,7 @@
     "1513": "special_bonus_unique_kez_echo_slash_strike_count",
     "1514": "special_bonus_unique_kez_mark_damage",
     "1515": "special_bonus_unique_kez_ultimate_cooldown",
-    "1516": "special_bonus_unique_kez_falcon_rush_evasion"
+    "1516": "special_bonus_unique_kez_falcon_rush_evasion",
+    "1495": "special_bonus_hp_regen_3",
+    "1496": "special_bonus_unique_batrider_smoldering_resin_ticks"
 }
