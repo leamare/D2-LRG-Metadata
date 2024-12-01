@@ -2885,5 +2885,7 @@
     "1515": "special_bonus_unique_kez_ultimate_cooldown",
     "1516": "special_bonus_unique_kez_falcon_rush_evasion",
     "1495": "special_bonus_hp_regen_3",
-    "1496": "special_bonus_unique_batrider_smoldering_resin_ticks"
+    "1496": "special_bonus_unique_batrider_smoldering_resin_ticks",
+    "8290": "special_bonus_unique_clockwerk_hookshot_damage",
+    "303": "special_bonus_unique_jakiro_dualbreath_cooldown"
 }
