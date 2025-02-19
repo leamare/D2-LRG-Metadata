@@ -106,7 +106,7 @@
             {
                 "name": "crystal_maiden_frozen_expanse",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "area_of_effect",
                 "gradient": 1,
@@ -116,6 +116,26 @@
             {
                 "name": "crystal_maiden_cold_comfort",
                 "id": 2,
+                "deprecated": true,
+                "color": "Blue",
+                "icon": "mana",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "crystal_maiden_glacial_guard",
+                "id": 3,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "armor",
+                "gradient": 3,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "crystal_maiden_arcane_overflow",
+                "id": 4,
                 "deprecated": false,
                 "color": "Blue",
                 "icon": "mana",
@@ -212,7 +232,7 @@
             {
                 "name": "mirana_moonlight",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "moon",
                 "gradient": 1,
@@ -228,7 +248,7 @@
             {
                 "name": "mirana_sunlight",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "sun",
                 "gradient": 3,
@@ -240,6 +260,26 @@
                         "autolevel": "false"
                     }
                 ]
+            },
+            {
+                "name": "mirana_starstruck",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "no_vision",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "mirana_leaps_and_bounds",
+                "id": 4,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "slow",
+                "gradient": 3,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "11": [
@@ -302,10 +342,10 @@
             {
                 "name": "phantom_lancer_convergence",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "illusion",
-                "gradient": 1,
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
@@ -316,6 +356,16 @@
                 "color": "Blue",
                 "icon": "summons",
                 "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "phantom_lancer_lancelot",
+                "id": 3,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "phantom_lance",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -347,19 +397,29 @@
                 "name": "pudge_fresh_meat",
                 "id": 1,
                 "deprecated": false,
-                "color": "Green",
+                "color": "Red",
                 "icon": "meat",
-                "gradient": 3,
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             },
             {
                 "name": "pudge_flayers_hook",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "pudge_hook",
                 "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "pudge_rotten_core",
+                "id": 3,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "fist",
+                "gradient": 3,
                 "spellicons": null,
                 "abilities": null
             }
@@ -534,7 +594,7 @@
             {
                 "name": "windrunner_focusfire",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "focus_fire",
                 "gradient": 2,
@@ -544,7 +604,7 @@
             {
                 "name": "windrunner_whirlwind",
                 "id": 3,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Green",
                 "icon": "multi_arrow",
                 "gradient": 0,
@@ -552,6 +612,26 @@
                     "windrunner_focusfire": "windrunner_whirlwind",
                     "windrunner_focusfire_cancel": "windrunner_whirlwind_stop"
                 },
+                "abilities": null
+            },
+            {
+                "name": "windrunner_tangled",
+                "id": 4,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "tree",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "windrunner_killshot",
+                "id": 5,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "execute",
+                "gradient": 0,
+                "spellicons": null,
                 "abilities": null
             }
         ],
@@ -675,7 +755,7 @@
             {
                 "name": "shadow_shaman_cluster_cluck",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "chicken",
                 "gradient": 1,
@@ -683,8 +763,24 @@
                 "abilities": null
             },
             {
-                "name": "shadow_shaman_massive_serpent_ward",
+                "name": "shadow_shaman_voodoo_hands",
                 "id": 2,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "chicken",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "shadow_shaman_voodoo_hands",
+                        "slot": 4,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "shadow_shaman_massive_serpent_ward",
+                "id": 3,
                 "deprecated": false,
                 "color": "Red",
                 "icon": "snake",
@@ -951,7 +1047,7 @@
             {
                 "name": "queenofpain_lifesteal",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "healing",
                 "gradient": 0,
@@ -975,6 +1071,22 @@
                 "abilities": [
                     {
                         "name": "queenofpain_masochist",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "queenofpain_facet_bondage",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "twin_hearts",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "queenofpain_bondage",
                         "slot": null,
                         "autolevel": true
                     }
@@ -1085,7 +1197,7 @@
             {
                 "name": "death_prophet_suppress",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Purple",
                 "icon": "slow",
                 "gradient": 2,
@@ -1141,7 +1253,17 @@
                 "id": 2,
                 "deprecated": false,
                 "color": "Gray",
-                "icon": "damage",
+                "icon": "skull",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "phantom_assassin_sweet_release",
+                "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "phantom_ass_dagger",
                 "gradient": 0,
                 "spellicons": null,
                 "abilities": null
@@ -1187,6 +1309,16 @@
                 "color": "Purple",
                 "icon": "damage",
                 "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "templar_assassin_hidden_reach",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "range",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1397,7 +1529,7 @@
             {
                 "name": "life_stealer_rage",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "lifestealer_rage",
                 "gradient": 3,
@@ -1413,7 +1545,7 @@
             {
                 "name": "life_stealer_rage_dispell",
                 "id": 3,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "broken_chain",
                 "gradient": 0,
@@ -1425,6 +1557,26 @@
                         "autolevel": "false"
                     }
                 ]
+            },
+            {
+                "name": "life_stealer_fleshfeast",
+                "id": 4,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "full_heart",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "life_stealer_gorestorm",
+                "id": 5,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "area_of_effect",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "55": [
@@ -1555,8 +1707,18 @@
                 "abilities": null
             },
             {
-                "name": "huskar_nothl_conflagration",
+                "name": "huskar_cauterize",
                 "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "broken_chain",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "huskar_nothl_conflagration",
+                "id": 4,
                 "deprecated": false,
                 "color": "Yellow",
                 "icon": "damage",
@@ -1591,6 +1753,16 @@
                         "autolevel": true
                     }
                 ]
+            },
+            {
+                "name": "night_stalker_voidbringer",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "area_of_effect",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "61": [
@@ -1599,7 +1771,7 @@
                 "id": 1,
                 "deprecated": false,
                 "color": "Gray",
-                "icon": "debuff",
+                "icon": "web",
                 "gradient": 0,
                 "spellicons": null,
                 "abilities": null
@@ -1669,7 +1841,7 @@
             {
                 "name": "jakiro_fire",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "nuke",
                 "gradient": 0,
@@ -1685,7 +1857,7 @@
             {
                 "name": "jakiro_ice",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "snowflake",
                 "gradient": 1,
@@ -1694,6 +1866,32 @@
                     {
                         "name": "jakiro_liquid_ice",
                         "slot": 2,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "jakiro_twin_terror",
+                "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "damage",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "jakiro_ice_breaker",
+                "id": 4,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "snowflake",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "jakiro_ice_path_detonate",
+                        "slot": 7,
                         "autolevel": "false"
                     }
                 ]
@@ -1732,7 +1930,7 @@
                 "name": "chen_centaur_convert",
                 "id": 1,
                 "deprecated": false,
-                "color": "Blue",
+                "color": "Yellow",
                 "icon": "area_of_effect",
                 "gradient": 3,
                 "spellicons": {
@@ -1743,7 +1941,7 @@
             {
                 "name": "chen_wolf_convert",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "damage",
                 "gradient": 2,
@@ -1785,6 +1983,18 @@
                 "gradient": 1,
                 "spellicons": {
                     "chen_summon_convert": "chen_summon_convert_satyr"
+                },
+                "abilities": null
+            },
+            {
+                "name": "chen_frog_convert",
+                "id": 6,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "bubbles",
+                "gradient": 3,
+                "spellicons": {
+                    "chen_summon_convert": "chen_summon_convert_frog"
                 },
                 "abilities": null
             }
@@ -1913,9 +2123,19 @@
             {
                 "name": "spirit_breaker_imbalanced",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "movement",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "spirit_breaker_bulls_hit",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "rng",
                 "gradient": 2,
                 "spellicons": null,
                 "abilities": null
@@ -1963,13 +2183,23 @@
                 "gradient": 2,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "alchemist_dividends",
+                "id": 3,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "aghs",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "74": [
             {
                 "name": "invoker_agnostic",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Purple",
                 "icon": "invoker_passive",
                 "gradient": 0,
@@ -1979,9 +2209,39 @@
             {
                 "name": "invoker_elitist",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "invoker_active",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "invoker_quas_focus",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "invoker_quas",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "invoker_wex_focus",
+                "id": 4,
+                "deprecated": false,
+                "color": "Purple",
+                "icon": "invoker_wex",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "invoker_exort_focus",
+                "id": 5,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "invoker_exort",
                 "gradient": 0,
                 "spellicons": null,
                 "abilities": null
@@ -2185,6 +2445,32 @@
                 "gradient": 0,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "chaos_knight_facet_fundamental_forging",
+                "id": 3,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "item",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "chaos_knight_fundamental_forging",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
+            },
+            {
+                "name": "chaos_knight_cloven_chaos",
+                "id": 4,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "ricochet",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "82": [
@@ -2199,8 +2485,18 @@
                 "abilities": null
             },
             {
-                "name": "meepo_pack_rat",
+                "name": "meepo_codependent",
                 "id": 2,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "illusion",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "meepo_pack_rat",
+                "id": 3,
                 "deprecated": false,
                 "color": "Yellow",
                 "icon": "item",
@@ -2340,13 +2636,7 @@
                 "icon": "nuke",
                 "gradient": 3,
                 "spellicons": null,
-                "abilities": [
-                    {
-                        "name": "nyx_assassin_innate_mana_burn",
-                        "slot": null,
-                        "autolevel": true
-                    }
-                ]
+                "abilities": null
             },
             {
                 "name": "nyx_assassin_scuttle",
@@ -2539,6 +2829,22 @@
                         "autolevel": true
                     }
                 ]
+            },
+            {
+                "name": "medusa_undulation",
+                "id": 4,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "speed",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "medusa_undulation",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
             }
         ],
         "95": [
@@ -2605,7 +2911,7 @@
             {
                 "name": "magnataur_reverse_polarity",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "vortex_in",
                 "gradient": 3,
@@ -2613,9 +2919,29 @@
                 "abilities": null
             },
             {
-                "name": "magnataur_reverse_reverse_polarity",
+                "name": "magnataur_eternal_empowerment",
                 "id": 3,
                 "deprecated": false,
+                "color": "Gray",
+                "icon": "empower",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "magnataur_diminishing_return",
+                "id": 4,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "ricochet",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "magnataur_reverse_reverse_polarity",
+                "id": 5,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "vortex_out",
                 "gradient": 0,
@@ -2657,7 +2983,7 @@
             {
                 "name": "bristleback_berserk",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "damage",
                 "gradient": 0,
@@ -3045,13 +3371,33 @@
                         "autolevel": true
                     }
                 ]
+            },
+            {
+                "name": "winter_wyvern_winterproof",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "tower",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "winter_wyvern_recursive",
+                "id": 4,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "ricochet",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "113": [
             {
                 "name": "arc_warden_order",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "arc_warden",
                 "gradient": 3,
@@ -3061,10 +3407,30 @@
             {
                 "name": "arc_warden_disorder",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "arc_warden_alt",
                 "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "arc_warden_runed_replica",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "arc_warden_alt",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "arc_warden_power_capture",
+                "id": 4,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "rune",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -3155,9 +3521,19 @@
             {
                 "name": "dark_willow_thorny_thicket",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Green",
                 "icon": "area_of_effect",
+                "gradient": 4,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "dark_willow_shattering_crown",
+                "id": 3,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "barrier",
                 "gradient": 4,
                 "spellicons": null,
                 "abilities": null
@@ -3281,9 +3657,19 @@
             {
                 "name": "hoodwink_treebounce_trickshot",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Green",
                 "icon": "tree",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "hoodwink_hipshot",
+                "id": 3,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "cooldown",
                 "gradient": 0,
                 "spellicons": null,
                 "abilities": null
@@ -3303,9 +3689,29 @@
             {
                 "name": "dawnbreaker_gleaming_hammer",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "dawnbreaker_hammer",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "dawnbreaker_blaze",
+                "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "fist",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "dawnbreaker_hearthfire",
+                "id": 4,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "Speed",
                 "gradient": 1,
                 "spellicons": null,
                 "abilities": null
@@ -3315,7 +3721,7 @@
             {
                 "name": "marci_sidekick",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "healing",
                 "gradient": 3,
@@ -3331,7 +3737,7 @@
             {
                 "name": "marci_bodyguard",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "ricochet",
                 "gradient": 1,
@@ -3343,13 +3749,43 @@
                         "autolevel": "false"
                     }
                 ]
+            },
+            {
+                "name": "marci_buddy_system",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "twin_hearts",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "marci_pickmeup",
+                "id": 4,
+                "deprecated": false,
+                "color": "Purple",
+                "icon": "ricochet",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "marci_fleeting_fury",
+                "id": 5,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "fist",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "137": [
             {
                 "name": "primal_beast_romp_n_stomp",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "speed",
                 "gradient": 0,
@@ -3357,8 +3793,18 @@
                 "abilities": null
             },
             {
-                "name": "primal_beast_ferocity",
+                "name": "primal_beast_provoke_the_beast",
                 "id": 2,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "broken_chain",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "primal_beast_ferocity",
+                "id": 3,
                 "deprecated": false,
                 "color": "Yellow",
                 "icon": "area_of_effect",
@@ -3399,21 +3845,83 @@
             {
                 "name": "ringmaster_default",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "item",
                 "gradient": 3,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "ringmaster_carny_classics",
+                "id": 2,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "whoopee_cushion",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "ringmaster_funhouse_mirror",
+                        "slot": 18,
+                        "autolevel": "false"
+                    },
+                    {
+                        "name": "ringmaster_strongman_tonic",
+                        "slot": 19,
+                        "autolevel": "false"
+                    },
+                    {
+                        "name": "ringmaster_whoopee_cushion",
+                        "slot": 20,
+                        "autolevel": "false"
+                    }
+                ]
+            },
+            {
+                "name": "ringmaster_sideshow_secrets",
+                "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "pie",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "ringmaster_crystal_ball",
+                        "slot": 18,
+                        "autolevel": "false"
+                    },
+                    {
+                        "name": "ringmaster_summon_unicycle",
+                        "slot": 19,
+                        "autolevel": "false"
+                    },
+                    {
+                        "name": "ringmaster_weighted_pie",
+                        "slot": 20,
+                        "autolevel": "false"
+                    }
+                ]
             }
         ],
         "145": [
             {
-                "name": "kez_default",
+                "name": "kez_flutter",
                 "id": 1,
                 "deprecated": false,
+                "color": "Yellow",
+                "icon": "kez_flutter",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "kez_shadowhawk",
+                "id": 2,
+                "deprecated": false,
                 "color": "Blue",
-                "icon": "kez",
+                "icon": "kez_shadowhawk",
                 "gradient": 3,
                 "spellicons": null,
                 "abilities": null

@@ -93,5 +93,7 @@
     "kez_falcon_rush": "kez_echo_slash",
     "kez_talon_toss": "kez_grappling_claw",
     "kez_shodo_sai": "kez_kazurai_katana",
-    "kez_ravens_veil": "kez_raptor_dance"
+    "kez_ravens_veil": "kez_raptor_dance",
+    "jakiro_liquid_ice": "jakiro_liquid_fire",
+    "dazzle_nothl_projection": "dazzle_nothl_projection_end"
 }

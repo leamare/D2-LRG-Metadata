@@ -173,7 +173,7 @@
     "244": {
         "id": 244,
         "name": "item_wind_lace",
-        "cost": 250,
+        "cost": 225,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -839,7 +839,7 @@
     "533": {
         "id": 533,
         "name": "item_recipe_witch_blade",
-        "cost": 600,
+        "cost": 250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1181,7 +1181,7 @@
     "100": {
         "id": 100,
         "name": "item_cyclone",
-        "cost": 2625,
+        "cost": 2600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1199,7 +1199,7 @@
     "610": {
         "id": 610,
         "name": "item_wind_waker",
-        "cost": 6825,
+        "cost": 6800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1955,7 +1955,7 @@
     "144": {
         "id": 144,
         "name": "item_recipe_bfury",
-        "cost": 450,
+        "cost": 600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1964,7 +1964,7 @@
     "145": {
         "id": 145,
         "name": "item_bfury",
-        "cost": 4100,
+        "cost": 3900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2054,7 +2054,7 @@
     "152": {
         "id": 152,
         "name": "item_invis_sword",
-        "cost": 3000,
+        "cost": 3350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2072,7 +2072,7 @@
     "249": {
         "id": 249,
         "name": "item_silver_edge",
-        "cost": 5450,
+        "cost": 5800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2171,7 +2171,7 @@
     "159": {
         "id": 159,
         "name": "item_recipe_skadi",
-        "cost": 1300,
+        "cost": 1050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2261,7 +2261,7 @@
     "1565": {
         "id": 1565,
         "name": "item_recipe_gungir",
-        "cost": 550,
+        "cost": 1100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2270,7 +2270,7 @@
     "1466": {
         "id": 1466,
         "name": "item_gungir",
-        "cost": 5750,
+        "cost": 4550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2441,7 +2441,7 @@
     "181": {
         "id": 181,
         "name": "item_orb_of_venom",
-        "cost": 250,
+        "cost": 350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2468,7 +2468,7 @@
     "569": {
         "id": 569,
         "name": "item_orb_of_corrosion",
-        "cost": 875,
+        "cost": 1000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2495,7 +2495,7 @@
     "597": {
         "id": 597,
         "name": "item_recipe_mage_slayer",
-        "cost": 400,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2504,7 +2504,7 @@
     "598": {
         "id": 598,
         "name": "item_mage_slayer",
-        "cost": 2825,
+        "cost": 2800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2522,7 +2522,7 @@
     "185": {
         "id": 185,
         "name": "item_ancient_janggo",
-        "cost": 1650,
+        "cost": 1625,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2558,7 +2558,7 @@
     "229": {
         "id": 229,
         "name": "item_solar_crest",
-        "cost": 2600,
+        "cost": 2575,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2657,7 +2657,7 @@
     "207": {
         "id": 207,
         "name": "item_recipe_abyssal_blade",
-        "cost": 1675,
+        "cost": 1275,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2675,7 +2675,7 @@
     "209": {
         "id": 209,
         "name": "item_recipe_heavens_halberd",
-        "cost": 100,
+        "cost": 275,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2684,7 +2684,7 @@
     "210": {
         "id": 210,
         "name": "item_heavens_halberd",
-        "cost": 3500,
+        "cost": 2600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2720,7 +2720,7 @@
     "214": {
         "id": 214,
         "name": "item_tranquil_boots",
-        "cost": 925,
+        "cost": 900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3809,7 +3809,7 @@
     "910": {
         "id": 910,
         "name": "item_recipe_revenants_brooch",
-        "cost": 800,
+        "cost": 600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -3818,7 +3818,7 @@
     "911": {
         "id": 911,
         "name": "item_revenants_brooch",
-        "cost": 4900,
+        "cost": 3300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -3836,7 +3836,7 @@
     "931": {
         "id": 931,
         "name": "item_boots_of_bearing",
-        "cost": 4275,
+        "cost": 4225,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4169,7 +4169,7 @@
     "1095": {
         "id": 1095,
         "name": "item_lunar_crest",
-        "cost": 2300,
+        "cost": 2275,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4385,7 +4385,7 @@
     "1807": {
         "id": 1807,
         "name": "item_recipe_angels_demise",
-        "cost": 500,
+        "cost": 1500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4394,7 +4394,7 @@
     "1808": {
         "id": 1808,
         "name": "item_angels_demise",
-        "cost": 5100,
+        "cost": 5900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4561,5 +4561,329 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Gris-Gris"
+    },
+    "1575": {
+        "id": 1575,
+        "name": "item_orb_of_frost",
+        "cost": 250,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Orb of Frost"
+    },
+    "1576": {
+        "id": 1576,
+        "name": "item_enhancement_vast",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Vast"
+    },
+    "1577": {
+        "id": 1577,
+        "name": "item_enhancement_quickened",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Quickened"
+    },
+    "1578": {
+        "id": 1578,
+        "name": "item_cursed_circlet",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Accursed"
+    },
+    "1579": {
+        "id": 1579,
+        "name": "item_ogre_heart",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Restorative"
+    },
+    "1580": {
+        "id": 1580,
+        "name": "item_neutral_tabi",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Elusive"
+    },
+    "1581": {
+        "id": 1581,
+        "name": "item_enhancement_audacious",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Audacious"
+    },
+    "1582": {
+        "id": 1582,
+        "name": "item_hellbear_totem",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": ""
+    },
+    "1583": {
+        "id": 1583,
+        "name": "item_enhancement_mystical",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Mystical"
+    },
+    "1584": {
+        "id": 1584,
+        "name": "item_enhancement_alert",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Alert"
+    },
+    "1585": {
+        "id": 1585,
+        "name": "item_enhancement_brawny",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Brawny"
+    },
+    "1586": {
+        "id": 1586,
+        "name": "item_enhancement_tough",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Tough"
+    },
+    "1587": {
+        "id": 1587,
+        "name": "item_enhancement_feverish",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Feverish"
+    },
+    "1588": {
+        "id": 1588,
+        "name": "item_enhancement_fleetfooted",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Fleetfooted"
+    },
+    "1589": {
+        "id": 1589,
+        "name": "item_enhancement_crude",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Crude"
+    },
+    "1590": {
+        "id": 1590,
+        "name": "item_enhancement_boundless",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Boundless"
+    },
+    "1591": {
+        "id": 1591,
+        "name": "item_enhancement_wise",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Wise"
+    },
+    "1592": {
+        "id": 1592,
+        "name": "item_enhancement_timeless",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Timeless"
+    },
+    "1593": {
+        "id": 1593,
+        "name": "item_enhancement_greedy",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Greedy"
+    },
+    "1594": {
+        "id": 1594,
+        "name": "item_enhancement_vampiric",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Vampiric"
+    },
+    "1595": {
+        "id": 1595,
+        "name": "item_enhancement_keen_eyed",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Keen-eyed"
+    },
+    "1596": {
+        "id": 1596,
+        "name": "item_enhancement_evolved",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Evolved"
+    },
+    "1597": {
+        "id": 1597,
+        "name": "item_enhancement_titanic",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Titanic"
+    },
+    "1598": {
+        "id": 1598,
+        "name": "item_unrelenting_eye",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Unrelenting Eye"
+    },
+    "1599": {
+        "id": 1599,
+        "name": "item_mana_draught",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Mana Draught"
+    },
+    "1600": {
+        "id": 1600,
+        "name": "item_rippers_lash",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Ripper's Lash"
+    },
+    "1601": {
+        "id": 1601,
+        "name": "item_crippling_crossbow",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Crippling Crossbow"
+    },
+    "1602": {
+        "id": 1602,
+        "name": "item_gale_guard",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Gale Guard"
+    },
+    "1603": {
+        "id": 1603,
+        "name": "item_gunpowder_gauntlets",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Gunpowder Gauntlet"
+    },
+    "1604": {
+        "id": 1604,
+        "name": "item_searing_signet",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Searing Signet"
+    },
+    "1605": {
+        "id": 1605,
+        "name": "item_serrated_shiv",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Serrated Shiv"
+    },
+    "1606": {
+        "id": 1606,
+        "name": "item_polliwog_charm",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Pollywog Charm"
+    },
+    "1607": {
+        "id": 1607,
+        "name": "item_magnifying_monocle",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Magnifying Monocle"
+    },
+    "1608": {
+        "id": 1608,
+        "name": "item_pyrrhic_cloak",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Pyrrhic Cloak"
+    },
+    "1609": {
+        "id": 1609,
+        "name": "item_madstone_bundle",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Madstone Bundle"
+    },
+    "1610": {
+        "id": 1610,
+        "name": "item_miniboss_minion_summoner",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": ""
     }
 }
