@@ -38,7 +38,8 @@
       "neutral_kobold",
       "neutral_kobold_tunneler",
       "neutral_kobold_taskmaster",
-      "neutral_gnoll_assassin"
+      "neutral_gnoll_assassin",
+      "neutral_tadpole"
     ],
     "medium": [
       "neutral_alpha_wolf",
@@ -49,7 +50,9 @@
       "neutral_ogre_mauler",
       "neutral_ogre_magi",
       "neutral_satyr_trickster",
-      "neutral_satyr_soulstealer"
+      "neutral_satyr_soulstealer",
+      "neutral_froglet",
+      "neutral_froglet_mage"
     ],
     "big": [
       "neutral_dark_troll_warlord",
@@ -59,7 +62,9 @@
       "neutral_wildkin",
       "neutral_enraged_wildkin",
       "neutral_satyr_hellcaller",
-      "neutral_warpine_raider"
+      "neutral_warpine_raider",
+      "neutral_grown_frog",
+      "neutral_grown_frog_mage"
     ],
     "ancients": [
       "neutral_black_drake",
@@ -73,7 +78,9 @@
       "neutral_jungle_stalker",
       "neutral_big_thunder_lizard",
       "neutral_ice_shaman",
-      "neutral_frostbitten_golem"
+      "neutral_frostbitten_golem",
+      "neutral_ancient_frog",
+      "neutral_ancient_frog_mage"
     ]
   },
   "summons": [
