@@ -2675,7 +2675,7 @@
     "209": {
         "id": 209,
         "name": "item_recipe_heavens_halberd",
-        "cost": 275,
+        "cost": 450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
