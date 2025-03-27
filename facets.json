@@ -3924,7 +3924,13 @@
                 "icon": "kez_shadowhawk",
                 "gradient": 3,
                 "spellicons": null,
-                "abilities": null
+                "abilities": [
+                    {
+                        "name": "kez_shadowhawk_passive",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
             }
         ]
     },

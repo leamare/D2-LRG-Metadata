@@ -2950,5 +2950,7 @@
     "1572": "special_bonus_unique_marci_dispose_slow",
     "1573": "special_bonus_unique_marci_rebound_radius",
     "1574": "special_bonus_unique_medusa_gorgons_grasp_volleys",
-    "1611": "gyrocopter_side_gunner"
+    "1611": "gyrocopter_side_gunner",
+    "1612": "kez_shadowhawk_passive",
+    "1613": "special_bonus_unique_dazzle_nothl_projection_duration"
 }

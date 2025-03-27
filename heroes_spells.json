@@ -2117,7 +2117,7 @@
                 "special_bonus_unique_dazzle_poison_touch_attack_range_bonus"
             ],
             [
-                "special_bonus_attack_speed_90",
+                "special_bonus_unique_dazzle_nothl_projection_duration",
                 "special_bonus_unique_dazzle_2"
             ],
             [
@@ -2136,7 +2136,7 @@
         ],
         "alts": [],
         "linked": {
-            "dazzle_nothl_projection": "dazzle_nothl_projection_end"
+            "dazzle_nothl_projection_end": "dazzle_nothl_projection"
         }
     },
     "51": {
@@ -4792,11 +4792,11 @@
                 "special_bonus_unique_oracle_2"
             ],
             [
-                "special_bonus_unique_oracle_5",
+                "special_bonus_unique_oracle_8",
                 "special_bonus_unique_oracle_damage_per_purge"
             ],
             [
-                "special_bonus_unique_oracle_8",
+                "special_bonus_unique_oracle_5",
                 "special_bonus_unique_oracle_6"
             ],
             [
