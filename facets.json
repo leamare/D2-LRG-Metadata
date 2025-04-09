@@ -853,7 +853,7 @@
             {
                 "name": "witch_doctor_voodoo_festeration",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "nuke",
                 "gradient": 2,
@@ -1241,7 +1241,7 @@
             {
                 "name": "phantom_assassin_veiled_one",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "mana",
                 "gradient": 3,
@@ -1689,7 +1689,7 @@
             {
                 "name": "huskar_bloodbath",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "area_of_effect",
                 "gradient": 0,
@@ -1699,7 +1699,7 @@
             {
                 "name": "huskar_nothl_transfusion",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "healing",
                 "gradient": 2,
@@ -2395,7 +2395,7 @@
             {
                 "name": "lone_druid_unbearable",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "overshadow",
                 "gradient": 1,
@@ -2423,7 +2423,7 @@
             {
                 "name": "chaos_knight_strong_illusions",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "illusion",
                 "gradient": 1,
@@ -2497,7 +2497,7 @@
             {
                 "name": "meepo_pack_rat",
                 "id": 3,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "item",
                 "gradient": 1,
