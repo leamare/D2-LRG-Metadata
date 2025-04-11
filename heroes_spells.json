@@ -350,10 +350,10 @@
             "mirana_leap"
         ],
         "ultimate": {
-            "mirana_starstruck": "mirana_invis",
-            "mirana_leaps_and_bounds": "mirana_invis",
             "mirana_moonlight": "mirana_invis",
-            "mirana_sunlight": "mirana_solar_flare"
+            "mirana_sunlight": "mirana_solar_flare",
+            "mirana_starstruck": "mirana_invis",
+            "mirana_leaps_and_bounds": "mirana_invis"
         },
         "shard": [
             "mirana_leap"
@@ -2262,22 +2262,22 @@
                 "special_bonus_unique_furion_3"
             ]
         ],
-        "innate": null,
+        "innate": "furion_spirit_of_the_forest",
         "facets": [
             "furion_soothing_saplings",
             "furion_ironwood_treant"
         ],
         "alts": [],
-        "linked": {
-            "furion_spirit_of_the_forest": "furion_force_of_nature"
-        }
+        "linked": null
     },
     "54": {
         "main": [
             {
-                "0": "life_stealer_rage",
+                "life_stealer_maxhp_gain": "life_stealer_rage",
                 "life_stealer_rage": "life_stealer_rage",
-                "life_stealer_rage_dispell": "life_stealer_unfettered"
+                "life_stealer_rage_dispell": "life_stealer_unfettered",
+                "life_stealer_fleshfeast": "life_stealer_rage",
+                "life_stealer_gorestorm": "life_stealer_rage"
             },
             "life_stealer_open_wounds",
             "life_stealer_ghoul_frenzy"
@@ -2720,9 +2720,10 @@
             "jakiro_dual_breath",
             "jakiro_ice_path",
             {
-                "0": "jakiro_liquid_fire",
                 "jakiro_fire": "jakiro_liquid_fire",
-                "jakiro_ice": "jakiro_liquid_ice"
+                "jakiro_ice": "jakiro_liquid_ice",
+                "jakiro_twin_terror": "jakiro_liquid_fire",
+                "jakiro_ice_breaker": "jakiro_liquid_fire"
             }
         ],
         "ultimate": "jakiro_macropyre",
@@ -5392,9 +5393,11 @@
             "marci_grapple",
             "marci_companion_run",
             {
-                "0": "marci_bodyguard",
                 "marci_sidekick": "marci_guardian",
-                "marci_bodyguard": "marci_bodyguard"
+                "marci_bodyguard": "marci_bodyguard",
+                "marci_buddy_system": "marci_bodyguard",
+                "marci_pickmeup": "marci_bodyguard",
+                "marci_fleeting_fury": "marci_bodyguard"
             }
         ],
         "ultimate": "marci_unleash",
