@@ -1,5 +1,8 @@
 {
-    "0": "ability_base",
+    "0": [
+        "ability_base",
+        "dota_base_ability"
+    ],
     "5001": "default_attack",
     "5002": "attribute_bonus",
     "730": "special_bonus_attributes",
@@ -28,7 +31,10 @@
     "343": "drow_ranger_multishot",
     "5020": "drow_ranger_silence",
     "5632": "drow_ranger_wave_of_silence",
-    "5021": "drow_ranger_trueshot",
+    "5021": [
+        "drow_ranger_trueshot",
+        "drow_ranger_precision_aura"
+    ],
     "5022": "drow_ranger_marksmanship",
     "5023": "earthshaker_fissure",
     "5024": "earthshaker_enchant_totem",
@@ -56,7 +62,10 @@
     "5046": "lion_mana_drain",
     "5047": "lion_finger_of_death",
     "5048": "mirana_arrow",
-    "5049": "mirana_invis",
+    "5049": [
+        "mirana_invis",
+        "mirana_moonlight_shadow"
+    ],
     "5050": "mirana_leap",
     "5051": "mirana_starfall",
     "5052": "morphling_waveform",
@@ -77,7 +86,10 @@
     "5065": "phantom_lancer_spirit_lance",
     "5066": "phantom_lancer_doppelwalk",
     "5067": "phantom_lancer_juxtapose",
-    "5068": "phantom_lancer_phantom_edge",
+    "5068": [
+        "phantom_lancer_phantom_edge",
+        "phantom_lancer_phantom_rush"
+    ],
     "5069": "puck_illusory_orb",
     "5070": "puck_ethereal_jaunt",
     "5071": "puck_waning_rift",
@@ -98,7 +110,10 @@
     "5084": "razor_unstable_current",
     "5085": "razor_eye_of_the_storm",
     "5086": "skeleton_king_hellfire_blast",
-    "5087": "skeleton_king_vampiric_aura",
+    "5087": [
+        "skeleton_king_vampiric_aura",
+        "skeleton_king_bone_guard"
+    ],
     "5088": "skeleton_king_mortal_strike",
     "5089": "skeleton_king_reincarnation",
     "5090": "death_prophet_carrion_swarm",
@@ -117,7 +132,10 @@
     "5101": "storm_spirit_ball_lightning",
     "5102": "sandking_burrowstrike",
     "5103": "sandking_sand_storm",
-    "5104": "sandking_caustic_finale",
+    "5104": [
+        "sandking_caustic_finale",
+        "sand_king_caustic_finale"
+    ],
     "5105": "sandking_epicenter",
     "5106": "tiny_avalanche",
     "5107": "tiny_toss",
@@ -205,8 +223,14 @@
     "5163": "warlock_shadow_word",
     "5164": "warlock_upheaval",
     "5165": "warlock_rain_of_chaos",
-    "5166": "warlock_golem_flaming_fists",
-    "5167": "warlock_golem_permanent_immolation",
+    "5166": [
+        "warlock_golem_flaming_fists",
+        "warlock_champion_of_gorroth_flaming_fists"
+    ],
+    "5167": [
+        "warlock_golem_permanent_immolation",
+        "warlock_champion_of_gorroth_permanent_immolation"
+    ],
     "602": "beastmaster_mark_of_the_beast",
     "5168": "beastmaster_wild_axes",
     "5169": "beastmaster_call_of_the_wild",
@@ -347,7 +371,10 @@
     "5281": "broodmother_incapacitating_bite",
     "5282": "broodmother_insatiable_hunger",
     "873": "broodmother_sticky_snare",
-    "5285": "bounty_hunter_shuriken_toss",
+    "5285": [
+        "bounty_hunter_shuriken_toss",
+        "bounty_hunter_through_and_through_toss"
+    ],
     "5286": "bounty_hunter_jinada",
     "5287": "bounty_hunter_wind_walk",
     "5288": "bounty_hunter_track",
@@ -359,7 +386,10 @@
     "5297": "jakiro_dual_breath",
     "5298": "jakiro_ice_path",
     "5299": "jakiro_liquid_fire",
-    "553": "jakiro_liquid_ice",
+    "553": [
+        "jakiro_liquid_ice",
+        "jakiro_liquid_frost"
+    ],
     "5300": "jakiro_macropyre",
     "5320": "batrider_sticky_napalm",
     "976": "batrider_sticky_napalm_application_damage",
@@ -409,7 +439,10 @@
     "5365": "alchemist_acid_spray",
     "5366": "alchemist_unstable_concoction",
     "5367": "alchemist_unstable_concoction_throw",
-    "5368": "alchemist_goblins_greed",
+    "5368": [
+        "alchemist_goblins_greed",
+        "alchemist_greevils_greed"
+    ],
     "5369": "alchemist_chemical_rage",
     "5370": "invoker_quas",
     "5371": "invoker_wex",
@@ -455,7 +488,10 @@
     "5398": "lycan_shapeshift",
     "5399": "lycan_summon_wolves_critical_strike",
     "5500": "lycan_summon_wolves_invisibility",
-    "5412": "lone_druid_spirit_bear",
+    "5412": [
+        "lone_druid_spirit_bear",
+        "lone_druid_summon_spirit_bear"
+    ],
     "5413": "lone_druid_rabid",
     "7309": "lone_druid_spirit_link",
     "5414": "lone_druid_savage_roar",
@@ -463,11 +499,23 @@
     "5415": "lone_druid_true_form",
     "5416": "lone_druid_true_form_druid",
     "5417": "lone_druid_true_form_battle_cry",
-    "5418": "lone_druid_spirit_bear_return",
-    "5419": "lone_druid_spirit_bear_entangle",
+    "5418": [
+        "lone_druid_spirit_bear_return",
+        "lone_druid_summon_spirit_bear_return"
+    ],
+    "5419": [
+        "lone_druid_spirit_bear_entangle",
+        "lone_druid_summon_spirit_bear_entangle"
+    ],
     "314": "lone_druid_entangling_claws",
-    "7308": "lone_druid_spirit_bear_defender",
-    "5420": "lone_druid_spirit_bear_demolish",
+    "7308": [
+        "lone_druid_spirit_bear_defender",
+        "lone_druid_summon_spirit_bear_defender"
+    ],
+    "5420": [
+        "lone_druid_spirit_bear_demolish",
+        "lone_druid_summon_spirit_bear_demolish"
+    ],
     "5400": "brewmaster_thunder_clap",
     "5401": "brewmaster_drunken_haze",
     "898": "gyrocopter_lock_on",
@@ -551,7 +599,10 @@
     "1008": "naga_siren_reel_in",
     "5471": "keeper_of_the_light_illuminate",
     "5472": "keeper_of_the_light_mana_leak",
-    "532": "keeper_of_the_light_radiant_bind",
+    "532": [
+        "keeper_of_the_light_radiant_bind",
+        "keeper_of_the_light_solar_bind"
+    ],
     "7316": "keeper_of_the_light_will_o_wisp",
     "5473": "keeper_of_the_light_chakra_magic",
     "5501": "keeper_of_the_light_empty1",
@@ -638,7 +689,10 @@
     "5588": "abaddon_borrowed_time",
     "5589": "elder_titan_echo_stomp",
     "5590": "elder_titan_echo_stomp_spirit",
-    "5591": "elder_titan_ancestral_spirit",
+    "5591": [
+        "elder_titan_ancestral_spirit",
+        "elder_titan_astral_spirit"
+    ],
     "5592": "elder_titan_return_spirit",
     "6563": "elder_titan_move_spirit",
     "5593": "elder_titan_natural_order",
@@ -656,7 +710,10 @@
     "5608": "earth_spirit_boulder_smash",
     "5609": "earth_spirit_rolling_boulder",
     "5610": "earth_spirit_geomagnetic_grip",
-    "5611": "earth_spirit_stone_caller",
+    "5611": [
+        "earth_spirit_stone_caller",
+        "earth_spirit_stone_remnant"
+    ],
     "5648": "earth_spirit_petrify",
     "5612": "earth_spirit_magnetize",
     "5613": "abyssal_underlord_firestorm",
@@ -716,13 +773,19 @@
     "6583": "mars_spear",
     "6495": "mars_gods_rebuke",
     "6582": "mars_bulwark",
-    "6598": "mars_arena_of_blood",
+    "6598": [
+        "mars_arena_of_blood",
+        "mars_blood_sport_of_blood"
+    ],
     "6759": "special_bonus_unique_mars_spear_bonus_damage",
     "6756": "special_bonus_unique_mars_gods_rebuke_extra_crit",
     "466": "special_bonus_unique_mars_spear_cooldown",
     "545": "special_bonus_unique_mars_rebuke_cooldown",
     "6584": "special_bonus_unique_mars_spear_stun_duration",
-    "6766": "special_bonus_unique_mars_arena_of_blood_hp_regen",
+    "6766": [
+        "special_bonus_unique_mars_arena_of_blood_hp_regen",
+        "special_bonus_unique_mars_blood_sport_of_blood_hp_regen"
+    ],
     "884": "special_bonus_unique_mars_bulwark_damage_reduction",
     "843": "special_bonus_unique_mars_bulwark_speed",
     "883": "special_bonus_unique_mars_rebuke_slow",
@@ -757,7 +820,10 @@
     "384": "special_bonus_unique_snapfire_7",
     "500": "special_bonus_unique_snapfire_8",
     "989": "special_bonus_unique_snapfire_mortimer_kisses_impact_damage",
-    "9627": "hoodwink_hunters_boomerang",
+    "9627": [
+        "hoodwink_hunters_boomerang",
+        "hoodwink_go_nutss_boomerang"
+    ],
     "8107": "hoodwink_decoy",
     "8429": "hoodwink_acorn_shot",
     "8158": "hoodwink_bushwhack",
@@ -796,15 +862,24 @@
     "8192": "marci_grapple",
     "8198": "marci_unleash",
     "8235": "marci_companion_run",
-    "8234": "marci_guardian",
+    "8234": [
+        "marci_guardian",
+        "marci_sidekick"
+    ],
     "8236": "special_bonus_unique_marci_lunge_ally_absorb",
     "8237": "special_bonus_unique_marci_lunge_damage",
     "8238": "special_bonus_unique_marci_grapple_stun_duration",
-    "8239": "special_bonus_unique_marci_guardian_magic_immune",
+    "8239": [
+        "special_bonus_unique_marci_guardian_magic_immune",
+        "special_bonus_unique_marci_sidekick_magic_immune"
+    ],
     "8240": "special_bonus_unique_marci_unleash_flurry_crits",
     "8244": "special_bonus_unique_marci_unleash_pulse_lunge_refresh",
     "8241": "special_bonus_unique_marci_unleash_silence",
-    "8242": "special_bonus_unique_marci_guardian_lifesteal",
+    "8242": [
+        "special_bonus_unique_marci_guardian_lifesteal",
+        "special_bonus_unique_marci_sidekick_lifesteal"
+    ],
     "8243": "special_bonus_unique_marci_lunge_range",
     "1042": "special_bonus_unique_marci_unleash_speed",
     "8245": "special_bonus_unique_marci_lunge_cooldown",
@@ -1598,7 +1673,10 @@
     "6977": "special_bonus_unique_vengeful_spirit_4",
     "6978": "special_bonus_unique_vengeful_spirit_5",
     "7018": "special_bonus_unique_vengeful_spirit_6",
-    "323": "special_bonus_unique_vengeful_spirit_7",
+    "323": [
+        "special_bonus_unique_vengeful_spirit_7",
+        "special_bonus_unique_luna_lunar_orbit_glaive_count"
+    ],
     "493": "special_bonus_unique_vengeful_spirit_8",
     "790": "special_bonus_unique_vengeful_spirit_9",
     "1067": "special_bonus_unique_vengeful_spirit_missile_castrange",
@@ -2488,12 +2566,18 @@
     "5407": "tidehunter_dead_in_the_water",
     "1476": "beastmaster_hawk_perch",
     "1136": "bounty_hunter_wind_walk_ally",
-    "1144": "lone_druid_spirit_bear_fetch",
+    "1144": [
+        "lone_druid_spirit_bear_fetch",
+        "lone_druid_summon_spirit_bear_fetch"
+    ],
     "1135": "centaur_work_horse",
     "7246": "grimstroke_return",
     "1134": "special_bonus_unique_hoodwink_sharpshooter_damage",
     "1138": "special_bonus_unique_marci_lunge_movespeed",
-    "1139": "special_bonus_unique_marci_guardian_damage",
+    "1139": [
+        "special_bonus_unique_marci_guardian_damage",
+        "special_bonus_unique_marci_sidekick_damage"
+    ],
     "1147": "techies_reactive_tazer_stop",
     "1140": "arc_warden_tempest_recall",
     "1137": "special_bonus_unique_razor_storm_surge_damage_and_slow",
