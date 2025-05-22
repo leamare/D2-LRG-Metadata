@@ -1064,7 +1064,7 @@
     "91": {
         "id": 91,
         "name": "item_recipe_urn_of_shadows",
-        "cost": 280,
+        "cost": 320,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1073,7 +1073,7 @@
     "92": {
         "id": 92,
         "name": "item_urn_of_shadows",
-        "cost": 880,
+        "cost": 825,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1730,7 +1730,7 @@
     "267": {
         "id": 267,
         "name": "item_spirit_vessel",
-        "cost": 2780,
+        "cost": 2725,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2171,7 +2171,7 @@
     "159": {
         "id": 159,
         "name": "item_recipe_skadi",
-        "cost": 1050,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2180,7 +2180,7 @@
     "160": {
         "id": 160,
         "name": "item_skadi",
-        "cost": 5300,
+        "cost": 5900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2207,7 +2207,7 @@
     "163": {
         "id": 163,
         "name": "item_recipe_helm_of_the_dominator",
-        "cost": 650,
+        "cost": 1125,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2216,7 +2216,7 @@
     "164": {
         "id": 164,
         "name": "item_helm_of_the_dominator",
-        "cost": 2625,
+        "cost": 2550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2234,7 +2234,7 @@
     "635": {
         "id": 635,
         "name": "item_helm_of_the_overlord",
-        "cost": 5725,
+        "cost": 5650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2468,7 +2468,7 @@
     "569": {
         "id": 569,
         "name": "item_orb_of_corrosion",
-        "cost": 1000,
+        "cost": 1050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4385,7 +4385,7 @@
     "1807": {
         "id": 1807,
         "name": "item_recipe_angels_demise",
-        "cost": 1500,
+        "cost": 1300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4394,7 +4394,7 @@
     "1808": {
         "id": 1808,
         "name": "item_angels_demise",
-        "cost": 5900,
+        "cost": 5700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4565,7 +4565,7 @@
     "1575": {
         "id": 1575,
         "name": "item_orb_of_frost",
-        "cost": 250,
+        "cost": 300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4885,5 +4885,158 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": ""
+    },
+    "1636": {
+        "id": 1636,
+        "name": "item_crystal_raindrop",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Crystal Raindrop"
+    },
+    "1637": {
+        "id": 1637,
+        "name": "item_kobold_cup",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Kobold Cup"
+    },
+    "1638": {
+        "id": 1638,
+        "name": "item_dormant_curio",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Dormant Curio"
+    },
+    "1639": {
+        "id": 1639,
+        "name": "item_sisters_shroud",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Sister's Shroud"
+    },
+    "1640": {
+        "id": 1640,
+        "name": "item_jidi_pollen_bag",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Jidi Pollen Bag"
+    },
+    "1641": {
+        "id": 1641,
+        "name": "item_outworld_staff",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Outworld Staff"
+    },
+    "1642": {
+        "id": 1642,
+        "name": "item_dezun_bloodrite",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Dezun Bloodrite"
+    },
+    "1643": {
+        "id": 1643,
+        "name": "item_giant_maul",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Giant's Maul"
+    },
+    "1644": {
+        "id": 1644,
+        "name": "item_divine_regalia",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Divine Regalia"
+    },
+    "1645": {
+        "id": 1645,
+        "name": "item_divine_regalia_broken",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Disgraced Regalia"
+    },
+    "1646": {
+        "id": 1646,
+        "name": "item_circlet_of_the_flayed_twins",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Circlet of the Flayed Twins"
+    },
+    "1647": {
+        "id": 1647,
+        "name": "item_enhancement_fierce",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Fierce"
+    },
+    "1648": {
+        "id": 1648,
+        "name": "item_enhancement_dominant",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Dominant"
+    },
+    "1649": {
+        "id": 1649,
+        "name": "item_enhancement_restorative",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Restorative"
+    },
+    "1650": {
+        "id": 1650,
+        "name": "item_enhancement_thick",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Thick"
+    },
+    "1651": {
+        "id": 1651,
+        "name": "item_enhancement_curious",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Unleashed"
+    },
+    "1652": {
+        "id": 1652,
+        "name": "item_furion_gold_bag",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Bag of Gold"
     }
 }

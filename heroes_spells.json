@@ -146,7 +146,7 @@
         "talents": [
             [
                 "special_bonus_unique_bloodseeker_6",
-                "special_bonus_unique_bloodseeker_5"
+                "special_bonus_hp_175"
             ],
             [
                 "special_bonus_unique_bloodseeker_2",
@@ -164,7 +164,8 @@
         "innate": "bloodseeker_sanguivore",
         "facets": [
             "bloodseeker_arterial_spray",
-            "bloodseeker_bloodrush"
+            "bloodseeker_bloodrush",
+            "bloodseeker_old_blood"
         ],
         "alts": [],
         "linked": null
@@ -292,10 +293,11 @@
                 "special_bonus_unique_earthshaker_echo_cd"
             ]
         ],
-        "innate": "earthshaker_spirit_cairn",
+        "innate": "earthshaker_slugger",
         "facets": [
             "earthshaker_tectonic_buildup",
-            "earthshaker_slugger"
+            "earthshaker_slugger",
+            "earthshaker_reverberating_ridge"
         ],
         "alts": [],
         "linked": null
@@ -327,7 +329,7 @@
                 "special_bonus_unique_juggernaut_healing_ward_heal"
             ],
             [
-                "special_bonus_unique_juggernaut_blade_fury_cooldown",
+                "special_bonus_unique_juggernaut",
                 "special_bonus_unique_juggernaut_2"
             ],
             [
@@ -466,7 +468,7 @@
                 "special_bonus_unique_morphling_1"
             ],
             [
-                "special_bonus_agility_20",
+                "special_bonus_agility_15",
                 "special_bonus_unique_morphling_7"
             ],
             [
@@ -499,7 +501,7 @@
         ],
         "shard_granted": [],
         "aghs": [
-            "phantom_lancer_spirit_lance"
+            "phantom_lancer_phantom_edge"
         ],
         "aghs_granted": [],
         "talents": [
@@ -513,7 +515,7 @@
             ],
             [
                 "special_bonus_unique_phantom_lancer_6",
-                "special_bonus_unique_phantom_lancer"
+                "special_bonus_unique_phantom_lancer_lance_illusion_damage"
             ],
             [
                 "special_bonus_unique_phantom_lancer_illusory_armaments_dmg",
@@ -693,7 +695,9 @@
         "innate": "sandking_caustic_finale",
         "facets": [
             "sand_king_sandshroud",
-            "sand_king_dust_devil"
+            "sand_king_dust_devil",
+            "sand_king_obscurity",
+            "sand_king_pinpoint"
         ],
         "alts": [],
         "linked": null
@@ -936,10 +940,10 @@
         "talents": [
             [
                 "special_bonus_hp_200",
-                "special_bonus_mp_regen_175"
+                "special_bonus_unique_zeus"
             ],
             [
-                "special_bonus_unique_zeus",
+                "special_bonus_unique_zeus_6",
                 "special_bonus_unique_zeus_4"
             ],
             [
@@ -1085,7 +1089,8 @@
         "innate": "lich_death_charge",
         "facets": [
             "lich_frostbound",
-            "lich_growing_cold"
+            "lich_growing_cold",
+            "lich_cryophobia"
         ],
         "alts": [],
         "linked": null
@@ -1300,7 +1305,8 @@
         "facets": [
             "witch_doctor_headhunter",
             "witch_doctor_voodoo_festeration",
-            "witch_doctor_cleft_death"
+            "witch_doctor_cleft_death",
+            "witch_doctor_malpractice"
         ],
         "alts": [],
         "linked": null
@@ -1673,7 +1679,7 @@
                 "special_bonus_unique_venomancer_8"
             ],
             [
-                "special_bonus_unique_venomancer_gale_plagueward",
+                "special_bonus_attack_base_damage_50",
                 "special_bonus_unique_venomancer_4"
             ],
             [
@@ -1838,19 +1844,19 @@
         "main": [
             "phantom_assassin_stifling_dagger",
             "phantom_assassin_phantom_strike",
-            "phantom_assassin_blur"
+            "phantom_assassin_immaterial"
         ],
         "ultimate": "phantom_assassin_coup_de_grace",
         "shard": [
-            "phantom_assassin_fan_of_knives"
-        ],
-        "shard_granted": [
-            "phantom_assassin_fan_of_knives"
-        ],
-        "aghs": [
             "phantom_assassin_blur"
         ],
-        "aghs_granted": [],
+        "shard_granted": [],
+        "aghs": [
+            "phantom_assassin_fan_of_knives"
+        ],
+        "aghs_granted": [
+            "phantom_assassin_fan_of_knives"
+        ],
         "talents": [
             [
                 "special_bonus_unique_phantom_assassin_7",
@@ -1869,7 +1875,7 @@
                 "special_bonus_unique_phantom_assassin_2"
             ]
         ],
-        "innate": "phantom_assassin_immaterial",
+        "innate": "phantom_assassin_blur",
         "facets": [
             "phantom_assassin_veiled_one",
             "phantom_assassin_methodical",
@@ -2168,7 +2174,7 @@
                 "special_bonus_unique_clockwerk_5"
             ],
             [
-                "special_bonus_unique_clockwerk_flare_damage",
+                "special_bonus_unique_clockwerk_2",
                 "special_bonus_unique_clockwerk_4"
             ],
             [
@@ -2179,7 +2185,8 @@
         "innate": "rattletrap_armor_power",
         "facets": [
             "rattletrap_hookup",
-            "rattletrap_expanded_armature"
+            "rattletrap_expanded_armature",
+            "rattletrap_junk_mail"
         ],
         "alts": [],
         "linked": null
@@ -2250,7 +2257,7 @@
                 "special_bonus_unique_furion_6"
             ],
             [
-                "special_bonus_unique_furion_teleportation_barrier",
+                "special_bonus_unique_furion_8",
                 "special_bonus_unique_furion_2"
             ],
             [
@@ -2265,9 +2272,14 @@
         "innate": "furion_spirit_of_the_forest",
         "facets": [
             "furion_soothing_saplings",
-            "furion_ironwood_treant"
+            "furion_ironwood_treant",
+            "furion_natures_profit"
         ],
-        "alts": [],
+        "alts": {
+            "7": {
+                "furion_natures_profit": "furion_natures_profit"
+            }
+        },
         "linked": null
     },
     "54": {
@@ -2397,7 +2409,7 @@
             ],
             [
                 "special_bonus_unique_clinkz_9",
-                "special_bonus_attack_range_75"
+                "special_bonus_attack_range_60"
             ],
             [
                 "special_bonus_unique_clinkz_7",
@@ -2571,7 +2583,7 @@
                 "special_bonus_unique_night_stalker_3"
             ],
             [
-                "special_bonus_strength_20",
+                "special_bonus_strength_15",
                 "special_bonus_unique_night_stalker_crippling_fear_damage"
             ],
             [
@@ -2612,11 +2624,11 @@
             ],
             [
                 "special_bonus_unique_broodmother_7",
-                "special_bonus_unique_broodmother_5"
+                "special_bonus_unique_broodmother_2"
             ],
             [
                 "special_bonus_attack_speed_35",
-                "special_bonus_unique_broodmother_2"
+                "special_bonus_unique_broodmother_5"
             ],
             [
                 "special_bonus_unique_broodmother_4",
@@ -2650,7 +2662,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_attack_damage_20",
+                "special_bonus_attack_damage_25",
                 "special_bonus_unique_bounty_hunter_5"
             ],
             [
@@ -2783,8 +2795,7 @@
         ],
         "ultimate": "batrider_flaming_lasso",
         "shard": [
-            "batrider_sticky_napalm",
-            "batrider_flaming_lasso"
+            "batrider_sticky_napalm"
         ],
         "shard_granted": [],
         "aghs": [
@@ -2828,7 +2839,9 @@
         "ultimate": "chen_hand_of_god",
         "shard": null,
         "shard_granted": [],
-        "aghs": [],
+        "aghs": [
+            "chen_hand_of_god"
+        ],
         "aghs_granted": [],
         "talents": [
             [
@@ -2841,7 +2854,7 @@
             ],
             [
                 "special_bonus_unique_chen_4",
-                "special_bonus_unique_chen_7"
+                "special_bonus_unique_chen_divine_favor_healing"
             ],
             [
                 "special_bonus_unique_chen_2",
@@ -3168,18 +3181,18 @@
         ],
         "ultimate": "invoker_invoke",
         "shard": [
+            "invoker_ghost_walk",
             "invoker_emp",
-            "invoker_sun_strike",
-            "invoker_ice_wall"
+            "invoker_sun_strike"
         ],
         "shard_granted": [],
         "aghs": [
             "invoker_quas",
             "invoker_wex",
             "invoker_exort",
-            "invoker_ghost_walk",
             "invoker_tornado",
-            "invoker_sun_strike"
+            "invoker_sun_strike",
+            "invoker_ice_wall"
         ],
         "aghs_granted": [],
         "talents": [
@@ -3189,7 +3202,7 @@
             ],
             [
                 "special_bonus_unique_invoker_9",
-                "special_bonus_unique_invoker_11"
+                "special_bonus_unique_invoker_facet_orb_level"
             ],
             [
                 "special_bonus_unique_invoker_5",
@@ -3213,8 +3226,6 @@
             "invoker_deafening_blast"
         ],
         "facets": [
-            "invoker_agnostic",
-            "invoker_elitist",
             "invoker_quas_focus",
             "invoker_wex_focus",
             "invoker_exort_focus"
@@ -3230,7 +3241,6 @@
         ],
         "ultimate": "silencer_global_silence",
         "shard": [
-            "silencer_glaives_of_wisdom",
             "silencer_brain_drain"
         ],
         "shard_granted": [],
@@ -3249,7 +3259,7 @@
             ],
             [
                 "special_bonus_unique_silencer_4",
-                "special_bonus_unique_silencer_glaives_bounces"
+                "special_bonus_unique_silencer_5"
             ],
             [
                 "special_bonus_unique_silencer_arcane_curse_charges",
@@ -3259,7 +3269,9 @@
         "innate": "silencer_brain_drain",
         "facets": [
             "silencer_irrepressible",
-            "silencer_reverberating_silence"
+            "silencer_reverberating_silence",
+            "silencer_spread_the_knowledge",
+            "silencer_oppressive_silence"
         ],
         "alts": [],
         "linked": null
@@ -3281,7 +3293,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_mp_250",
+                "special_bonus_mp_200",
                 "special_bonus_unique_outworld_devourer_astral_castrange"
             ],
             [
@@ -3376,7 +3388,7 @@
                 "special_bonus_unique_brewmaster_5"
             ],
             [
-                "special_bonus_attack_speed_100",
+                "special_bonus_attack_speed_110",
                 "special_bonus_unique_brewmaster"
             ],
             [
@@ -3622,10 +3634,7 @@
                 "special_bonus_unique_treant_14"
             ]
         ],
-        "innate": [
-            "treant_natures_guise",
-            "treant_innate_attack_damage"
-        ],
+        "innate": "treant_natures_guise",
         "facets": [
             "treant_primeval_power",
             "treant_sapling"
@@ -3784,11 +3793,11 @@
                 "special_bonus_movement_speed_20"
             ],
             [
-                "special_bonus_unique_disruptor_7",
+                "special_bonus_unique_disruptor",
                 "special_bonus_unique_disruptor_9"
             ],
             [
-                "special_bonus_unique_disruptor",
+                "special_bonus_unique_disruptor_7",
                 "special_bonus_unique_disruptor_5"
             ],
             [
@@ -3799,7 +3808,8 @@
         "innate": "disruptor_electromagnetic_repulsion",
         "facets": [
             "disruptor_thunderstorm",
-            "disruptor_line_walls"
+            "disruptor_line_walls",
+            "disruptor_conduit"
         ],
         "alts": [],
         "linked": null
@@ -3881,7 +3891,7 @@
                 "special_bonus_unique_naga_siren_5"
             ],
             [
-                "special_bonus_unique_naga_siren_net_breaks",
+                "special_bonus_agility_25",
                 "special_bonus_unique_naga_siren_6"
             ]
         ],
@@ -3988,7 +3998,7 @@
                 "special_bonus_unique_wisp_9"
             ]
         ],
-        "innate": "wisp_sight_seer",
+        "innate": "wisp_essence_conduction",
         "facets": [
             "wisp_kritzkrieg",
             "wisp_medigun"
@@ -4435,7 +4445,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_skywrath_2",
+                "special_bonus_unique_skywrath_6",
                 "special_bonus_mp_regen_150"
             ],
             [
@@ -4448,7 +4458,7 @@
             ],
             [
                 "special_bonus_unique_skywrath_5",
-                "special_bonus_unique_skywrath_6"
+                "special_bonus_unique_skywrath_2"
             ]
         ],
         "innate": "skywrath_mage_ruin_and_restoration",
@@ -4472,7 +4482,7 @@
         ],
         "ultimate": "abaddon_borrowed_time",
         "shard": [
-            "abaddon_death_coil"
+            "abaddon_aphotic_shield"
         ],
         "shard_granted": [],
         "aghs": [
@@ -4500,7 +4510,8 @@
         "innate": "abaddon_withering_mist",
         "facets": [
             "abaddon_death_dude",
-            "abaddon_mephitic_shroud"
+            "abaddon_mephitic_shroud",
+            "abaddon_mists_of_fate"
         ],
         "alts": [],
         "linked": null
@@ -4874,7 +4885,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_attack_damage_30",
+                "special_bonus_attack_damage_35",
                 "special_bonus_unique_winter_wyvern_5"
             ],
             [
@@ -5021,9 +5032,14 @@
         "innate": "monkey_king_mischief",
         "facets": [
             "monkey_king_wukongs_faithful",
-            "monkey_king_simian_stride"
+            "monkey_king_simian_stride",
+            "monkey_king_transfiguration"
         ],
-        "alts": [],
+        "alts": {
+            "9": {
+                "monkey_king_transfiguration": "monkey_king_transfiguration"
+            }
+        },
         "linked": {
             "monkey_king_primal_spring": "monkey_king_tree_dance",
             "monkey_king_primal_spring_early": "monkey_king_tree_dance",
@@ -5223,12 +5239,12 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_void_spirit_2",
-                "special_bonus_mp_regen_175"
+                "special_bonus_unique_void_spirit_4",
+                "special_bonus_mp_regen_150"
             ],
             [
-                "special_bonus_unique_void_spirit_4",
-                "special_bonus_unique_void_spirit_7"
+                "special_bonus_unique_void_spirit_2",
+                "special_bonus_unique_void_spirit_resonant_pulse_barrier"
             ],
             [
                 "special_bonus_unique_void_spirit_1",
@@ -5275,7 +5291,7 @@
                 "special_bonus_unique_snapfire_2"
             ],
             [
-                "special_bonus_unique_snapfire_mortimer_kisses_impact_damage",
+                "special_bonus_unique_snapfire_firesnap_cookie_additional_charge",
                 "special_bonus_unique_snapfire_8"
             ],
             [
@@ -5515,17 +5531,18 @@
             ],
             [
                 "special_bonus_unique_muerta_the_calling_num_revenants",
-                "special_bonus_unique_muerta_dead_shot_charges"
+                "special_bonus_unique_muerta_pierce_the_veil_duration"
             ],
             [
-                "special_bonus_magic_resistance_25",
+                "special_bonus_unique_muerta_dead_shot_charges",
                 "special_bonus_unique_muerta_gunslinger_double_shot_chance"
             ]
         ],
         "innate": "muerta_supernatural",
         "facets": [
             "muerta_dance_of_the_dead",
-            "muerta_ofrenda"
+            "muerta_ofrenda",
+            "muerta_slingshot"
         ],
         "alts": {
             "4": {
@@ -5554,7 +5571,7 @@
         "talents": [
             [
                 "special_bonus_unique_ringmaster_dagger_penetrates",
-                "special_bonus_unique_ringmaster_box_cast_range"
+                "special_bonus_unique_ringmaster_dagger_impact_damage"
             ],
             [
                 "special_bonus_unique_ringmaster_dagger_bleed_and_slow_duration",
@@ -5614,15 +5631,15 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_mp_regen_150",
+                "special_bonus_unique_kez_raptor_dance_radius",
                 "special_bonus_magic_resistance_12"
             ],
             [
-                "special_bonus_unique_kez_ravens_veil_mark_parry_bonus",
+                "special_bonus_unique_kez_raptor_dance_strikes",
                 "special_bonus_unique_kez_falcon_rush_duration"
             ],
             [
-                "special_bonus_unique_kez_falcon_rush_evasion",
+                "special_bonus_unique_kez_talon_toss_attack_factor",
                 "special_bonus_unique_kez_kazura_katana_bleed_damage"
             ],
             [

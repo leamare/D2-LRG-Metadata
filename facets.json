@@ -94,9 +94,19 @@
             {
                 "name": "bloodseeker_bloodrush",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "speed",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "bloodseeker_old_blood",
+                "id": 3,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "debuff",
                 "gradient": 1,
                 "spellicons": null,
                 "abilities": null
@@ -186,7 +196,7 @@
             {
                 "name": "earthshaker_slugger",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "movement",
                 "gradient": 1,
@@ -198,6 +208,16 @@
                         "autolevel": true
                     }
                 ]
+            },
+            {
+                "name": "earthshaker_reverberating_ridge",
+                "id": 3,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "ricochet",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "8": [
@@ -456,7 +476,7 @@
             {
                 "name": "sand_king_sandshroud",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "vision",
                 "gradient": 3,
@@ -466,9 +486,29 @@
             {
                 "name": "sand_king_dust_devil",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "sand_king_obscurity",
+                "id": 3,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "no_vision",
+                "gradient": 3,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "sand_king_pinpoint",
+                "id": 4,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "area_of_effect",
                 "gradient": 1,
                 "spellicons": null,
                 "abilities": null
@@ -711,7 +751,7 @@
             {
                 "name": "lich_frostbound",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "snowflake",
                 "gradient": 0,
@@ -724,6 +764,16 @@
                 "deprecated": false,
                 "color": "Gray",
                 "icon": "cooldown",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "lich_cryophobia",
+                "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "vision",
                 "gradient": 0,
                 "spellicons": null,
                 "abilities": null
@@ -843,7 +893,7 @@
             {
                 "name": "witch_doctor_headhunter",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "ricochet",
                 "gradient": 3,
@@ -867,6 +917,16 @@
                 "color": "Purple",
                 "icon": "death_ward",
                 "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "witch_doctor_malpractice",
+                "id": 4,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "nuke",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -1457,6 +1517,16 @@
                 "gradient": 2,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "rattletrap_junk_mail",
+                "id": 3,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "armor",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "52": [
@@ -1501,12 +1571,28 @@
             {
                 "name": "furion_ironwood_treant",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "siege",
                 "gradient": 2,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "furion_natures_profit",
+                "id": 3,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "gold",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "furion_natures_profit",
+                        "slot": 7,
+                        "autolevel": true
+                    }
+                ]
             }
         ],
         "54": [
@@ -1902,25 +1988,19 @@
                 "name": "batrider_buff_on_displacement",
                 "id": 1,
                 "deprecated": false,
-                "color": "Yellow",
-                "icon": "speed",
-                "gradient": 1,
+                "color": "Red",
+                "icon": "nuke",
+                "gradient": 0,
                 "spellicons": null,
-                "abilities": [
-                    {
-                        "name": "batrider_stoked",
-                        "slot": null,
-                        "autolevel": true
-                    }
-                ]
+                "abilities": null
             },
             {
                 "name": "batrider_arsonist",
                 "id": 2,
                 "deprecated": false,
-                "color": "Red",
-                "icon": "siege",
-                "gradient": 0,
+                "color": "Yellow",
+                "icon": "damage",
+                "gradient": 1,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2197,28 +2277,8 @@
         ],
         "74": [
             {
-                "name": "invoker_agnostic",
-                "id": 1,
-                "deprecated": true,
-                "color": "Purple",
-                "icon": "invoker_passive",
-                "gradient": 0,
-                "spellicons": null,
-                "abilities": null
-            },
-            {
-                "name": "invoker_elitist",
-                "id": 2,
-                "deprecated": true,
-                "color": "Gray",
-                "icon": "invoker_active",
-                "gradient": 0,
-                "spellicons": null,
-                "abilities": null
-            },
-            {
                 "name": "invoker_quas_focus",
-                "id": 3,
+                "id": 1,
                 "deprecated": false,
                 "color": "Blue",
                 "icon": "invoker_quas",
@@ -2228,7 +2288,7 @@
             },
             {
                 "name": "invoker_wex_focus",
-                "id": 4,
+                "id": 2,
                 "deprecated": false,
                 "color": "Purple",
                 "icon": "invoker_wex",
@@ -2238,7 +2298,7 @@
             },
             {
                 "name": "invoker_exort_focus",
-                "id": 5,
+                "id": 3,
                 "deprecated": false,
                 "color": "Yellow",
                 "icon": "invoker_exort",
@@ -2251,7 +2311,7 @@
             {
                 "name": "silencer_irrepressible",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Purple",
                 "icon": "silencer",
                 "gradient": 1,
@@ -2267,12 +2327,38 @@
             {
                 "name": "silencer_reverberating_silence",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "debuff",
                 "gradient": 3,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "silencer_spread_the_knowledge",
+                "id": 3,
+                "deprecated": false,
+                "color": "Purple",
+                "icon": "ricochet",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "silencer_oppressive_silence",
+                "id": 4,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "debuff",
+                "gradient": 3,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "silencer_oppressive_silence",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
             }
         ],
         "76": [
@@ -2520,7 +2606,13 @@
                 "icon": "damage",
                 "gradient": 2,
                 "spellicons": null,
-                "abilities": null
+                "abilities": [
+                    {
+                        "name": "treant_innate_attack_damage",
+                        "slot": null,
+                        "autolevel": true
+                    }
+                ]
             },
             {
                 "name": "treant_sapling",
@@ -2625,6 +2717,16 @@
                         "autolevel": "false"
                     }
                 ]
+            },
+            {
+                "name": "disruptor_conduit",
+                "id": 3,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "vortex_out",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "88": [
@@ -3099,9 +3201,19 @@
             {
                 "name": "abaddon_mephitic_shroud",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "barrier",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "abaddon_mists_of_fate",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "phantom_ass_dagger",
                 "gradient": 1,
                 "spellicons": null,
                 "abilities": null
@@ -3467,7 +3579,7 @@
             {
                 "name": "monkey_king_wukongs_faithful",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "summons",
                 "gradient": 2,
@@ -3483,6 +3595,22 @@
                 "gradient": 4,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "monkey_king_transfiguration",
+                "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "summons",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": [
+                    {
+                        "name": "monkey_king_transfiguration",
+                        "slot": 9,
+                        "autolevel": true
+                    }
+                ]
             }
         ],
         "120": [
@@ -3827,7 +3955,7 @@
             {
                 "name": "muerta_ofrenda",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "teleport",
                 "gradient": 0,
@@ -3839,6 +3967,16 @@
                         "autolevel": true
                     }
                 ]
+            },
+            {
+                "name": "muerta_slingshot",
+                "id": 3,
+                "deprecated": false,
+                "color": "Red",
+                "icon": "ricochet",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "131": [
