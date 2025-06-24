@@ -889,7 +889,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_windranger_9",
+                "special_bonus_all_stats_4",
                 "special_bonus_unique_windranger_powershot_slow"
             ],
             [
@@ -1816,7 +1816,7 @@
         "talents": [
             [
                 "special_bonus_magic_resistance_12",
-                "special_bonus_attack_speed_40"
+                "special_bonus_attack_speed_30"
             ],
             [
                 "special_bonus_unique_death_prophet_2",
@@ -3103,7 +3103,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_hp_175",
+                "special_bonus_hp_150",
                 "special_bonus_unique_gyrocopter_homing_missile_damage"
             ],
             [
@@ -3713,10 +3713,10 @@
             ],
             [
                 "special_bonus_unique_undying_2",
-                "special_bonus_unique_undying_3"
+                "special_bonus_unique_undying_5"
             ],
             [
-                "special_bonus_unique_undying_5",
+                "special_bonus_unique_undying_3",
                 "special_bonus_unique_undying_4"
             ]
         ],
@@ -5479,7 +5479,7 @@
         "talents": [
             [
                 "special_bonus_unique_primal_beast_trample_magic_resist",
-                "special_bonus_attack_damage_20"
+                "special_bonus_attack_damage_30"
             ],
             [
                 "special_bonus_unique_primal_beast_roar_dispells",
