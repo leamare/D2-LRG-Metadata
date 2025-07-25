@@ -5570,20 +5570,20 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_unique_ringmaster_dagger_penetrates",
-                "special_bonus_unique_ringmaster_dagger_impact_damage"
+                "special_bonus_unique_ringmaster_dagger_impact_damage",
+                "special_bonus_unique_ringmaster_whip_radius"
             ],
             [
-                "special_bonus_unique_ringmaster_dagger_bleed_and_slow_duration",
-                "special_bonus_unique_ringmaster_whip_debuff_immunity"
+                "special_bonus_unique_ringmaster_whip_debuff_immunity",
+                "special_bonus_unique_ringmaster_dagger_penetrates"
             ],
             [
-                "special_bonus_unique_ringmaster_wheel_radius",
-                "special_bonus_unique_ringmaster_whip_damage"
+                "special_bonus_unique_ringmaster_whip_damage",
+                "special_bonus_unique_ringmaster_dagger_bleed_and_slow_duration"
             ],
             [
-                "ringmaster_dark_carnival_souvenirs",
-                "special_bonus_unique_ringmaster_the_box_strong_dispel_and_flying"
+                "special_bonus_unique_ringmaster_the_box_strong_dispel_and_flying",
+                "special_bonus_unique_ringmaster_wheel_radius"
             ]
         ],
         "innate": "ringmaster_dark_carnival_souvenirs",
