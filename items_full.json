@@ -245,7 +245,7 @@
     "16": {
         "id": 16,
         "name": "item_branches",
-        "cost": 50,
+        "cost": 55,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -362,7 +362,7 @@
     "473": {
         "id": 473,
         "name": "item_voodoo_mask",
-        "cost": 700,
+        "cost": 650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -380,7 +380,7 @@
     "279": {
         "id": 279,
         "name": "item_ring_of_tarrasque",
-        "cost": 1800,
+        "cost": 1700,
         "secret_shop": 1,
         "side_shop": 0,
         "recipe": 0,
@@ -461,7 +461,7 @@
     "36": {
         "id": 36,
         "name": "item_magic_wand",
-        "cost": 450,
+        "cost": 460,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -479,7 +479,7 @@
     "38": {
         "id": 38,
         "name": "item_clarity",
-        "cost": 50,
+        "cost": 60,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1028,7 +1028,7 @@
     "268": {
         "id": 268,
         "name": "item_recipe_holy_locket",
-        "cost": 800,
+        "cost": 1340,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1046,7 +1046,7 @@
     "89": {
         "id": 89,
         "name": "item_recipe_pipe",
-        "cost": 700,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1100,7 +1100,7 @@
     "95": {
         "id": 95,
         "name": "item_recipe_sheepstick",
-        "cost": 600,
+        "cost": 700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1307,7 +1307,7 @@
     "104": {
         "id": 104,
         "name": "item_dagon",
-        "cost": 2850,
+        "cost": 2800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1316,7 +1316,7 @@
     "201": {
         "id": 201,
         "name": "item_dagon_2",
-        "cost": 4000,
+        "cost": 3950,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1325,7 +1325,7 @@
     "202": {
         "id": 202,
         "name": "item_dagon_3",
-        "cost": 5150,
+        "cost": 5100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1334,7 +1334,7 @@
     "203": {
         "id": 203,
         "name": "item_dagon_4",
-        "cost": 6300,
+        "cost": 6250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1343,7 +1343,7 @@
     "204": {
         "id": 204,
         "name": "item_dagon_5",
-        "cost": 7450,
+        "cost": 7400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1469,7 +1469,7 @@
     "109": {
         "id": 109,
         "name": "item_recipe_refresher",
-        "cost": 200,
+        "cost": 1600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1514,7 +1514,7 @@
     "114": {
         "id": 114,
         "name": "item_heart",
-        "cost": 5200,
+        "cost": 5100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1577,7 +1577,7 @@
     "121": {
         "id": 121,
         "name": "item_bloodstone",
-        "cost": 4400,
+        "cost": 4350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2054,7 +2054,7 @@
     "152": {
         "id": 152,
         "name": "item_invis_sword",
-        "cost": 3350,
+        "cost": 3250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2072,7 +2072,7 @@
     "249": {
         "id": 249,
         "name": "item_silver_edge",
-        "cost": 5800,
+        "cost": 5700,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2369,7 +2369,7 @@
     "175": {
         "id": 175,
         "name": "item_recipe_ethereal_blade",
-        "cost": 1600,
+        "cost": 900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2378,7 +2378,7 @@
     "176": {
         "id": 176,
         "name": "item_ethereal_blade",
-        "cost": 5375,
+        "cost": 5200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2423,7 +2423,7 @@
     "228": {
         "id": 228,
         "name": "item_recipe_octarine_core",
-        "cost": 0,
+        "cost": 200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2432,7 +2432,7 @@
     "235": {
         "id": 235,
         "name": "item_octarine_core",
-        "cost": 4800,
+        "cost": 4900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2585,7 +2585,7 @@
     "189": {
         "id": 189,
         "name": "item_recipe_veil_of_discord",
-        "cost": 300,
+        "cost": 320,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2603,7 +2603,7 @@
     "230": {
         "id": 230,
         "name": "item_recipe_guardian_greaves",
-        "cost": 1450,
+        "cost": 1125,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2612,7 +2612,7 @@
     "231": {
         "id": 231,
         "name": "item_guardian_greaves",
-        "cost": 5050,
+        "cost": 4300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2729,7 +2729,7 @@
     "215": {
         "id": 215,
         "name": "item_shadow_amulet",
-        "cost": 1000,
+        "cost": 900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2738,7 +2738,7 @@
     "253": {
         "id": 253,
         "name": "item_recipe_glimmer_cape",
-        "cost": 350,
+        "cost": 450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -3809,7 +3809,7 @@
     "910": {
         "id": 910,
         "name": "item_recipe_revenants_brooch",
-        "cost": 600,
+        "cost": 650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -3827,7 +3827,7 @@
     "930": {
         "id": 930,
         "name": "item_recipe_boots_of_bearing",
-        "cost": 1700,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -3980,7 +3980,7 @@
     "1076": {
         "id": 1076,
         "name": "item_specialists_array",
-        "cost": 0,
+        "cost": 2650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4178,7 +4178,7 @@
     "1106": {
         "id": 1106,
         "name": "item_recipe_phylactery",
-        "cost": 300,
+        "cost": 200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -4187,7 +4187,7 @@
     "1107": {
         "id": 1107,
         "name": "item_phylactery",
-        "cost": 2500,
+        "cost": 2600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -4376,7 +4376,7 @@
     "1802": {
         "id": 1802,
         "name": "item_tiara_of_selemene",
-        "cost": 1800,
+        "cost": 1700,
         "secret_shop": 1,
         "side_shop": 0,
         "recipe": 0,
@@ -4385,7 +4385,7 @@
     "1807": {
         "id": 1807,
         "name": "item_recipe_angels_demise",
-        "cost": 1300,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -5038,5 +5038,68 @@
         "side_shop": 0,
         "recipe": 0,
         "localized_name": "Bag of Gold"
+    },
+    "1715": {
+        "id": 1715,
+        "name": "item_recipe_specialists_array",
+        "cost": 650,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 1,
+        "localized_name": ""
+    },
+    "1716": {
+        "id": 1716,
+        "name": "item_weighted_dice",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Weighted Dice"
+    },
+    "1717": {
+        "id": 1717,
+        "name": "item_ash_legion_shield",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Ash Legion Shield"
+    },
+    "1718": {
+        "id": 1718,
+        "name": "item_riftshadow_prism",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Riftshadow Prism"
+    },
+    "1719": {
+        "id": 1719,
+        "name": "item_metamorphic_mandible",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Metamorphic Mandible"
+    },
+    "1720": {
+        "id": 1720,
+        "name": "item_idol_of_screeauk",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Idol of Scree'Auk"
+    },
+    "1721": {
+        "id": 1721,
+        "name": "item_flayers_bota",
+        "cost": 0,
+        "secret_shop": 0,
+        "side_shop": 0,
+        "recipe": 0,
+        "localized_name": "Flayer's Bota"
     }
 }

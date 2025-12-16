@@ -372,7 +372,7 @@
             {
                 "name": "phantom_lancer_divergence",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "summons",
                 "gradient": 2,
@@ -382,10 +382,20 @@
             {
                 "name": "phantom_lancer_lancelot",
                 "id": 3,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "phantom_lance",
                 "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "phantom_lancer_lancer",
+                "id": 4,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "phantom_lance",
+                "gradient": 2,
                 "spellicons": null,
                 "abilities": null
             }
@@ -935,7 +945,7 @@
             {
                 "name": "riki_contract_killer",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "xp",
                 "gradient": 3,
@@ -945,9 +955,19 @@
             {
                 "name": "riki_exterminator",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Purple",
                 "icon": "agility",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "riki_riki",
+                "id": 3,
+                "deprecated": false,
+                "color": "Purple",
+                "icon": "execute",
                 "gradient": 2,
                 "spellicons": null,
                 "abilities": null
@@ -1703,7 +1723,7 @@
             {
                 "name": "clinkz_suppressive_fire",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "no_vision",
                 "gradient": 3,
@@ -1713,9 +1733,19 @@
             {
                 "name": "clinkz_engulfing_step",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "teleport",
+                "gradient": 0,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "clinkz_clinkz",
+                "id": 3,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "nuke",
                 "gradient": 0,
                 "spellicons": null,
                 "abilities": null
@@ -2083,7 +2113,7 @@
             {
                 "name": "spectre_forsaken",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "spectre",
                 "gradient": 0,
@@ -2093,10 +2123,20 @@
             {
                 "name": "spectre_twist_the_knife",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Purple",
                 "icon": "nuke",
                 "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "spectre_spectre",
+                "id": 3,
+                "deprecated": false,
+                "color": "Gray",
+                "icon": "spirit",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -2115,7 +2155,7 @@
             {
                 "name": "doom_bringer_boost_selling",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "gold",
                 "gradient": 0,
@@ -2437,6 +2477,16 @@
                 "gradient": 1,
                 "spellicons": null,
                 "abilities": null
+            },
+            {
+                "name": "brewmaster_brewmaster",
+                "id": 3,
+                "deprecated": false,
+                "color": "Yellow",
+                "icon": "bubbles",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "79": [
@@ -2471,7 +2521,7 @@
             {
                 "name": "lone_druid_bear_with_me",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Green",
                 "icon": "healing",
                 "gradient": 1,
@@ -2491,7 +2541,7 @@
             {
                 "name": "lone_druid_bear_necessities",
                 "id": 3,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "item",
                 "gradient": 1,
@@ -2503,6 +2553,16 @@
                         "autolevel": true
                     }
                 ]
+            },
+            {
+                "name": "lone_druid_lone_druid",
+                "id": 4,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "overshadow",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
             }
         ],
         "81": [
@@ -2601,7 +2661,7 @@
             {
                 "name": "treant_primeval_power",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "damage",
                 "gradient": 2,
@@ -2617,6 +2677,16 @@
             {
                 "name": "treant_sapling",
                 "id": 2,
+                "deprecated": true,
+                "color": "Green",
+                "icon": "tree",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "treant_treant",
+                "id": 3,
                 "deprecated": false,
                 "color": "Green",
                 "icon": "tree",
@@ -2877,7 +2947,7 @@
             {
                 "name": "slark_leeching_leash",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Green",
                 "icon": "agility",
                 "gradient": 2,
@@ -2887,9 +2957,19 @@
             {
                 "name": "slark_dark_reef_renegade",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Blue",
                 "icon": "cooldown",
+                "gradient": 2,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "slark_slark",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "broken_chain",
                 "gradient": 2,
                 "spellicons": null,
                 "abilities": null
@@ -3295,7 +3375,7 @@
             {
                 "name": "earth_spirit_resonance",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Green",
                 "icon": "damage",
                 "gradient": 0,
@@ -3305,7 +3385,7 @@
             {
                 "name": "earth_spirit_stepping_stone",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Gray",
                 "icon": "cooldown",
                 "gradient": 2,
@@ -3315,10 +3395,20 @@
             {
                 "name": "earth_spirit_ready_to_roll",
                 "id": 3,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "spinning",
                 "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "earth_spirit_earth_spirit",
+                "id": 4,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "spinning",
+                "gradient": 0,
                 "spellicons": null,
                 "abilities": null
             }
@@ -3617,7 +3707,7 @@
             {
                 "name": "pangolier_double_jump",
                 "id": 1,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Red",
                 "icon": "double_bounce",
                 "gradient": 1,
@@ -3627,9 +3717,19 @@
             {
                 "name": "pangolier_thunderbolt",
                 "id": 2,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "speed",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
+            },
+            {
+                "name": "pangolier_pangolier",
+                "id": 3,
+                "deprecated": false,
+                "color": "Blue",
+                "icon": "cooldown",
                 "gradient": 1,
                 "spellicons": null,
                 "abilities": null
@@ -3901,7 +4001,7 @@
             {
                 "name": "marci_fleeting_fury",
                 "id": 5,
-                "deprecated": false,
+                "deprecated": true,
                 "color": "Yellow",
                 "icon": "fist",
                 "gradient": 0,
@@ -4069,6 +4169,18 @@
                         "autolevel": true
                     }
                 ]
+            }
+        ],
+        "155": [
+            {
+                "name": "largo_largo",
+                "id": 1,
+                "deprecated": false,
+                "color": "Green",
+                "icon": "guitar",
+                "gradient": 1,
+                "spellicons": null,
+                "abilities": null
             }
         ]
     },

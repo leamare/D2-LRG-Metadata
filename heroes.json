@@ -1252,7 +1252,17 @@
     "alt": "Kazurai Warrior",
     "aliases": "bird samurai kestrel",
     "released": [
-      [ 1731032762, 5603 ]
+      [ 1731032762, 5603 ],
+      [ 1759443811, 5704, 1 ]
+    ]
+  },
+  "155": {
+    "tag": "largo",
+    "name": "Largo",
+    "alt": "Shamanic Bard Frog",
+    "aliases": "bard_frog",
+    "released": [
+      [ 1765849398, 5800 ]
     ]
   }
 }
