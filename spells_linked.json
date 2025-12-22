@@ -98,5 +98,9 @@
     "rattletrap_jetpack_toggle": "rattletrap_jetpack",
     "largo_song_good_vibrations": "largo_croak_of_genius",
     "largo_song_fight_song": "largo_catchy_lick",
-    "largo_song_double_time": "largo_frogstomp"
+    "largo_song_double_time": "largo_frogstomp",
+    "largo_song_double_time_rhythm": "largo_song_double_time",
+    "largo_song_fight_song_rhythm": "largo_song_fight_song",
+    "largo_song_good_vibrations_rhythm": "largo_song_good_vibrations",
+    "largo_amphibian_rhapsody_active": "largo_amphibian_rhapsody"
 }
