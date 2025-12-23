@@ -1905,7 +1905,7 @@
                 "special_bonus_unique_pugna_4"
             ],
             [
-                "special_bonus_hp_300",
+                "special_bonus_hp_250",
                 "special_bonus_unique_pugna_decrepify_ally_movespeed"
             ],
             [
@@ -1991,11 +1991,11 @@
         ],
         "talents": [
             [
-                "special_bonus_unique_viper_1",
+                "special_bonus_unique_viper_7",
                 "special_bonus_unique_viper_4"
             ],
             [
-                "special_bonus_unique_viper_7",
+                "special_bonus_unique_viper_1",
                 "special_bonus_unique_viper_3"
             ],
             [
@@ -2538,7 +2538,7 @@
                 "special_bonus_unique_huskar_3"
             ],
             [
-                "special_bonus_lifesteal_15",
+                "special_bonus_lifesteal_12",
                 "special_bonus_unique_huskar_2"
             ],
             [
@@ -3024,10 +3024,10 @@
             ],
             [
                 "special_bonus_unique_ursa_8",
-                "special_bonus_unique_ursa"
+                "special_bonus_unique_ursa_maul_health"
             ],
             [
-                "special_bonus_unique_ursa_maul_health",
+                "special_bonus_unique_ursa",
                 "special_bonus_unique_ursa_2"
             ],
             [
@@ -3251,7 +3251,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_attack_speed_20",
+                "special_bonus_attack_speed_25",
                 "special_bonus_unique_silencer"
             ],
             [
@@ -3430,7 +3430,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_strength_10",
+                "special_bonus_strength_8",
                 "special_bonus_unique_shadow_demon_4"
             ],
             [
@@ -4215,7 +4215,7 @@
             ],
             [
                 "special_bonus_unique_centaur_4",
-                "special_bonus_strength_12"
+                "special_bonus_strength_10"
             ],
             [
                 "special_bonus_unique_centaur_5",
@@ -5487,11 +5487,11 @@
                 "special_bonus_attack_damage_30"
             ],
             [
-                "special_bonus_unique_primal_beast_roar_dispells",
+                "special_bonus_unique_primal_beast_uproar_armor",
                 "special_bonus_unique_primal_beast_trample_cooldown"
             ],
             [
-                "special_bonus_unique_primal_beast_uproar_armor",
+                "special_bonus_unique_primal_beast_roar_dispells",
                 "special_bonus_unique_primal_beast_trample_attack_damage"
             ],
             [
@@ -5706,7 +5706,8 @@
         "linked": {
             "largo_song_good_vibrations": "largo_croak_of_genius",
             "largo_song_fight_song": "largo_catchy_lick",
-            "largo_song_double_time": "largo_frogstomp"
+            "largo_song_double_time": "largo_frogstomp",
+            "largo_amphibian_rhapsody_active": "largo_amphibian_rhapsody"
         }
     }
 }
