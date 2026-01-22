@@ -143,14 +143,14 @@
         "talents": [
             [
                 "special_bonus_unique_bloodseeker_5",
-                "special_bonus_hp_175"
+                "special_bonus_hp_200"
             ],
             [
                 "special_bonus_unique_bloodseeker_2",
                 "special_bonus_unique_bloodseeker"
             ],
             [
-                "special_bonus_agility_20",
+                "special_bonus_agility_15",
                 "special_bonus_unique_bloodseeker_3"
             ],
             [
@@ -407,8 +407,7 @@
         ],
         "shard_granted": [],
         "aghs": [
-            "nevermore_requiem",
-            "nevermore_necromastery"
+            "nevermore_requiem"
         ],
         "aghs_granted": [],
         "talents": [
@@ -1202,7 +1201,7 @@
             ],
             [
                 "special_bonus_unique_slardar_2",
-                "special_bonus_hp_300"
+                "special_bonus_hp_250"
             ],
             [
                 "special_bonus_unique_slardar_5",
@@ -2410,7 +2409,7 @@
             ],
             [
                 "special_bonus_unique_clinkz_9",
-                "special_bonus_attack_range_60"
+                "special_bonus_attack_range_50"
             ],
             [
                 "special_bonus_unique_clinkz_7",
@@ -2901,7 +2900,7 @@
             ],
             [
                 "special_bonus_unique_spectre_3",
-                "special_bonus_hp_350"
+                "special_bonus_hp_325"
             ],
             [
                 "special_bonus_unique_spectre_5",
@@ -3566,6 +3565,7 @@
             "meepo_petrify"
         ],
         "aghs": [
+            "meepo_poof",
             "meepo_megameepo"
         ],
         "aghs_granted": [
