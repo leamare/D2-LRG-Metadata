@@ -1262,7 +1262,8 @@
     "alt": "Shamanic Bard Frog",
     "aliases": "bard_frog",
     "released": [
-      [ 1765849398, 5800 ]
+      [ 1765849398, 5900 ],
+      [ 1769041258, 5902, 1]
     ]
   }
 }
