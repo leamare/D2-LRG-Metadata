@@ -5,8 +5,8 @@
     "alt":"Magina",
     "aliases":"am,wei",
     "aliases_more": {
-      "ru":"ам,антимаг,вэй,магина,крип,фтешьфпу",
-      "egg":"крип,creep"
+      "ru":"ам,антимаг,вэй,магина,крип,фтешьфпу,фь",
+      "egg":"крип,creep,burning"
     },
     "alticons":["persona1"],
     "released": [
@@ -19,7 +19,7 @@
     "alt":"Mogul Khan",
     "aliases":"",
     "aliases_more": {
-      "ru":"акс,топор,могул-хан",
+      "ru":"акс,топор,могул-хан,фчу",
       "egg":""
     },
     "alticons":["alt"],
@@ -33,7 +33,7 @@
     "alt":"Atropos",
     "aliases":"",
     "aliases_more": {
-      "ru":"бейн,бэйн,атропос",
+      "ru":"бейн,бэйн,атропос,ифту",
       "egg":""
     },
     "released": [
@@ -47,7 +47,7 @@
     "alt":"Strygwyr",
     "aliases":"bs",
     "aliases_more": {
-      "ru":"бладсикер,блудсикер,бс,стригвир",
+      "ru":"бладсикер,блудсикер,бс,стригвир,иы,идщщвыуулук",
       "egg":""
     },
     "released": [
@@ -62,7 +62,7 @@
     "alt":"Rylai",
     "aliases":"cm,blueheart,conduit,wolf",
     "aliases_more": {
-      "ru":"кристал,мэйденка,мейденка,цмка,рилай,волчица",
+      "ru":"кристал,мэйденка,мейденка,цмка,рилай,волчица,сь,скныефд",
       "egg":""
     },
     "alticons":["alt1", "persona1"],
@@ -76,7 +76,7 @@
     "alt":"Traxex",
     "aliases":"",
     "aliases_more": {
-      "ru":"дроу рейнджер,дрова,траксекс,тракса",
+      "ru":"дроу рейнджер,дрова,траксекс,тракса,вкщц кфтпук",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -92,7 +92,7 @@
     "alt":"Raigor",
     "aliases":"es,Raigor",
     "aliases_more": {
-      "ru":"эрсшейкер,ес,рейгор",
+      "ru":"эрсшейкер,ес,рейгор,уфкерырфлук,уы",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -106,7 +106,7 @@
     "alt":"Yurnero",
     "aliases":"",
     "aliases_more": {
-      "ru":"джаггернаут,джага,юрнеро,юра",
+      "ru":"джаггернаут,джага,юрнеро,юра,огппуктфге",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -118,7 +118,7 @@
     "tag":"mirana",
     "name":"Mirana",
     "alt":"Priestess of the Moon",
-    "aliases":"potm,Princess,Moon",
+    "aliases":"potm,Princess,Moon,ьшкфтф,зщеь",
     "aliases_more": {
       "ru":"мирана,потма",
       "egg":"singsing"
@@ -134,7 +134,7 @@
     "alt":"Water",
     "aliases":"",
     "aliases_more": {
-      "ru":"морфлинг,водичка",
+      "ru":"морфлинг,водичка,ьщкзрдштп",
       "egg":""
     },
     "released": [
@@ -147,7 +147,7 @@
     "alt":"Nevermore",
     "aliases":"sf,zxc,yaphets,demon",
     "aliases_more": {
-      "ru":"шадоу,шэдоу,шедоу,финд,сф,невермор",
+      "ru":"шадоу,шэдоу,шедоу,финд,сф,невермор,ырфвщц ашутв,ыа",
       "egg":""
     },
     "alticons":["alt"],
@@ -161,7 +161,7 @@
     "alt":"Azwraith",
     "aliases":"pl",
     "aliases_more": {
-      "ru":"фантом,фэнтом,лансер,лэнсер,пл,азраф",
+      "ru":"фантом,фэнтом,лансер,лэнсер,пл,азраф,зрфтещь дфтсук,зд",
       "egg":""
     },
     "released": [
@@ -190,7 +190,7 @@
     "alt":"Butcher",
     "aliases":"toy,Toy Butcher",
     "aliases_more": {
-      "ru":"падж,пудж,мясник,плюшевый,бучка,бачер,паджеро,пудге,пудочка",
+      "ru":"падж,пудж,мясник,плюшевый,бучка,бачер,паджеро,пудге,пудочка,згвпу",
       "egg":"денди,dendi"
     },
     "alticons":["alt1", "alt2", "persona1"],
@@ -204,7 +204,7 @@
     "alt":"Lightning Revenant",
     "aliases":"",
     "aliases_more": {
-      "ru":"рейзор,рэйзор,разор",
+      "ru":"рейзор,рэйзор,разор,кфящк",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -218,7 +218,7 @@
     "alt":"Crixalis",
     "aliases":"sk,scorpion",
     "aliases_more": {
-      "ru":"сэнд кинг,ск,криксалис,король",
+      "ru":"сэнд кинг,ск,криксалис,король,ыл,ыфтв лштп",
       "egg":""
     },
     "released": [
@@ -231,7 +231,7 @@
     "alt":"Raijin Thunderkeg",
     "aliases":"ss",
     "aliases_more": {
-      "ru":"шторм,сторм,спирит,райдзин громокег",
+      "ru":"шторм,сторм,спирит,райдзин громокег,ыы,ыещкь ызшкше",
       "egg":""
     },
     "released": [
@@ -244,7 +244,7 @@
     "alt":"Rogue Knight",
     "aliases":"vigil",
     "aliases_more": {
-      "ru":"свен,мятежный рыцарь",
+      "ru":"свен,мятежный рыцарь,ымут",
       "egg":""
     },
     "released": [
@@ -257,7 +257,7 @@
     "alt":"Stone Giant",
     "aliases":"",
     "aliases_more": {
-      "ru":"тини,тайни,камень",
+      "ru":"тини,тайни,камень,ештн",
       "egg":""
     },
     "released": [
@@ -270,7 +270,7 @@
     "alt":"Shendelzare",
     "aliases":"vs",
     "aliases_more": {
-      "ru":"венджфул спирит,венга,шенделезара",
+      "ru":"венджфул спирит,венга,шенделезара,мутпуагд",
       "egg":""
     },
     "released": [
@@ -283,7 +283,7 @@
     "alt":"Lyralei",
     "aliases":"wr",
     "aliases_more": {
-      "ru":"виндрейнджер,врка,лиралей",
+      "ru":"виндрейнджер,врка,лиралей,цштвкфтпук,цк",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -297,7 +297,7 @@
     "alt":"Lord of Heaven",
     "aliases":"lightning god",
     "aliases_more": {
-      "ru":"зевс,зюс,громовержец",
+      "ru":"зевс,зюс,громовержец,яугы",
       "egg":""
     },
     "alticons":["alt"],
@@ -311,7 +311,7 @@
     "alt":"Admiral",
     "aliases":"",
     "aliases_more": {
-      "ru":"кункка,адмирал",
+      "ru":"кункка,адмирал,лгтллф",
       "egg":"attacker,атакер"
     },
     "released": [
@@ -324,7 +324,7 @@
     "alt":"Slayer",
     "aliases":"",
     "aliases_more": {
-      "ru":"лина",
+      "ru":"лина,дштф",
       "egg":""
     },
     "alticons":["alt"],
@@ -338,7 +338,7 @@
     "alt":"Demon Witch",
     "aliases":"",
     "aliases_more": {
-      "ru":"лайон,лион",
+      "ru":"лайон,лион,дшщт",
       "egg":""
     },
     "released": [
@@ -351,7 +351,7 @@
     "alt":"Rhasta",
     "aliases":"ss",
     "aliases_more": {
-      "ru":"шедоу,шэдоу,шадоу,шаман,раста",
+      "ru":"шедоу,шэдоу,шадоу,шаман,раста,ырфвщц ырфьфт",
       "egg":""
     },
     "released": [
@@ -364,7 +364,7 @@
     "alt":"Slithereen Guard",
     "aliases":"",
     "aliases_more": {
-      "ru":"слардар,селёдка",
+      "ru":"слардар,селёдка,ыдфквфк",
       "egg":""
     },
     "released": [
@@ -377,7 +377,7 @@
     "alt":"Leviathan",
     "aliases":"th",
     "aliases_more": {
-      "ru":"тайдхантер,левиафан,тх,арбуз",
+      "ru":"тайдхантер,левиафан,тх,арбуз,ешвургтеук",
       "egg":"thd,тхд"
     },
     "released": [
@@ -390,7 +390,7 @@
     "alt":"Zharvakko",
     "aliases":"wd,voodoo",
     "aliases_more": {
-      "ru":"витч,вич,доктор,вд,жарвакко",
+      "ru":"витч,вич,доктор,вд,жарвакко,цв,цшеср вщсещк",
       "egg":""
     },
     "released": [
@@ -403,7 +403,7 @@
     "alt":"Ethreain",
     "aliases":"",
     "aliases_more": {
-      "ru":"лич,этриан",
+      "ru":"лич,этриан,дшср",
       "egg":""
     },
     "released": [
@@ -416,7 +416,7 @@
     "alt":"Stealth Assassin",
     "aliases":"tahlin,rikimaru,sa",
     "aliases_more": {
-      "ru":"рикимару",
+      "ru":"рикимару,кшлш",
       "egg":""
     },
     "released": [
@@ -431,7 +431,7 @@
     "alt":"Gravity Fundamental",
     "aliases":"",
     "aliases_more": {
-      "ru":"энигма",
+      "ru":"энигма,утшпьф",
       "egg":""
     },
     "released": [
@@ -444,7 +444,7 @@
     "alt":"Boush",
     "aliases":"",
     "aliases_more": {
-      "ru":"тинкер,боуш,механик",
+      "ru":"тинкер,боуш,механик,ештлук",
       "egg":"gordon"
     },
     "released": [
@@ -457,7 +457,7 @@
     "alt":"Kardel Sharpeye",
     "aliases":"",
     "aliases_more": {
-      "ru":"снайпер,кардел остроглаз",
+      "ru":"снайпер,кардел остроглаз,ытшзук",
       "egg":""
     },
     "released": [
@@ -470,7 +470,7 @@
     "alt":"Rotund'jere",
     "aliases":"",
     "aliases_more": {
-      "ru":"некрофос,ротундйер",
+      "ru":"некрофос,ротундйер,тускщзрщы",
       "egg":""
     },
     "released": [
@@ -485,7 +485,7 @@
     "alt":"Demnok Lannik",
     "aliases":"wl",
     "aliases_more": {
-      "ru":"варлок,демнок лэнник",
+      "ru":"варлок,демнок лэнник,цфкдщсл",
       "egg":""
     },
     "released": [
@@ -498,7 +498,7 @@
     "alt":"Karroch",
     "aliases":"rexxar,bm",
     "aliases_more": {
-      "ru":"бистмастер,каррох",
+      "ru":"бистмастер,каррох,иуфыеьфыеук",
       "egg":""
     },
     "released": [
@@ -511,7 +511,7 @@
     "alt":"Akasha",
     "aliases":"qop",
     "aliases_more": {
-      "ru":"квин оф,пэйн,пейн,квопа,акаша",
+      "ru":"квин оф,пэйн,пейн,квопа,акаша,йгуут ща зфшт",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -525,7 +525,7 @@
     "alt":"Lesale Deathbringer",
     "aliases":"snake,herbalist",
     "aliases_more": {
-      "ru":"веномансер,веномант,веник,лисайл смертоносный",
+      "ru":"веномансер,веномант,веник,лисайл смертоносный,мутщьфтсук",
       "egg":"banana,банан"
     },
     "released": [
@@ -538,7 +538,7 @@
     "alt":"Darkterror",
     "aliases":"fv,void,claszureme",
     "aliases_more": {
-      "ru":"фейслесс,фэйслесс,войд,дарктеррор",
+      "ru":"фейслесс,фэйслесс,войд,дарктеррор,афсудуыы мщшв",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -554,7 +554,7 @@
     "alt":"Ostarion",
     "aliases":"leoric,wk,sk,snk,one true king",
     "aliases_more": {
-      "ru":"врейс кинг,вк,скелет,ск,остарион,король",
+      "ru":"врейс кинг,вк,скелет,ск,остарион,король,цкфшер лштп",
       "egg":"папич,папаня,arthas"
     },
     "alticons":["alt1", "alt2"],
@@ -568,7 +568,7 @@
     "alt":"Krobelus",
     "aliases":"dp",
     "aliases_more": {
-      "ru":"дэс,дэф,профетка,дп,кроба,кробелус",
+      "ru":"дэс,дэф,профетка,дп,кроба,кробелус,вуфер зкщзруе",
       "egg":""
     },
     "released": [
@@ -583,7 +583,7 @@
     "alt":"Mortred",
     "aliases":"pa,asan",
     "aliases_more": {
-      "ru":"фантом,фэнтом,ассассин,ассасин,фантомка,мортред,мортра",
+      "ru":"фантом,фэнтом,ассассин,ассасин,фантомка,мортред,мортра,зрфтещь фыыфыышт,зф",
       "egg":""
     },
     "alticons":["alt1", "persona1"],
@@ -611,7 +611,7 @@
     "alt":"Lanaya",
     "aliases":"ta",
     "aliases_more": {
-      "ru":"темплар,ассассин,ассасин,ланайя,та,темпларка",
+      "ru":"темплар,ассассин,ассасин,ланайя,та,темпларка,еуьздфк фыыфыышт,еф",
       "egg":"wagamama"
     },
     "released": [
@@ -624,7 +624,7 @@
     "alt":"Netherdrake",
     "aliases":"",
     "aliases_more": {
-      "ru":"вайпер",
+      "ru":"вайпер,мшзук",
       "egg":""
     },
     "released": [
@@ -637,7 +637,7 @@
     "alt":"Moon Rider",
     "aliases":"",
     "aliases_more": {
-      "ru":"луна",
+      "ru":"луна,дгтф",
       "egg":""
     },
     "released": [
@@ -651,7 +651,7 @@
     "alt":"Davion",
     "aliases":"slyrak,dk,dragon's blood",
     "aliases_more": {
-      "ru":"дрэгон,драгон,найт,дк,дэвион,рыцарь,дракон",
+      "ru":"дрэгон,драгон,найт,дк,дэвион,рыцарь,дракон,вл,вкфпщт лтшпре",
       "egg":""
     },
     "released": [
@@ -664,7 +664,7 @@
     "alt":"Shadow Priest",
     "aliases":"",
     "aliases_more": {
-      "ru":"даззл",
+      "ru":"даззл,вфяяду",
       "egg":""
     },
     "released": [
@@ -677,7 +677,7 @@
     "alt":"Rattletrap",
     "aliases":"cw",
     "aliases_more": {
-      "ru":"клокверк,болтозвяк",
+      "ru":"клокверк,болтозвяк,сдщслцукл",
       "egg":""
     },
     "released": [
@@ -690,7 +690,7 @@
     "alt":"Tormented Soul",
     "aliases":"ts",
     "aliases_more": {
-      "ru":"лешрак,леший",
+      "ru":"лешрак,леший,олень,дуыркфс",
       "egg":""
     },
     "released": [
@@ -703,7 +703,7 @@
     "alt":"Furion",
     "aliases":"np,rat,bulldog",
     "aliases_more": {
-      "ru":"нейчурс,нейчерс,профет,нп,фура,натуральный,проповедник",
+      "ru":"нейчурс,нейчерс,профет,нп,фура,натуральный,проповедник,тз,тфегку зкщзруе",
       "egg":""
     },
     "released": [
@@ -716,7 +716,7 @@
     "alt":"N'aix",
     "aliases":"ghoul,ls",
     "aliases_more": {
-      "ru":"лайфстилер,найкс,нэйкс,гуля",
+      "ru":"лайфстилер,найкс,нэйкс,гуля,ды,дшауыеуфдук",
       "egg":""
     },
     "released": [
@@ -731,7 +731,7 @@
     "alt":"Ish'Kafel",
     "aliases":"ds",
     "aliases_more": {
-      "ru":"дарк,сир,дс,ишкафэль",
+      "ru":"дарк,сир,дс,ишкафэль,вы,вфкл ыуук",
       "egg":""
     },
     "released": [
@@ -744,7 +744,7 @@
     "alt":"Bone Fletcher",
     "aliases":"demon,archer,maraxiform",
     "aliases_more": {
-      "ru":"клинкз,боник",
+      "ru":"клинкз,боник,скелет,сдштля",
       "egg":""
     },
     "released": [
@@ -758,7 +758,7 @@
     "alt":"Purist Thunderwrath",
     "aliases":"omniscience,priest,slacks",
     "aliases_more": {
-      "ru":"омнинайт,омник,рыцарь всезнания,ревнитель громобой",
+      "ru":"омнинайт,омник,рыцарь всезнания,ревнитель громобой,щьтшлтшпре",
       "egg":""
     },
     "released": [
@@ -771,7 +771,7 @@
     "alt":"Aiushtha",
     "aliases":"",
     "aliases_more": {
-      "ru":"энчантресс,аюшта,коза",
+      "ru":"энчантресс,аюшта,коза,утсрфтекуыы",
       "egg":""
     },
     "released": [
@@ -784,7 +784,7 @@
     "alt":"Sacred Warrior",
     "aliases":"",
     "aliases_more": {
-      "ru":"хускар,хусик",
+      "ru":"хускар,хусик,ргылфк",
       "egg":""
     },
     "released": [
@@ -799,7 +799,7 @@
     "alt":"Balanar",
     "aliases":"ns",
     "aliases_more": {
-      "ru":"найт сталкер,нс,баланар",
+      "ru":"найт сталкер,нс,баланар,ты,тшпре ыефдлук",
       "egg":""
     },
     "released": [
@@ -812,7 +812,7 @@
     "alt":"Black Arachnia",
     "aliases":"bm,spider,Arachnia",
     "aliases_more": {
-      "ru":"брудмазер,бруда,чёрная арахния,мать,паучиха",
+      "ru":"брудмазер,бруда,чёрная арахния,мать,паучиха,икщщвьщерук",
       "egg":""
     },
     "released": [
@@ -827,7 +827,7 @@
     "alt":"Gondar",
     "aliases":"bh",
     "aliases_more": {
-      "ru":"баунти хантер,бх,гондар",
+      "ru":"баунти хантер,бх,гондар,ир,ищгтен ргтеук",
       "egg":""
     },
     "released": [
@@ -841,7 +841,7 @@
     "alt":"Skitskurr",
     "aliases":"nw",
     "aliases_more": {
-      "ru":"вивер,скитскурр",
+      "ru":"вивер,скитскурр,цуфмук",
       "egg":""
     },
     "released": [
@@ -854,7 +854,7 @@
     "alt":"Twin Head Dragon",
     "aliases":"thd,twin headed dragon",
     "aliases_more": {
-      "ru":"джакиро,тхд",
+      "ru":"джакиро,тхд,офлшкщ",
       "egg":""
     },
     "released": [
@@ -867,7 +867,7 @@
     "alt":"Jin'zakk",
     "aliases":"br",
     "aliases_more": {
-      "ru":"батрайдер,бэтрайдер,бэтик",
+      "ru":"батрайдер,бэтрайдер,бэтик,ифекшвук",
       "egg":""
     },
     "released": [
@@ -880,7 +880,7 @@
     "alt":"Holy Knight",
     "aliases":"",
     "aliases_more": {
-      "ru":"чен,рыцарь веры",
+      "ru":"чен,рыцарь веры,срут",
       "egg":"sikle"
     },
     "released": [
@@ -893,7 +893,7 @@
     "alt":"Mercurial",
     "aliases":"",
     "aliases_more": {
-      "ru":"спектра,меркуриал",
+      "ru":"спектра,меркуриал,ызусеку",
       "egg":"qwerty,leamare"
     },
     "released": [
@@ -906,7 +906,7 @@
     "alt":"Kaldr",
     "aliases":"aa,Ancient,Apparition",
     "aliases_more": {
-      "ru":"эншент,апаришн,аппаришн,аппарат,аа,калдр",
+      "ru":"эншент,апаришн,аппаришн,аппарат,аа,калдр,фтсшуте фззфкшешщт,фф",
       "egg":""
     },
     "released": [
@@ -934,7 +934,7 @@
     "alt":"Ulfsaar",
     "aliases":"bear",
     "aliases_more": {
-      "ru":"урса,медведь,ульфсаар,мишка",
+      "ru":"урса,медведь,ульфсаар,мишка,гкыф",
       "egg":""
     },
     "released": [
@@ -946,9 +946,9 @@
     "tag":"spirit_breaker",
     "name":"Spirit Breaker",
     "alt":"Barathrum",
-    "aliases":"sb",
+    "aliases":"sb,space cow",
     "aliases_more": {
-      "ru":"спирит брейкер,баратрум,корова",
+      "ru":"спирит брейкер,баратрум,корова,бык,ызшкше икуфлук",
       "egg":""
     },
     "released": [
@@ -962,7 +962,7 @@
     "alt":"Aurel",
     "aliases":"",
     "aliases_more": {
-      "ru":"джайрокоптер,гирокоптер,аурел",
+      "ru":"джайрокоптер,гирокоптер,аурел,пнкщсщзеук",
       "egg":""
     },
     "released": [
@@ -976,7 +976,7 @@
     "alt":"Razzil Darkbrew",
     "aliases":"Razzil",
     "aliases_more": {
-      "ru":"алкемист,алхимик,раззил темновар,химик",
+      "ru":"алкемист,алхимик,раззил темновар,химик,фдсруьшые",
       "egg":""
     },
     "released": [
@@ -989,7 +989,7 @@
     "alt":"Carl",
     "aliases":"destroyer,arsenal magus,kid",
     "aliases_more": {
-      "ru":"инвокер,карл",
+      "ru":"инвокер,карл,штмщлук",
       "egg":""
     },
     "alticons":["persona1"],
@@ -1004,7 +1004,7 @@
     "alt":"Nortrom",
     "aliases":"",
     "aliases_more": {
-      "ru":"сайленсер,нортром,сало",
+      "ru":"сайленсер,нортром,сало,ышдутсук",
       "egg":""
     },
     "released": [
@@ -1020,7 +1020,7 @@
     "alt":"Harbinger",
     "aliases":"od,devourer",
     "aliases_more": {
-      "ru":"од,аутворлд дестроер,предвестник",
+      "ru":"од,аутворлд дестроер,предвестник,щв,щгецщкдв вуыекщнук",
       "egg":""
     },
     "released": [
@@ -1034,7 +1034,7 @@
     "alt":"Banehallow",
     "aliases":"lycanthrope,wolf",
     "aliases_more": {
-      "ru":"лайкан,волк,ликантроп,бейнхаллоу",
+      "ru":"лайкан,волк,ликантроп,бейнхаллоу,днсфт",
       "egg":""
     },
     "released": [
@@ -1050,7 +1050,7 @@
     "alt":"Mangix",
     "aliases":"brew",
     "aliases_more": {
-      "ru":"брюмастер,пиво,мангикс",
+      "ru":"брюмастер,пиво,мангикс,икуцьфыеук",
       "egg":""
     },
     "released": [
@@ -1064,7 +1064,7 @@
     "alt":"Cult Leader",
     "aliases":"sd,Shadow,Demon",
     "aliases_more": {
-      "ru":"шадоу,шедоу,шэдоу,демон,шд",
+      "ru":"шадоу,шедоу,шэдоу,демон,шд,ыв,ырфвщц вуьщт",
       "egg":""
     },
     "released": [
@@ -1078,7 +1078,7 @@
     "alt":"Sylla",
     "aliases":"bear,bulldog,ld",
     "aliases_more": {
-      "ru":"лоун друид,лд,медведь,силла",
+      "ru":"лоун друид,лд,медведь,силла,дв,дщту вкгшв",
       "egg":""
     },
     "released": [
@@ -1094,7 +1094,7 @@
     "alt":"Armageddon Rider",
     "aliases":"fundamental",
     "aliases_more": {
-      "ru":"хаос,чаос,кейос,найт,цк,рыцарь хаоса",
+      "ru":"хаос,чаос,кейос,найт,цк,рыцарь хаоса,срфщы лтшпре,сл",
       "egg":""
     },
     "released": [
@@ -1108,7 +1108,7 @@
     "alt":"Geomancer",
     "aliases":"meepwn",
     "aliases_more": {
-      "ru":"мипо,геомансер,геомант,мипарь",
+      "ru":"мипо,геомансер,геомант,мипарь,ьуузщ",
       "egg":"sheepsticked,reya"
     },
     "released": [
@@ -1122,7 +1122,7 @@
     "alt":"Rooftrellen",
     "aliases":"tree",
     "aliases_more": {
-      "ru":"трент,трэнт,протектор,руфтреллен",
+      "ru":"трент,трэнт,протектор,руфтреллен,екуфте",
       "egg":""
     },
     "released": [
@@ -1138,7 +1138,7 @@
     "alt":"Aggron Stonebreak",
     "aliases":"om",
     "aliases_more": {
-      "ru":"огр,маг,аггрон камнелом",
+      "ru":"огр,маг,аггрон камнелом,щпку ьфпш",
       "egg":""
     },
     "alticons":["alt1", "alt2"],
@@ -1153,7 +1153,7 @@
     "alt":"Almighty Dirge",
     "aliases":"zombie",
     "aliases_more": {
-      "ru":"андаинг,зомби",
+      "ru":"андаинг,зомби,гтвнштп",
       "egg":""
     },
     "released": [
@@ -1167,7 +1167,7 @@
     "alt":"Grand Magus",
     "aliases":"gm",
     "aliases_more": {
-      "ru":"рубик,рубен",
+      "ru":"рубик,рубен,кгишсл",
       "egg":""
     },
     "alticons":["alt"],
@@ -1182,7 +1182,7 @@
     "alt":"Stormcrafter",
     "aliases":"",
     "aliases_more": {
-      "ru":"дизраптор,дисраптор",
+      "ru":"дизраптор,дисраптор,вшыкгзещк",
       "egg":""
     },
     "released": [
@@ -1195,7 +1195,7 @@
     "alt":"Zealot Scarab",
     "aliases":"na",
     "aliases_more": {
-      "ru":"никс,нюкс,ассассин,ассасин",
+      "ru":"никс,нюкс,ассассин,ассасин,тнч фыыфыышт",
       "egg":""
     },
     "released": [
@@ -1208,7 +1208,7 @@
     "alt":"Slithice",
     "aliases":"slithereen",
     "aliases_more": {
-      "ru":"нага,сайрен,сирена,слизис",
+      "ru":"нага,сайрен,сирена,слизис,тфпф ышкут",
       "egg":""
     },
     "released": [
@@ -1222,7 +1222,7 @@
     "alt":"Ezalor",
     "aliases":"kotl,fundamental",
     "aliases_more": {
-      "ru":"кипер оф зе лайт,котл,котёл,эзалор",
+      "ru":"кипер оф зе лайт,котл,котёл,эзалор,лщед,луузук ща еру дшпре",
       "egg":""
     },
     "released": [
@@ -1235,7 +1235,7 @@
     "alt":"Wisp",
     "aliases":"fundamental",
     "aliases_more": {
-      "ru":"ио,висп",
+      "ru":"ио,висп,цшыз,шщ",
       "egg":""
     },
     "released": [
@@ -1251,7 +1251,7 @@
     "alt":"Necro'lic",
     "aliases":"",
     "aliases_more": {
-      "ru":"визедж,визаж,некролик",
+      "ru":"визедж,визаж,некролик,мшыфпу",
       "egg":""
     },
     "released": [
@@ -1264,7 +1264,7 @@
     "alt":"Nightcrawler",
     "aliases":"",
     "aliases_more": {
-      "ru":"сларк",
+      "ru":"сларк,ыдфкл",
       "egg":""
     },
     "released": [
@@ -1278,7 +1278,7 @@
     "alt":"Gorgon",
     "aliases":"",
     "aliases_more": {
-      "ru":"медуза,горгона",
+      "ru":"медуза,горгона,ьувгыф",
       "egg":""
     },
     "released": [
@@ -1294,7 +1294,7 @@
     "alt":"Jah'rakal",
     "aliases":"",
     "aliases_more": {
-      "ru":"тролль,варлорд,джаракал",
+      "ru":"тролль,варлорд,джаракал,екщдд",
       "egg":""
     },
     "released": [
@@ -1308,7 +1308,7 @@
     "alt":"Bradwarden",
     "aliases":"Warrunner",
     "aliases_more": {
-      "ru":"кентавр-вождь,брэдводен",
+      "ru":"кентавр-вождь,брэдводен,сутефгк",
       "egg":""
     },
     "released": [
@@ -1322,8 +1322,8 @@
     "alt":"Magnoceros",
     "aliases":"",
     "aliases_more": {
-      "ru":"магнус,автобус",
-      "egg":""
+      "ru":"магнус,автобус,магнатавр,мага,ьфптгы",
+      "egg":"collapse,diffusion"
     },
     "released": [
       [ 1349297449, 500 ],
@@ -1336,7 +1336,7 @@
     "alt":"Rizzrack",
     "aliases":"",
     "aliases_more": {
-      "ru":"тимберсо,риззрак,древопил",
+      "ru":"тимберсо,риззрак,древопил,ешьиукыфц",
       "egg":""
     },
     "released": [
@@ -1350,7 +1350,7 @@
     "alt":"Rigwarl",
     "aliases":"bb",
     "aliases_more": {
-      "ru":"бристлбэк,брислбэк,ёжик,ригварл",
+      "ru":"бристлбэк,брислбэк,ёжик,ригварл,икшыедуифсл,ии",
       "egg":""
     },
     "released": [
@@ -1364,7 +1364,7 @@
     "alt":"Ymir",
     "aliases":"",
     "aliases_more": {
-      "ru":"туск,таск,тусик,имир,бивень",
+      "ru":"туск,таск,тусик,имир,бивень,егыл",
       "egg":""
     },
     "released": [
@@ -1378,7 +1378,7 @@
     "alt":"Dragonus",
     "aliases":"sky,sm",
     "aliases_more": {
-      "ru":"скайрас,мейдж,маг,драгонус,петух",
+      "ru":"скайрас,мейдж,маг,драгонус,петух,ылнцкфер ьфпу",
       "egg":""
     },
     "released": [
@@ -1392,7 +1392,7 @@
     "alt":"Lord of Avernus",
     "aliases":"",
     "aliases_more": {
-      "ru":"абаддон,аббадон",
+      "ru":"абаддон,аббадон,фифввщт",
       "egg":""
     },
     "released": [
@@ -1406,7 +1406,7 @@
     "alt":"Cairne the Worldsmith",
     "aliases":"et,tauren chieftain,tc",
     "aliases_more": {
-      "ru":"элдер,тайтан,титан",
+      "ru":"элдер,тайтан,титан,удвук ешефт",
       "egg":""
     },
     "released": [
@@ -1420,7 +1420,7 @@
     "alt":"Tresdin",
     "aliases":"lc",
     "aliases_more": {
-      "ru":"лиджен,коммандер,легионка,лега,лц,тресдин",
+      "ru":"лиджен,коммандер,легионка,лега,лц,тресдин,дс,дупшщт",
       "egg":""
     },
     "alticons":["alt"],
@@ -1435,7 +1435,7 @@
     "alt":"Squee, Spleen and Spoon",
     "aliases":"miner",
     "aliases_more": {
-      "ru":"минер,текис,течис,течка",
+      "ru":"минер,текис,течис,течка,еусршуы",
       "egg":""
     },
     "alticons":["alt"],
@@ -1452,7 +1452,7 @@
     "alt":"Xin",
     "aliases":"ana,es",
     "aliases_more": {
-      "ru":"эмбер спирит,син",
+      "ru":"эмбер спирит,син,уьиук ызшкше",
       "egg":""
     },
     "released": [
@@ -1466,7 +1466,7 @@
     "alt":"Kaolin",
     "aliases":"es,jerax",
     "aliases_more": {
-      "ru":"эрс спирит,ес,каолин,земеля,земля",
+      "ru":"эрс спирит,ес,каолин,земеля,земля,уфкер ызшкше",
       "egg":""
     },
     "released": [
@@ -1480,7 +1480,7 @@
     "alt":"Vrogros",
     "aliases":"pitlord,Azgalor,ul",
     "aliases_more": {
-      "ru":"андерлорд,питлорд,врогрош",
+      "ru":"андерлорд,питлорд,врогрош,гтвукдщкв",
       "egg":""
     },
     "released": [
@@ -1494,7 +1494,7 @@
     "alt":"Demon Marauder",
     "aliases":"demon,tb",
     "aliases_more": {
-      "ru":"террорблейд,тб",
+      "ru":"террорблейд,тб,еуккщкидфву",
       "egg":""
     },
     "alticons":["alt"],
@@ -1511,7 +1511,7 @@
     "alt":"Star",
     "aliases":"firebird,sun,ph",
     "aliases_more": {
-      "ru":"феникс",
+      "ru":"феникс,зрщутшч",
       "egg":""
     },
     "released": [
@@ -1525,7 +1525,7 @@
     "alt":"Nerif",
     "aliases":"ora",
     "aliases_more": {
-      "ru":"оракл,оракул,нериф",
+      "ru":"оракл,оракул,нериф,щкфсду",
       "egg":""
     },
     "released": [
@@ -1539,7 +1539,7 @@
     "alt":"Auroth",
     "aliases":"ww",
     "aliases_more": {
-      "ru":"винтер вайверн,аурос,виверна",
+      "ru":"винтер вайверн,аурос,виверна,цц,цштеук цнмукт",
       "egg":""
     },
     "released": [
@@ -1555,7 +1555,7 @@
     "alt":"Zet",
     "aliases":"ancient,aw",
     "aliases_more": {
-      "ru":"арк,варден,ворден,зет,самость",
+      "ru":"арк,варден,ворден,зет,самость,фкс цфквут",
       "egg":"degaz"
     },
     "released": [
@@ -1569,7 +1569,7 @@
     "alt":"Sun Wukong",
     "aliases":"mk",
     "aliases_more": {
-      "ru":"манки кинг,мк,сунь укун,царь,король,обезьяна",
+      "ru":"манки кинг,мк,сунь укун,царь,король,обезьяна,ьщтлун лштп,ьл",
       "egg":""
     },
     "alticons":["alt"],
@@ -1584,7 +1584,7 @@
     "alt":"Mireska",
     "aliases":"sylph,fairy,dw",
     "aliases_more": {
-      "ru":"дарк виллоу,вилка,миреска солнечная,фея",
+      "ru":"дарк виллоу,вилка,миреска солнечная,фея,вфкл цшддщц,вц",
       "egg":"sparky"
     },
     "released": [
@@ -1598,7 +1598,7 @@
     "alt":"Donte",
     "aliases":"armodillo,ar",
     "aliases_more": {
-      "ru":"пангольер,донте панлин",
+      "ru":"пангольер,донте панлин,зфтпщдшук",
       "egg":""
     },
     "released": [
@@ -1609,10 +1609,10 @@
   "121": {
     "tag":"grimstroke",
     "name":"Grimstroke",
-    "alt":"Ascended One",
+    "alt":"Ashkavor",
     "aliases":"ashkavor,artist,brush,gs",
     "aliases_more": {
-      "ru":"гримстроук",
+      "ru":"гримстроук,пкшьыекщлу",
       "egg":""
     },
     "released": [
@@ -1626,7 +1626,7 @@
     "alt":"Sharpshooter",
     "aliases":"squirrel,rat,mouse,mistwoods,hw",
     "aliases_more": {
-      "ru":"худвинк,белка",
+      "ru":"худвинк,белка,рщщвцштл",
       "egg":""
     },
     "released": [
@@ -1640,7 +1640,7 @@
     "alt":"Inai",
     "aliases":"vs",
     "aliases_more": {
-      "ru":"войд спирит,инай",
+      "ru":"войд спирит,инай,мы,мщшв ызшкше",
       "egg":""
     },
     "released": [
@@ -1654,7 +1654,7 @@
     "alt":"Beatrix",
     "aliases":"granny,snap,mortimer",
     "aliases_more": {
-      "ru":"снэпфайр,снэпфаер,снэпка,бабка,мортимер,беатрикс",
+      "ru":"снэпфайр,снэпфаер,снэпка,бабка,мортимер,беатрикс,ытфзашку",
       "egg":""
     },
     "released": [
@@ -1668,7 +1668,7 @@
     "alt":"First Son of Heaven",
     "aliases":"ares,god of war",
     "aliases_more": {
-      "ru":"марс,арес",
+      "ru":"марс,арес,ьфкы",
       "egg":""
     },
     "released": [
@@ -1682,7 +1682,7 @@
     "alt":"Great Cogliostro Kettle",
     "aliases":"puppet master,clockwork marvel,marionetto,circus,osbert kettle,rm,cogliostro",
     "aliases_more": {
-      "ru":"рингмастер,марионетто,колиостро кеттл",
+      "ru":"рингмастер,марионетто,колиостро кеттл,кштпьфыеук",
       "egg":""
     },
     "released": [
@@ -1696,7 +1696,7 @@
     "alt":"Valora",
     "aliases":"battlemaiden,valkyrie,db",
     "aliases_more": {
-      "ru":"донбрейкер,валора,дб",
+      "ru":"донбрейкер,валора,дб,ви,вфцтикуфлук",
       "egg":""
     },
     "released": [
@@ -1710,7 +1710,7 @@
     "alt":"Sidekick",
     "aliases":"fighter,bruiser",
     "aliases_more": {
-      "ru":"марси",
+      "ru":"марси,ьфксш",
       "egg":""
     },
     "released": [
@@ -1724,7 +1724,7 @@
     "alt":"Fenrir",
     "aliases":"pb",
     "aliases_more": {
-      "ru":"праймал бист,динозавр",
+      "ru":"праймал бист,динозавр,зкшьфд иуфые,зи",
       "egg":""
     },
     "released": [
@@ -1738,7 +1738,7 @@
     "alt":"Celeste",
     "aliases":"revenant,death,mercy,grace",
     "aliases_more": {
-      "ru":"муэрта",
+      "ru":"муэрта,ьгукеф",
       "egg":""
     },
     "released": [
@@ -1752,7 +1752,7 @@
     "alt":"Kazurai Warrior",
     "aliases":"bird samurai,kestrel",
     "aliases_more": {
-      "ru":"кез,самурай,кестрель,казурай,попугай",
+      "ru":"кез,самурай,кестрель,казурай,попугай,луя",
       "egg":""
     },
     "released": [
@@ -1766,7 +1766,7 @@
     "alt":"Shamanic Bard Frog",
     "aliases":"bard_frog,bard,frog",
     "aliases_more": {
-      "ru":"ларго,бард,лягушка,жаба,лягух",
+      "ru":"ларго,бард,лягушка,жаба,лягух,дфкпщ",
       "egg":"wednesday"
     },
     "released": [
