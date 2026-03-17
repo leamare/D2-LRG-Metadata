@@ -1,1269 +1,1777 @@
 {
-  "1":{
-      "tag":"antimage",
-      "name":"Anti-Mage",
-      "alt":"Magina",
-      "aliases":"am,wei",
-      "alticons": ["persona1"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "2":{
-      "tag":"axe",
-      "name":"Axe",
-      "alt":"Mogul Khan",
-      "aliases":"",
-      "alticons": ["alt"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "3":{
-      "tag":"bane",
-      "name":"Bane",
-      "alt":"Atropos",
-      "aliases":"",
-      "released": [
-        [ 1329339049,  300 ],
-        [ 1331153449,  400, 1 ]
-      ]
-  },
-  "4":{
-      "tag":"bloodseeker",
-      "name":"Bloodseeker",
-      "alt":"Strygwyr",
-      "aliases":"bs",
-      "released": [
-        [ 1317847849,  200, 1 ],
-        [ 1411591849, 1200, 0 ],
-        [ 1418766649, 1300, 1 ]
-      ]
-  },
-  "5":{
-      "tag":"crystal_maiden",
-      "name":"Crystal Maiden",
-      "alt":"Rylai",
-      "aliases":"cm,blueheart,conduit,wolf",
-      "alticons": ["alt1", "persona1"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "6":{
-      "tag":"drow_ranger",
-      "name":"Drow Ranger",
-      "alt":"Traxex",
-      "aliases":"",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1288558800,    0, 1 ],
-        [ 1351108800,  602, 0 ],
-        [ 1366315200,  701, 1 ]
-      ]
-  },
-  "7":{
-      "tag":"earthshaker",
-      "name":"Earthshaker",
-      "alt":"",
-      "aliases":"es",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "8":{
-      "tag":"juggernaut",
-      "name":"Juggernaut",
-      "alt":"Yurnero",
-      "aliases":"",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1317329449,  200, 1 ]
-      ]
-  },
-  "9":{
-      "tag":"mirana",
-      "name":"Mirana",
-      "alt":"Priestess of the Moon",
-      "aliases":"potm",
-      "alticons": ["persona1"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "10":{
-      "tag":"morphling",
-      "name":"Morphling",
-      "alt":"Water",
-      "aliases":"",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "11":{
-      "tag":"nevermore",
-      "name":"Shadow Fiend",
-      "alt":"Nevermore",
-      "aliases":"sf,zxc,yaphets,demon",
-      "alticons": ["alt"],
-      "released": [
-        [ 1306356649,    0, 1 ]
-      ]
-  },
-  "12":{
-      "tag":"phantom_lancer",
-      "name":"Phantom Lancer",
-      "alt":"Azwraith",
-      "aliases":"pl",
-      "released": [
-        [ 1335991849,  400 ],
-        [ 1336596649,  400, 1 ],
-        [ 1411591849, 1200, 0 ],
-        [ 1423699200, 1302, 1 ]
-      ]
-  },
-  "13":{
-      "tag":"puck",
-      "name":"Puck",
-      "alt":"Faerie Dragon",
-      "aliases":"",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "14":{
-      "tag":"pudge",
-      "name":"Pudge",
-      "alt":"Butcher",
-      "aliases":"dendi,toy",
-      "alticons": ["alt1", "alt2", "persona1"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "15":{
-      "tag":"razor",
-      "name":"Razor",
-      "alt":"Lightning Revenant",
-      "aliases":"",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "16":{
-      "tag":"sand_king",
-      "name":"Sand King",
-      "alt":"Crixalis",
-      "aliases":"sk,scorpion",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "17":{
-      "tag":"storm_spirit",
-      "name":"Storm Spirit",
-      "alt":"Raijin Thunderkeg",
-      "aliases":"ss",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "18":{
-      "tag":"sven",
-      "name":"Sven",
-      "alt":"Rogue Knight",
-      "aliases":"vigil",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "19":{
-      "tag":"tiny",
-      "name":"Tiny",
-      "alt":"Stone Giant",
-      "aliases":"",
-      "released": [
-        [ 1298065849,    0, 1 ]
-      ]
-  },
-  "20":{
-      "tag":"vengefulspirit",
-      "name":"Vengeful Spirit",
-      "alt":"Shendelzare",
-      "aliases":"vs",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "21":{
-      "tag":"windrunner",
-      "name":"Windranger",
-      "alt":"Lyralei",
-      "aliases":"wr",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "22":{
-      "tag":"zuus",
-      "name":"Zeus",
-      "alt":"Lord of Heaven",
-      "aliases":"lightning god",
-      "alticons": ["alt"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "23":{
-      "tag":"kunkka",
-      "name":"Kunkka",
-      "alt":"Admiral",
-      "aliases":"attacker",
-      "released": [
-        [ 1317847849,  200, 1 ]
-      ]
-  },
-  "25":{
-      "tag":"lina",
-      "name":"Lina",
-      "alt":"Slayer",
-      "aliases":"",
-      "alticons": ["alt"],
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "26":{
-      "tag":"lion",
-      "name":"Lion",
-      "alt":"Demon Witch",
-      "aliases":"",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "27":{
-      "tag":"shadow_shaman",
-      "name":"Shadow Shaman",
-      "alt":"Rhasta",
-      "aliases":"ss",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "28":{
-      "tag":"slardar",
-      "name":"Slardar",
-      "alt":"Slithereen Guard",
-      "aliases":"",
-      "released": [
-        [ 1295301049,    0, 1 ]
-      ]
-  },
-  "29":{
-      "tag":"tidehunter",
-      "name":"Tidehunter",
-      "alt":"Leviathan",
-      "aliases":"",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "30":{
-      "tag":"witch_doctor",
-      "name":"Witch Doctor",
-      "alt":"Zharvakko",
-      "aliases":"wd,voodoo",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "31":{
-      "tag":"lich",
-      "name":"Lich",
-      "alt":"Ethreain",
-      "aliases":"",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "32":{
-      "tag":"riki",
-      "name":"Riki",
-      "alt":"Stealth Assassin",
-      "aliases":"tahlin,rikimaru",
-      "released": [
-        [ 1318452649,  200, 1 ],
-        [ 1450216249, 1600, 0 ],
-        [ 1461534649, 1700, 1 ]
-      ]
-  },
-  "33":{
-      "tag":"enigma",
-      "name":"Enigma",
-      "alt":"Gravity Fundamental",
-      "aliases":"",
-      "released": [
-        [ 1265925049,    0, 1 ]
-      ]
-  },
-  "34":{
-      "tag":"tinker",
-      "name":"Tinker",
-      "alt":"Boush",
-      "aliases":"",
-      "released": [
-        [ 1306961449,    0, 1 ]
-      ]
-  },
-  "35":{
-      "tag":"sniper",
-      "name":"Sniper",
-      "alt":"Kardel Sharpeye",
-      "aliases":"",
-      "released": [
-        [ 1304110249,    0, 1 ]
-      ]
-  },
-  "36":{
-      "tag":"necrolyte",
-      "name":"Necrophos",
-      "alt":"Rotund'jere",
-      "aliases":"pope of pestilence,rotundjere",
-      "released": [
-        [ 1288558800,    0, 1 ],
-        [ 1481490000, 1900, 0 ],
-        [ 1482181200, 2000, 1 ]
-      ]
-  },
-  "37":{
-      "tag":"warlock",
-      "name":"Warlock",
-      "alt":"Demnok Lannik",
-      "aliases":"",
-      "released": [
-        [ 1320958249,  200, 1 ]
-      ]
-  },
-  "38":{
-      "tag":"beastmaster",
-      "name":"Beastmaster",
-      "alt":"Karroch",
-      "aliases":"rexxar,bm",
-      "released": [
-        [ 1305838249,    0, 1 ]
-      ]
-  },
-  "39":{
-      "tag":"queenofpain",
-      "name":"Queen of Pain",
-      "alt":"Akasha",
-      "aliases":"qop",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1319057449,  200, 1 ]
-      ]
-  },
-  "40":{
-      "tag":"venomancer",
-      "name":"Venomancer",
-      "alt":"Lesale Deathbringer",
-      "aliases":"snake,herbalist",
-      "released": [
-        [ 1302295849,    0, 1 ]
-      ]
-  },
-  "41":{
-      "tag":"faceless_void",
-      "name":"Faceless Void",
-      "alt":"Darkterror",
-      "aliases":"fv,void,claszureme",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1266529849,    0, 1 ],
-        [ 1450216249, 1600, 0 ],
-        [ 1450561849, 1601, 1 ]
-      ]
-  },
-  "42":{
-      "tag":"skeleton_king",
-      "name":"Wraith King",
-      "alt":"Ostarion",
-      "aliases":"leoric,wk,sk",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1319057449,  200, 1 ]
-      ]
-  },
-  "43":{
-      "tag":"death_prophet",
-      "name":"Death Prophet",
-      "alt":"Krobelus",
-      "aliases":"dp",
-      "released": [
-        [ 1323377449,  200, 1 ],
-        [ 1450216249, 1600, 0 ],
-        [ 1450561849, 1601, 1 ]
-      ]
-  },
-  "44":{
-      "tag":"phantom_assassin",
-      "name":"Phantom Assassin",
-      "alt":"Mortred",
-      "aliases":"pa,asan",
-      "alticons": ["alt1", "persona1"],
-      "released": [
-        [ 1339361449,  400 ],
-        [ 1339620649,  400, 1 ]
-      ]
-  },
-  "45":{
-      "tag":"pugna",
-      "name":"Pugna",
-      "alt":"Oblivion Mage",
-      "aliases":"",
-      "released": [
-        [ 1305838249,    0, 1 ]
-      ]
-  },
-  "46":{
-      "tag":"templar_assassin",
-      "name":"Templar Assassin",
-      "alt":"Lanaya",
-      "aliases":"ta",
-      "released": [
-        [ 1342039849,  400, 1]
-      ]
-  },
-  "47":{
-      "tag":"viper",
-      "name":"Viper",
-      "alt":"Netherdrake",
-      "aliases":"",
-      "released": [
-        [ 1298065849,    0, 1 ]
-      ]
-  },
-  "48":{
-      "tag":"luna",
-      "name":"Luna",
-      "alt":"Moon Rider",
-      "aliases":"",
-      "released": [
-        [ 1340830249,  400 ],
-        [ 1341435049,  400, 1 ]
-      ]
-  },
-  "49":{
-      "tag":"dragon_knight",
-      "name":"Dragon Knight",
-      "alt":"Davion",
-      "aliases":"slyrak,dk,dragon's blood",
-      "released": [
-        [ 1320267049,  200, 1 ]
-      ]
-  },
-  "50":{
-      "tag":"dazzle",
-      "name":"Dazzle",
-      "alt":"Shadow Priest",
-      "aliases":"",
-      "released": [
-        [ 1288558800,    0, 1 ]
-      ]
-  },
-  "51":{
-      "tag":"rattletrap",
-      "name":"Clockwerk",
-      "alt":"Rattletrap",
-      "aliases":"",
-      "released": [
-        [ 1303246249,    0, 1 ]
-      ]
-  },
-  "52":{
-      "tag":"leshrac",
-      "name":"Leshrac",
-      "alt":"Tormented Soul",
-      "aliases":"",
-      "released": [
-        [ 1306356649,    0, 1 ]
-      ]
-  },
-  "53":{
-      "tag":"furion",
-      "name":"Nature's Prophet",
-      "alt":"Furion",
-      "aliases":"np,rat,bulldog",
-      "released": [
-        [ 1303246249,    0, 1 ]
-      ]
-  },
-  "54":{
-      "tag":"life_stealer",
-      "name":"Lifestealer",
-      "alt":"N'aix",
-      "aliases":"ghoul,ls,naix",
-      "released": [
-        [ 1322772649,  200, 1 ],
-        [ 1418766649, 1300, 0 ],
-        [ 1419371449, 1300, 1 ]
-      ]
-  },
-  "55":{
-      "tag":"dark_seer",
-      "name":"Dark Seer",
-      "alt":"Ish'Kafel",
-      "aliases":"ds,ishkafel",
-      "released": [
-        [ 1304110249,    0, 1 ]
-      ]
-  },
-  "56":{
-      "tag":"clinkz",
-      "name":"Clinkz",
-      "alt":"Bone Fletcher",
-      "aliases":"demon,archer,maraxiform",
-      "released": [
-        [ 1327524649,  300 ],
-        [ 1329339049,  300, 1 ]
-      ]
-  },
-  "57":{
-      "tag":"omniknight",
-      "name":"Omniknight",
-      "alt":"Purist Thunderwrath",
-      "aliases":"omniscience,priest,slacks",
-      "released": [
-        [ 1320267049,  200, 1 ]
-      ]
-  },
-  "58":{
-      "tag":"enchantress",
-      "name":"Enchantress",
-      "alt":"Aiushtha",
-      "aliases":"",
-      "released": [
-        [ 1306356649,    0, 1 ]
-      ]
-  },
-  "59":{
-      "tag":"huskar",
-      "name":"Huskar",
-      "alt":"Sacred Warrior",
-      "aliases":"",
-      "released": [
-        [ 1319662249,  200, 1 ],
-        [ 1370292649,  800, 0 ],
-        [ 1386795049,  901, 1 ]
-      ]
-  },
-  "60":{
-      "tag":"night_stalker",
-      "name":"Night Stalker",
-      "alt":"Balanar",
-      "aliases":"ns",
-      "released": [
-        [ 1307739049,    0, 1 ]
-      ]
-  },
-  "61":{
-      "tag":"broodmother",
-      "name":"Broodmother",
-      "alt":"Black Arachnia",
-      "aliases":"bm,spider",
-      "released": [
-        [ 1319057449,  200, 1 ],
-        [ 1382302249,  900, 0 ],
-        [ 1416433849, 1202, 1 ]
-      ]
-  },
-  "62":{
-      "tag":"bounty_hunter",
-      "name":"Bounty Hunter",
-      "alt":"Gondar",
-      "aliases":"bh",
-      "released": [
-        [ 1324414249,  200 ],
-        [ 1326315049,  300, 1 ]
-      ]
-  },
-  "63":{
-      "tag":"weaver",
-      "name":"Weaver",
-      "alt":"Skitskurr",
-      "aliases":"",
-      "released": [
-        [ 1307652649,    0, 1 ]
-      ]
-  },
-  "64":{
-      "tag":"jakiro",
-      "name":"Jakiro",
-      "alt":"Twin Head Dragon",
-      "aliases":"thd",
-      "released": [
-        [ 1319662249,  200, 1 ]
-      ]
-  },
-  "65":{
-      "tag":"batrider",
-      "name":"Batrider",
-      "alt":"Jin'zakk",
-      "aliases":"",
-      "released": [
-        [ 1319662249,  200, 1 ]
-      ]
-  },
-  "66":{
-      "tag":"chen",
-      "name":"Chen",
-      "alt":"Holy Knight",
-      "aliases":"",
-      "released": [
-        [ 1309467049,    0, 1 ]
-      ]
-  },
-  "67":{
-      "tag":"spectre",
-      "name":"Spectre",
-      "alt":"Mercurial",
-      "aliases":"qwerty,leamare",
-      "released": [
-        [ 1308257449,    0, 1 ]
-      ]
-  },
-  "68":{
-      "tag":"ancient_apparition",
-      "name":"Ancient Apparition",
-      "alt":"Kaldr",
-      "aliases":"aa",
-      "released": [
-        [ 1308257449,    0, 1 ]
-      ]
-  },
-  "69":{
-      "tag":"doom_bringer",
-      "name":"Doom",
-      "alt":"Lucifer",
-      "aliases":"demon",
-      "released": [
-        [ 1308862249,    0, 1 ],
-        [ 1450216249, 1600, 0 ],
-        [ 1450561849, 1601, 1 ]
-      ]
-  },
-  "70":{
-      "tag":"ursa",
-      "name":"Ursa",
-      "alt":"Ulfsaar",
-      "aliases":"bear",
-      "released": [
-        [ 1323895849,  200 ],
-        [ 1326315049,  300, 1 ]
-      ]
-  },
-  "71":{
-      "tag":"spirit_breaker",
-      "name":"Spirit Breaker",
-      "alt":"Barathrum",
-      "aliases":"sb",
-      "released": [
-        [ 1326315049,  300 ],
-        [ 1326919849,  300, 1 ]
-      ]
-  },
-  "72":{
-      "tag":"gyrocopter",
-      "name":"Gyrocopter",
-      "alt":"Aurel",
-      "aliases":"",
-      "released": [
-        [ 1339361449,  400 ],
-        [ 1339620649,  400, 1 ]
-      ]
-  },
-  "73":{
-      "tag":"alchemist",
-      "name":"Alchemist",
-      "alt":"Razzil Darkbrew",
-      "aliases":"",
-      "released": [
-        [ 1321563049,  200, 1 ]
-      ]
-  },
-  "74":{
-      "tag":"invoker",
-      "name":"Invoker",
-      "alt":"Carl",
-      "aliases":"carl,destroyer,arsenal magus,kid",
-      "alticons": ["persona1"],
-      "released": [
-        [ 1326919849,  300 ],
-        [ 1327524649,  300, 1 ]
-      ]
-  },
-  "75":{
-      "tag":"silencer",
-      "name":"Silencer",
-      "alt":"Nortrom",
-      "aliases":"",
-      "released": [
-        [ 1326315049,  300 ],
-        [ 1326919849,  300, 1 ],
-        [ 1351111849,  600, 0 ],
-        [ 1360183849,  701, 1 ]
-      ]
-  },
-  "76":{
-      "tag":"obsidian_destroyer",
-      "name":"Outworld Destroyer",
-      "alt":"Harbinger",
-      "aliases":"od,devourer",
-      "released": [
-        [ 1329339049,  300 ],
-        [ 1330548649,  300, 1 ]
-      ]
-  },
-  "77":{
-      "tag":"lycan",
-      "name":"Lycan",
-      "alt":"Banehallow",
-      "aliases":"lycanthrope,wolf",
-      "released": [
-        [ 1332363049,  300 ],
-        [ 1332881449,  300, 1 ],
-        [ 1481490000, 1900, 0 ],
-        [ 1486504249, 2100, 1 ]
-      ]
-  },
-  "78":{
-      "tag":"brewmaster",
-      "name":"Brewmaster",
-      "alt":"Mangix",
-      "aliases":"brew",
-      "released": [
-        [ 1334782249,  400 ],
-        [ 1335387049,  400, 1 ]
-      ]
-  },
-  "79":{
-      "tag":"shadow_demon",
-      "name":"Shadow Demon",
-      "alt":"Cult Leader",
-      "aliases":"sd",
-      "released": [
-        [ 1331758249,  300 ],
-        [ 1332363049,  300, 1 ]
-      ]
-  },
-  "80":{
-      "tag":"lone_druid",
-      "name":"Lone Druid",
-      "alt":"Sylla",
-      "aliases":"bear,bulldog,ld",
-      "released": [
-        [ 1332881449,  300 ],
-        [ 1334177449,  400, 1 ],
-        [ 1450216249, 1600, 0 ],
-        [ 1450569600, 1601, 1 ]
-      ]
-  },
-  "81":{
-      "tag":"chaos_knight",
-      "name":"Chaos Knight",
-      "alt":"Armageddon Rider",
-      "aliases":"fundamental",
-      "released": [
-        [ 1339361449,  400 ],
-        [ 1339620649,  400, 1 ]
-      ]
-  },
-  "82":{
-      "tag":"meepo",
-      "name":"Meepo",
-      "alt":"Geomancer",
-      "aliases":"",
-      "released": [
-        [ 1348087849,  400 ],
-        [ 1349902249,  500, 1 ]
-      ]
-  },
-  "83":{
-      "tag":"treant",
-      "name":"Treant Protector",
-      "alt":"Rooftrellen",
-      "aliases":"tree",
-      "released": [
-        [ 1337201449,  400 ],
-        [ 1337806249,  400, 1 ],
-        [ 1481493049, 1900, 0 ],
-        [ 1491688249, 2400, 1 ]
-      ]
-  },
-  "84":{
-      "tag":"ogre_magi",
-      "name":"Ogre Magi",
-      "alt":"Aggron Stonebreak",
-      "aliases":"",
-      "alticons": ["alt1", "alt2"],
-      "released": [
-        [ 1337806249,  400 ],
-        [ 1338411049,  400, 1 ]
-      ]
-  },
-  "85":{
-      "tag":"undying",
-      "name":"Undying",
-      "alt":"Almighty Dirge",
-      "aliases":"zombie",
-      "released": [
-        [ 1341435049,  400 ],
-        [ 1342039849,  400, 1 ]
-      ]
-  },
-  "86":{
-      "tag":"rubick",
-      "name":"Rubick",
-      "alt":"Grand Magus",
-      "aliases":"gm",
-      "alticons": ["alt"],
-      "released": [
-        [ 1340139049,  400 ],
-        [ 1341435049,  400, 1 ]
-      ]
-  },
-  "87":{
-      "tag":"disruptor",
-      "name":"Disruptor",
-      "alt":"Stormcrafter",
-      "aliases":"",
-      "released": [
-        [ 1341435049,  400, 1 ]
-      ]
-  },
-  "88":{
-      "tag":"nyx_assassin",
-      "name":"Nyx Assassin",
-      "alt":"Zealot Scarab",
-      "aliases":"",
-      "released": [
-        [ 1343249449,  400, 1 ]
-      ]
-  },
-  "89":{
-      "tag":"naga_siren",
-      "name":"Naga Siren",
-      "alt":"Slithice",
-      "aliases":"slithereen",
-      "released": [
-        [ 1342644649,  400 ],
-        [ 1342039849,  400, 1 ]
-      ]
-  },
-  "90":{
-      "tag":"keeper_of_the_light",
-      "name":"Keeper of the Light",
-      "alt":"Ezalor",
-      "aliases":"kotl,fundamental",
-      "released": [
-        [ 1343249449,  400, 1 ]
-      ]
-  },
-  "91":{
-      "tag":"wisp",
-      "name":"Io",
-      "alt":"Wisp",
-      "aliases":"fundamental",
-      "released": [
-        [ 1340830249,  400 ],
-        [ 1341435049,  400, 1 ],
-        [ 1548712249, 4000, 0 ],
-        [ 1558648249, 4100, 1 ]
-      ]
-  },
-  "92":{
-      "tag":"visage",
-      "name":"Visage",
-      "alt":"Necro'lic",
-      "aliases":"",
-      "released": [
-        [ 1343249449,  400, 1 ]
-      ]
-  },
-  "93":{
-      "tag":"slark",
-      "name":"Slark",
-      "alt":"Nightcrawler",
-      "aliases":"",
-      "released": [
-        [ 1352926249,  600 ],
-        [ 1386806400,  901, 1 ]
-      ]
-  },
-  "94":{
-      "tag":"medusa",
-      "name":"Medusa",
-      "alt":"Gorgon",
-      "aliases":"",
-      "released": [
-        [ 1357764649,  700 ],
-        [ 1360788649,  700, 1 ],
-        [ 1370292649,  800, 0 ],
-        [ 1382302249,  900, 1 ]
-      ]
-  },
-  "95":{
-      "tag":"troll_warlord",
-      "name":"Troll Warlord",
-      "alt":"Jah'rakal",
-      "aliases":"",
-      "released": [
-        [ 1358974249,  700 ],
-        [ 1377204649,  801, 1 ]
-      ]
-  },
-  "96":{
-      "tag":"centaur",
-      "name":"Centaur Warrunner",
-      "alt":"Bradwarden",
-      "aliases":"",
-      "released": [
-        [ 1351111849,  600 ],
-        [ 1377204649,  801, 1 ]
-      ]
-  },
-  "97":{
-      "tag":"magnataur",
-      "name":"Magnus",
-      "alt":"Magnoceros",
-      "aliases":"",
-      "released": [
-        [ 1349297449,  500 ],
-        [ 1349902249,  500, 1 ]
-      ]
-  },
-  "98":{
-      "tag":"shredder",
-      "name":"Timbersaw",
-      "alt":"Rizzrack",
-      "aliases":"",
-      "released": [
-        [ 1355345449,  600 ],
-        [ 1363824000,  701, 1 ]
-      ]
-  },
-  "99":{
-      "tag":"bristleback",
-      "name":"Bristleback",
-      "alt":"Rigwarl",
-      "aliases":"bb",
-      "released": [
-        [ 1364422334,  701 ],
-        [ 1366841534,  701, 1 ]
-      ]
-  },
-  "100":{
-      "tag":"tusk",
-      "name":"Tusk",
-      "alt":"Ymir",
-      "aliases":"",
-      "released": [
-        [ 1360788649,  700 ],
-        [ 1366318249,  701, 1 ]
-      ]
-  },
-  "101":{
-      "tag":"skywrath_mage",
-      "name":"Skywrath Mage",
-      "alt":"Dragonus",
-      "aliases":"sky",
-      "released": [
-        [ 1366323134,  701 ],
-        [ 1366841534,  701, 1 ]
-      ]
-  },
-  "102":{
-      "tag":"abaddon",
-      "name":"Abaddon",
-      "alt":"Lord of Avernus",
-      "aliases":"",
-      "released": [
-        [ 1373580734,  801 ],
-        [ 1377204649,  801, 1 ]
-      ]
-  },
-  "103":{
-      "tag":"elder_titan",
-      "name":"Elder Titan",
-      "alt":"Cairne the Worldsmith",
-      "aliases":"et,tauren chieftain,tc",
-      "released": [
-        [ 1367446334,  701 ],
-        [ 1377204649,  801, 1 ]
-      ]
-  },
-  "104":{
-      "tag":"legion_commander",
-      "name":"Legion Commander",
-      "alt":"Tresdin",
-      "aliases":"lc",
-      "alticons": ["alt"],
-      "released": [
-        [ 1386799934,  900 ],
-        [ 1411596734, 1200, 1 ]
-      ]
-  },
-  "105":{
-      "tag":"techies",
-      "name":"Techies",
-      "alt":"Squee, Spleen and Spoon",
-      "aliases":"miner",
-      "alticons": ["alt"],
-      "released": [
-        [ 1409782334, 1101 ],
-        [ 1418771534, 1300, 1 ],
-        [ 1481490000, 1900, 0 ],
-        [ 1524697934, 3300, 1 ]
-      ]
-  },
-  "106":{
-      "tag":"ember_spirit",
-      "name":"Ember Spirit",
-      "alt":"Xin",
-      "aliases":"ana,es",
-      "released": [
-        [ 1384380734,  900 ],
-        [ 1392675134, 1000, 1 ]
-      ]
-  },
-  "107":{
-      "tag":"earth_spirit",
-      "name":"Earth Spirit",
-      "alt":"Kaolin",
-      "aliases":"es,jerax",
-      "released": [
-        [ 1384380734,  900 ],
-        [ 1450221134, 1000, 1 ]
-      ]
-  },
-  "108":{
-      "tag":"abyssal_underlord",
-      "name":"Underlord",
-      "alt":"Vrogros",
-      "aliases":"pitlord",
-      "released": [
-        [ 1471564800, 1802 ],
-        [ 1481490000, 1900, 1 ]
-      ]
-  },
-  "109":{
-      "tag":"terrorblade",
-      "name":"Terrorblade",
-      "alt":"Demon Marauder",
-      "aliases":"demon",
-      "alticons": ["alt"],
-      "released": [
-        [ 1390947134, 1000 ],
-        [ 1411596734, 1200, 1 ],
-        [ 1443049934, 1500, 0 ],
-        [ 1450221134, 1600, 1 ]
-      ]
-  },
-  "110":{
-      "tag":"phoenix",
-      "name":"Phoenix",
-      "alt":"Star",
-      "aliases":"firebird,sun",
-      "released": [
-        [ 1390947134, 1000 ],
-        [ 1416438734, 1202, 1 ]
-      ]
-  },
-  "111":{
-      "tag":"oracle",
-      "name":"Oracle",
-      "alt":"Nerif",
-      "aliases":"",
-      "released": [
-        [ 1416438734, 1202 ],
-        [ 1450221134, 1600, 1 ]
-      ]
-  },
-  "112":{
-      "tag":"winter_wyvern",
-      "name":"Winter Wyvern",
-      "alt":"Auroth",
-      "aliases":"ww",
-      "released": [
-        [ 1423699200, 1302 ],
-        [ 1430349134, 1400, 1 ],
-        [ 1450221134, 1600, 0 ],
-        [ 1450569600, 1601, 1 ]
-      ]
-  },
-  "113":{
-      "tag":"arc_warden",
-      "name":"Arc Warden",
-      "alt":"Zet",
-      "aliases":"ancient,aw",
-      "released": [
-        [ 1450221134, 1600 ],
-        [ 1481490000, 1900, 1 ]
-      ]
-  },
-  "114":{
-      "tag":"monkey_king",
-      "name":"Monkey King",
-      "alt":"Sun Wukong",
-      "aliases":"mk",
-      "alticons": ["alt"],
-      "released": [
-        [ 1481497934, 1900 ],
-        [ 1489533134, 2200, 1 ]
-      ]
-  },
-  "119":{
-      "tag":"dark_willow",
-      "name":"Dark Willow",
-      "alt":"Mireska",
-      "aliases":"sylph,fairy,dw",
-      "released": [
-        [ 1509405134, 2600 ],
-        [ 1519859534, 2900, 1 ]
-      ]
-  },
-  "120":{
-      "tag":"pangolier",
-      "name":"Pangolier",
-      "alt":"Donte",
-      "aliases":"armodillo",
-      "released": [
-        [ 1509405134, 2600 ],
-        [ 1522278734, 3100, 1 ]
-      ]
-  },
-  "121":{
-      "tag": "grimstroke",
-      "name": "Grimstroke",
-      "alt":"Ascended One",
-      "aliases":"ashkavor,artist,brush",
-      "released": [
-        [ 1535065934, 3800 ],
-        [ 1542582734, 3900, 1 ]
-      ]
-  },
-  "123":{
-      "tag": "hoodwink",
-      "name": "Hoodwink",
-      "alt":"Sharpshooter",
-      "aliases":"squirrel,rat,mouse,mistwoods",
-      "released": [
-        [ 1608160334, 4700 ],
-        [ 1618787534, 4800, 1 ]
-      ]
-  },
-  "126":{
-      "tag":"void_spirit",
-      "name":"Void Spirit",
-      "alt":"Inai",
-      "aliases":"vs",
-      "released": [
-        [ 1574723534, 4200 ],
-        [ 1579993934, 4300, 1 ]
-      ]
-  },
-  "128":{
-      "tag":"snapfire",
-      "name":"Snapfire",
-      "alt":"Beatrix",
-      "aliases":"granny",
-      "released": [
-        [ 1574723534, 4200 ],
-        [ 1579993934, 4300, 1 ]
-      ]
-  },
-  "129":{
-      "tag":"mars",
-      "name":"Mars",
-      "alt":"First Son of Heaven",
-      "aliases":"ares,god of war",
-      "released": [
-        [ 1551599902, 4001 ],
-        [ 1558653134, 4100, 1 ]
-      ]
-  },
-  "131":{
-      "tag":"ringmaster",
-      "name":"Ringmaster",
-      "alt":"Great Cogliostro Kettle",
-      "aliases":"puppet master,clockwork marvel,marionetto,circus,osbert kettle",
-      "released": [
-        [ 1724375582, 5601 ],
-        [ 1739926742, 5700, 1 ]
-      ]
-  },
-  "135":{
-      "tag":"dawnbreaker",
-      "name":"Dawnbreaker",
-      "alt":"Valora",
-      "aliases":"battlemaiden,valkyrie,db",
-      "released": [
-        [ 1618787534, 4800 ],
-        [ 1631342680, 4902, 1 ]
-      ]
-  },
-  "136":{
+  "1": {
+    "tag":"antimage",
+    "name":"Anti-Mage",
+    "alt":"Magina",
+    "aliases":"am,wei",
+    "aliases_more": {
+      "ru":"ам,антимаг,вэй,магина,крип,фтешьфпу",
+      "egg":"крип,creep"
+    },
+    "alticons":["persona1"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "2": {
+    "tag":"axe",
+    "name":"Axe",
+    "alt":"Mogul Khan",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"акс,топор,могул-хан",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "3": {
+    "tag":"bane",
+    "name":"Bane",
+    "alt":"Atropos",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"бейн,бэйн,атропос",
+      "egg":""
+    },
+    "released": [
+      [ 1329339049, 300 ],
+      [ 1331153449, 400, 1 ]
+    ]
+  },
+  "4": {
+    "tag":"bloodseeker",
+    "name":"Bloodseeker",
+    "alt":"Strygwyr",
+    "aliases":"bs",
+    "aliases_more": {
+      "ru":"бладсикер,блудсикер,бс,стригвир",
+      "egg":""
+    },
+    "released": [
+      [ 1317847849, 200, 1 ],
+      [ 1411591849, 1200, 0 ],
+      [ 1418766649, 1300, 1 ]
+    ]
+  },
+  "5": {
+    "tag":"crystal_maiden",
+    "name":"Crystal Maiden",
+    "alt":"Rylai",
+    "aliases":"cm,blueheart,conduit,wolf",
+    "aliases_more": {
+      "ru":"кристал,мэйденка,мейденка,цмка,рилай,волчица",
+      "egg":""
+    },
+    "alticons":["alt1", "persona1"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "6": {
+    "tag":"drow_ranger",
+    "name":"Drow Ranger",
+    "alt":"Traxex",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"дроу рейнджер,дрова,траксекс,тракса",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1288558800, 0, 1 ],
+      [ 1351108800, 602, 0 ],
+      [ 1366315200, 701, 1 ]
+    ]
+  },
+  "7": {
+    "tag":"earthshaker",
+    "name":"Earthshaker",
+    "alt":"Raigor",
+    "aliases":"es,Raigor",
+    "aliases_more": {
+      "ru":"эрсшейкер,ес,рейгор",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "8": {
+    "tag":"juggernaut",
+    "name":"Juggernaut",
+    "alt":"Yurnero",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"джаггернаут,джага,юрнеро,юра",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1317329449, 200, 1 ]
+    ]
+  },
+  "9": {
+    "tag":"mirana",
+    "name":"Mirana",
+    "alt":"Priestess of the Moon",
+    "aliases":"potm,Princess,Moon",
+    "aliases_more": {
+      "ru":"мирана,потма",
+      "egg":"singsing"
+    },
+    "alticons":["persona1"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "10": {
+    "tag":"morphling",
+    "name":"Morphling",
+    "alt":"Water",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"морфлинг,водичка",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "11": {
+    "tag":"nevermore",
+    "name":"Shadow Fiend",
+    "alt":"Nevermore",
+    "aliases":"sf,zxc,yaphets,demon",
+    "aliases_more": {
+      "ru":"шадоу,шэдоу,шедоу,финд,сф,невермор",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1306356649, 0, 1 ]
+    ]
+  },
+  "12": {
+    "tag":"phantom_lancer",
+    "name":"Phantom Lancer",
+    "alt":"Azwraith",
+    "aliases":"pl",
+    "aliases_more": {
+      "ru":"фантом,фэнтом,лансер,лэнсер,пл,азраф",
+      "egg":""
+    },
+    "released": [
+      [ 1335991849, 400 ],
+      [ 1336596649, 400, 1 ],
+      [ 1411591849, 1200, 0 ],
+      [ 1423699200, 1302, 1 ]
+    ]
+  },
+  "13": {
+    "tag":"puck",
+    "name":"Puck",
+    "alt":"Faerie Dragon",
+    "aliases":"fd",
+    "aliases_more": {
+      "ru":"пак",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "14": {
+    "tag":"pudge",
+    "name":"Pudge",
+    "alt":"Butcher",
+    "aliases":"toy,Toy Butcher",
+    "aliases_more": {
+      "ru":"падж,пудж,мясник,плюшевый,бучка,бачер,паджеро,пудге,пудочка",
+      "egg":"денди,dendi"
+    },
+    "alticons":["alt1", "alt2", "persona1"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "15": {
+    "tag":"razor",
+    "name":"Razor",
+    "alt":"Lightning Revenant",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"рейзор,рэйзор,разор",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "16": {
+    "tag":"sand_king",
+    "name":"Sand King",
+    "alt":"Crixalis",
+    "aliases":"sk,scorpion",
+    "aliases_more": {
+      "ru":"сэнд кинг,ск,криксалис,король",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "17": {
+    "tag":"storm_spirit",
+    "name":"Storm Spirit",
+    "alt":"Raijin Thunderkeg",
+    "aliases":"ss",
+    "aliases_more": {
+      "ru":"шторм,сторм,спирит,райдзин громокег",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "18": {
+    "tag":"sven",
+    "name":"Sven",
+    "alt":"Rogue Knight",
+    "aliases":"vigil",
+    "aliases_more": {
+      "ru":"свен,мятежный рыцарь",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "19": {
+    "tag":"tiny",
+    "name":"Tiny",
+    "alt":"Stone Giant",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"тини,тайни,камень",
+      "egg":""
+    },
+    "released": [
+      [ 1298065849, 0, 1 ]
+    ]
+  },
+  "20": {
+    "tag":"vengefulspirit",
+    "name":"Vengeful Spirit",
+    "alt":"Shendelzare",
+    "aliases":"vs",
+    "aliases_more": {
+      "ru":"венджфул спирит,венга,шенделезара",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "21": {
+    "tag":"windrunner",
+    "name":"Windranger",
+    "alt":"Lyralei",
+    "aliases":"wr",
+    "aliases_more": {
+      "ru":"виндрейнджер,врка,лиралей",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "22": {
+    "tag":"zuus",
+    "name":"Zeus",
+    "alt":"Lord of Heaven",
+    "aliases":"lightning god",
+    "aliases_more": {
+      "ru":"зевс,зюс,громовержец",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "23": {
+    "tag":"kunkka",
+    "name":"Kunkka",
+    "alt":"Admiral",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"кункка,адмирал",
+      "egg":"attacker,атакер"
+    },
+    "released": [
+      [ 1317847849, 200, 1 ]
+    ]
+  },
+  "25": {
+    "tag":"lina",
+    "name":"Lina",
+    "alt":"Slayer",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"лина",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "26": {
+    "tag":"lion",
+    "name":"Lion",
+    "alt":"Demon Witch",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"лайон,лион",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "27": {
+    "tag":"shadow_shaman",
+    "name":"Shadow Shaman",
+    "alt":"Rhasta",
+    "aliases":"ss",
+    "aliases_more": {
+      "ru":"шедоу,шэдоу,шадоу,шаман,раста",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "28": {
+    "tag":"slardar",
+    "name":"Slardar",
+    "alt":"Slithereen Guard",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"слардар,селёдка",
+      "egg":""
+    },
+    "released": [
+      [ 1295301049, 0, 1 ]
+    ]
+  },
+  "29": {
+    "tag":"tidehunter",
+    "name":"Tidehunter",
+    "alt":"Leviathan",
+    "aliases":"th",
+    "aliases_more": {
+      "ru":"тайдхантер,левиафан,тх,арбуз",
+      "egg":"thd,тхд"
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "30": {
+    "tag":"witch_doctor",
+    "name":"Witch Doctor",
+    "alt":"Zharvakko",
+    "aliases":"wd,voodoo",
+    "aliases_more": {
+      "ru":"витч,вич,доктор,вд,жарвакко",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "31": {
+    "tag":"lich",
+    "name":"Lich",
+    "alt":"Ethreain",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"лич,этриан",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "32": {
+    "tag":"riki",
+    "name":"Riki",
+    "alt":"Stealth Assassin",
+    "aliases":"tahlin,rikimaru,sa",
+    "aliases_more": {
+      "ru":"рикимару",
+      "egg":""
+    },
+    "released": [
+      [ 1318452649, 200, 1 ],
+      [ 1450216249, 1600, 0 ],
+      [ 1461534649, 1700, 1 ]
+    ]
+  },
+  "33": {
+    "tag":"enigma",
+    "name":"Enigma",
+    "alt":"Gravity Fundamental",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"энигма",
+      "egg":""
+    },
+    "released": [
+      [ 1265925049, 0, 1 ]
+    ]
+  },
+  "34": {
+    "tag":"tinker",
+    "name":"Tinker",
+    "alt":"Boush",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"тинкер,боуш,механик",
+      "egg":"gordon"
+    },
+    "released": [
+      [ 1306961449, 0, 1 ]
+    ]
+  },
+  "35": {
+    "tag":"sniper",
+    "name":"Sniper",
+    "alt":"Kardel Sharpeye",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"снайпер,кардел остроглаз",
+      "egg":""
+    },
+    "released": [
+      [ 1304110249, 0, 1 ]
+    ]
+  },
+  "36": {
+    "tag":"necrolyte",
+    "name":"Necrophos",
+    "alt":"Rotund'jere",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"некрофос,ротундйер",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ],
+      [ 1481490000, 1900, 0 ],
+      [ 1482181200, 2000, 1 ]
+    ]
+  },
+  "37": {
+    "tag":"warlock",
+    "name":"Warlock",
+    "alt":"Demnok Lannik",
+    "aliases":"wl",
+    "aliases_more": {
+      "ru":"варлок,демнок лэнник",
+      "egg":""
+    },
+    "released": [
+      [ 1320958249, 200, 1 ]
+    ]
+  },
+  "38": {
+    "tag":"beastmaster",
+    "name":"Beastmaster",
+    "alt":"Karroch",
+    "aliases":"rexxar,bm",
+    "aliases_more": {
+      "ru":"бистмастер,каррох",
+      "egg":""
+    },
+    "released": [
+      [ 1305838249, 0, 1 ]
+    ]
+  },
+  "39": {
+    "tag":"queenofpain",
+    "name":"Queen of Pain",
+    "alt":"Akasha",
+    "aliases":"qop",
+    "aliases_more": {
+      "ru":"квин оф,пэйн,пейн,квопа,акаша",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1319057449, 200, 1 ]
+    ]
+  },
+  "40": {
+    "tag":"venomancer",
+    "name":"Venomancer",
+    "alt":"Lesale Deathbringer",
+    "aliases":"snake,herbalist",
+    "aliases_more": {
+      "ru":"веномансер,веномант,веник,лисайл смертоносный",
+      "egg":"banana,банан"
+    },
+    "released": [
+      [ 1302295849, 0, 1 ]
+    ]
+  },
+  "41": {
+    "tag":"faceless_void",
+    "name":"Faceless Void",
+    "alt":"Darkterror",
+    "aliases":"fv,void,claszureme",
+    "aliases_more": {
+      "ru":"фейслесс,фэйслесс,войд,дарктеррор",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1266529849, 0, 1 ],
+      [ 1450216249, 1600, 0 ],
+      [ 1450561849, 1601, 1 ]
+    ]
+  },
+  "42": {
+    "tag":"skeleton_king",
+    "name":"Wraith King",
+    "alt":"Ostarion",
+    "aliases":"leoric,wk,sk,snk,one true king",
+    "aliases_more": {
+      "ru":"врейс кинг,вк,скелет,ск,остарион,король",
+      "egg":"папич,папаня,arthas"
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1319057449, 200, 1 ]
+    ]
+  },
+  "43": {
+    "tag":"death_prophet",
+    "name":"Death Prophet",
+    "alt":"Krobelus",
+    "aliases":"dp",
+    "aliases_more": {
+      "ru":"дэс,дэф,профетка,дп,кроба,кробелус",
+      "egg":""
+    },
+    "released": [
+      [ 1323377449, 200, 1 ],
+      [ 1450216249, 1600, 0 ],
+      [ 1450561849, 1601, 1 ]
+    ]
+  },
+  "44": {
+    "tag":"phantom_assassin",
+    "name":"Phantom Assassin",
+    "alt":"Mortred",
+    "aliases":"pa,asan",
+    "aliases_more": {
+      "ru":"фантом,фэнтом,ассассин,ассасин,фантомка,мортред,мортра",
+      "egg":""
+    },
+    "alticons":["alt1", "persona1"],
+    "released": [
+      [ 1339361449, 400 ],
+      [ 1339620649, 400, 1 ]
+    ]
+  },
+  "45": {
+    "tag":"pugna",
+    "name":"Pugna",
+    "alt":"Oblivion Mage",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"пугна,пагна",
+      "egg":""
+    },
+    "released": [
+      [ 1305838249, 0, 1 ]
+    ]
+  },
+  "46": {
+    "tag":"templar_assassin",
+    "name":"Templar Assassin",
+    "alt":"Lanaya",
+    "aliases":"ta",
+    "aliases_more": {
+      "ru":"темплар,ассассин,ассасин,ланайя,та,темпларка",
+      "egg":"wagamama"
+    },
+    "released": [
+      [ 1342039849, 400, 1 ]
+    ]
+  },
+  "47": {
+    "tag":"viper",
+    "name":"Viper",
+    "alt":"Netherdrake",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"вайпер",
+      "egg":""
+    },
+    "released": [
+      [ 1298065849, 0, 1 ]
+    ]
+  },
+  "48": {
+    "tag":"luna",
+    "name":"Luna",
+    "alt":"Moon Rider",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"луна",
+      "egg":""
+    },
+    "released": [
+      [ 1340830249, 400 ],
+      [ 1341435049, 400, 1 ]
+    ]
+  },
+  "49": {
+    "tag":"dragon_knight",
+    "name":"Dragon Knight",
+    "alt":"Davion",
+    "aliases":"slyrak,dk,dragon's blood",
+    "aliases_more": {
+      "ru":"дрэгон,драгон,найт,дк,дэвион,рыцарь,дракон",
+      "egg":""
+    },
+    "released": [
+      [ 1320267049, 200, 1 ]
+    ]
+  },
+  "50": {
+    "tag":"dazzle",
+    "name":"Dazzle",
+    "alt":"Shadow Priest",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"даззл",
+      "egg":""
+    },
+    "released": [
+      [ 1288558800, 0, 1 ]
+    ]
+  },
+  "51": {
+    "tag":"rattletrap",
+    "name":"Clockwerk",
+    "alt":"Rattletrap",
+    "aliases":"cw",
+    "aliases_more": {
+      "ru":"клокверк,болтозвяк",
+      "egg":""
+    },
+    "released": [
+      [ 1303246249, 0, 1 ]
+    ]
+  },
+  "52": {
+    "tag":"leshrac",
+    "name":"Leshrac",
+    "alt":"Tormented Soul",
+    "aliases":"ts",
+    "aliases_more": {
+      "ru":"лешрак,леший",
+      "egg":""
+    },
+    "released": [
+      [ 1306356649, 0, 1 ]
+    ]
+  },
+  "53": {
+    "tag":"furion",
+    "name":"Nature's Prophet",
+    "alt":"Furion",
+    "aliases":"np,rat,bulldog",
+    "aliases_more": {
+      "ru":"нейчурс,нейчерс,профет,нп,фура,натуральный,проповедник",
+      "egg":""
+    },
+    "released": [
+      [ 1303246249, 0, 1 ]
+    ]
+  },
+  "54": {
+    "tag":"life_stealer",
+    "name":"Lifestealer",
+    "alt":"N'aix",
+    "aliases":"ghoul,ls",
+    "aliases_more": {
+      "ru":"лайфстилер,найкс,нэйкс,гуля",
+      "egg":""
+    },
+    "released": [
+      [ 1322772649, 200, 1 ],
+      [ 1418766649, 1300, 0 ],
+      [ 1419371449, 1300, 1 ]
+    ]
+  },
+  "55": {
+    "tag":"dark_seer",
+    "name":"Dark Seer",
+    "alt":"Ish'Kafel",
+    "aliases":"ds",
+    "aliases_more": {
+      "ru":"дарк,сир,дс,ишкафэль",
+      "egg":""
+    },
+    "released": [
+      [ 1304110249, 0, 1 ]
+    ]
+  },
+  "56": {
+    "tag":"clinkz",
+    "name":"Clinkz",
+    "alt":"Bone Fletcher",
+    "aliases":"demon,archer,maraxiform",
+    "aliases_more": {
+      "ru":"клинкз,боник",
+      "egg":""
+    },
+    "released": [
+      [ 1327524649, 300 ],
+      [ 1329339049, 300, 1 ]
+    ]
+  },
+  "57": {
+    "tag":"omniknight",
+    "name":"Omniknight",
+    "alt":"Purist Thunderwrath",
+    "aliases":"omniscience,priest,slacks",
+    "aliases_more": {
+      "ru":"омнинайт,омник,рыцарь всезнания,ревнитель громобой",
+      "egg":""
+    },
+    "released": [
+      [ 1320267049, 200, 1 ]
+    ]
+  },
+  "58": {
+    "tag":"enchantress",
+    "name":"Enchantress",
+    "alt":"Aiushtha",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"энчантресс,аюшта,коза",
+      "egg":""
+    },
+    "released": [
+      [ 1306356649, 0, 1 ]
+    ]
+  },
+  "59": {
+    "tag":"huskar",
+    "name":"Huskar",
+    "alt":"Sacred Warrior",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"хускар,хусик",
+      "egg":""
+    },
+    "released": [
+      [ 1319662249, 200, 1 ],
+      [ 1370292649, 800, 0 ],
+      [ 1386795049, 901, 1 ]
+    ]
+  },
+  "60": {
+    "tag":"night_stalker",
+    "name":"Night Stalker",
+    "alt":"Balanar",
+    "aliases":"ns",
+    "aliases_more": {
+      "ru":"найт сталкер,нс,баланар",
+      "egg":""
+    },
+    "released": [
+      [ 1307739049, 0, 1 ]
+    ]
+  },
+  "61": {
+    "tag":"broodmother",
+    "name":"Broodmother",
+    "alt":"Black Arachnia",
+    "aliases":"bm,spider,Arachnia",
+    "aliases_more": {
+      "ru":"брудмазер,бруда,чёрная арахния,мать,паучиха",
+      "egg":""
+    },
+    "released": [
+      [ 1319057449, 200, 1 ],
+      [ 1382302249, 900, 0 ],
+      [ 1416433849, 1202, 1 ]
+    ]
+  },
+  "62": {
+    "tag":"bounty_hunter",
+    "name":"Bounty Hunter",
+    "alt":"Gondar",
+    "aliases":"bh",
+    "aliases_more": {
+      "ru":"баунти хантер,бх,гондар",
+      "egg":""
+    },
+    "released": [
+      [ 1324414249, 200 ],
+      [ 1326315049, 300, 1 ]
+    ]
+  },
+  "63": {
+    "tag":"weaver",
+    "name":"Weaver",
+    "alt":"Skitskurr",
+    "aliases":"nw",
+    "aliases_more": {
+      "ru":"вивер,скитскурр",
+      "egg":""
+    },
+    "released": [
+      [ 1307652649, 0, 1 ]
+    ]
+  },
+  "64": {
+    "tag":"jakiro",
+    "name":"Jakiro",
+    "alt":"Twin Head Dragon",
+    "aliases":"thd,twin headed dragon",
+    "aliases_more": {
+      "ru":"джакиро,тхд",
+      "egg":""
+    },
+    "released": [
+      [ 1319662249, 200, 1 ]
+    ]
+  },
+  "65": {
+    "tag":"batrider",
+    "name":"Batrider",
+    "alt":"Jin'zakk",
+    "aliases":"br",
+    "aliases_more": {
+      "ru":"батрайдер,бэтрайдер,бэтик",
+      "egg":""
+    },
+    "released": [
+      [ 1319662249, 200, 1 ]
+    ]
+  },
+  "66": {
+    "tag":"chen",
+    "name":"Chen",
+    "alt":"Holy Knight",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"чен,рыцарь веры",
+      "egg":"sikle"
+    },
+    "released": [
+      [ 1309467049, 0, 1 ]
+    ]
+  },
+  "67": {
+    "tag":"spectre",
+    "name":"Spectre",
+    "alt":"Mercurial",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"спектра,меркуриал",
+      "egg":"qwerty,leamare"
+    },
+    "released": [
+      [ 1308257449, 0, 1 ]
+    ]
+  },
+  "68": {
+    "tag":"ancient_apparition",
+    "name":"Ancient Apparition",
+    "alt":"Kaldr",
+    "aliases":"aa,Ancient,Apparition",
+    "aliases_more": {
+      "ru":"эншент,апаришн,аппаришн,аппарат,аа,калдр",
+      "egg":""
+    },
+    "released": [
+      [ 1308257449, 0, 1 ]
+    ]
+  },
+  "69": {
+    "tag":"doom_bringer",
+    "name":"Doom",
+    "alt":"Lucifer",
+    "aliases":"demon,db",
+    "aliases_more": {
+      "ru":"дум,люцифер",
+      "egg":""
+    },
+    "released": [
+      [ 1308862249, 0, 1 ],
+      [ 1450216249, 1600, 0 ],
+      [ 1450561849, 1601, 1 ]
+    ]
+  },
+  "70": {
+    "tag":"ursa",
+    "name":"Ursa",
+    "alt":"Ulfsaar",
+    "aliases":"bear",
+    "aliases_more": {
+      "ru":"урса,медведь,ульфсаар,мишка",
+      "egg":""
+    },
+    "released": [
+      [ 1323895849, 200 ],
+      [ 1326315049, 300, 1 ]
+    ]
+  },
+  "71": {
+    "tag":"spirit_breaker",
+    "name":"Spirit Breaker",
+    "alt":"Barathrum",
+    "aliases":"sb",
+    "aliases_more": {
+      "ru":"спирит брейкер,баратрум,корова",
+      "egg":""
+    },
+    "released": [
+      [ 1326315049, 300 ],
+      [ 1326919849, 300, 1 ]
+    ]
+  },
+  "72": {
+    "tag":"gyrocopter",
+    "name":"Gyrocopter",
+    "alt":"Aurel",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"джайрокоптер,гирокоптер,аурел",
+      "egg":""
+    },
+    "released": [
+      [ 1339361449, 400 ],
+      [ 1339620649, 400, 1 ]
+    ]
+  },
+  "73": {
+    "tag":"alchemist",
+    "name":"Alchemist",
+    "alt":"Razzil Darkbrew",
+    "aliases":"Razzil",
+    "aliases_more": {
+      "ru":"алкемист,алхимик,раззил темновар,химик",
+      "egg":""
+    },
+    "released": [
+      [ 1321563049, 200, 1 ]
+    ]
+  },
+  "74": {
+    "tag":"invoker",
+    "name":"Invoker",
+    "alt":"Carl",
+    "aliases":"destroyer,arsenal magus,kid",
+    "aliases_more": {
+      "ru":"инвокер,карл",
+      "egg":""
+    },
+    "alticons":["persona1"],
+    "released": [
+      [ 1326919849, 300 ],
+      [ 1327524649, 300, 1 ]
+    ]
+  },
+  "75": {
+    "tag":"silencer",
+    "name":"Silencer",
+    "alt":"Nortrom",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"сайленсер,нортром,сало",
+      "egg":""
+    },
+    "released": [
+      [ 1326315049, 300 ],
+      [ 1326919849, 300, 1 ],
+      [ 1351111849, 600, 0 ],
+      [ 1360183849, 701, 1 ]
+    ]
+  },
+  "76": {
+    "tag":"obsidian_destroyer",
+    "name":"Outworld Destroyer",
+    "alt":"Harbinger",
+    "aliases":"od,devourer",
+    "aliases_more": {
+      "ru":"од,аутворлд дестроер,предвестник",
+      "egg":""
+    },
+    "released": [
+      [ 1329339049, 300 ],
+      [ 1330548649, 300, 1 ]
+    ]
+  },
+  "77": {
+    "tag":"lycan",
+    "name":"Lycan",
+    "alt":"Banehallow",
+    "aliases":"lycanthrope,wolf",
+    "aliases_more": {
+      "ru":"лайкан,волк,ликантроп,бейнхаллоу",
+      "egg":""
+    },
+    "released": [
+      [ 1332363049, 300 ],
+      [ 1332881449, 300, 1 ],
+      [ 1481490000, 1900, 0 ],
+      [ 1486504249, 2100, 1 ]
+    ]
+  },
+  "78": {
+    "tag":"brewmaster",
+    "name":"Brewmaster",
+    "alt":"Mangix",
+    "aliases":"brew",
+    "aliases_more": {
+      "ru":"брюмастер,пиво,мангикс",
+      "egg":""
+    },
+    "released": [
+      [ 1334782249, 400 ],
+      [ 1335387049, 400, 1 ]
+    ]
+  },
+  "79": {
+    "tag":"shadow_demon",
+    "name":"Shadow Demon",
+    "alt":"Cult Leader",
+    "aliases":"sd,Shadow,Demon",
+    "aliases_more": {
+      "ru":"шадоу,шедоу,шэдоу,демон,шд",
+      "egg":""
+    },
+    "released": [
+      [ 1331758249, 300 ],
+      [ 1332363049, 300, 1 ]
+    ]
+  },
+  "80": {
+    "tag":"lone_druid",
+    "name":"Lone Druid",
+    "alt":"Sylla",
+    "aliases":"bear,bulldog,ld",
+    "aliases_more": {
+      "ru":"лоун друид,лд,медведь,силла",
+      "egg":""
+    },
+    "released": [
+      [ 1332881449, 300 ],
+      [ 1334177449, 400, 1 ],
+      [ 1450216249, 1600, 0 ],
+      [ 1450569600, 1601, 1 ]
+    ]
+  },
+  "81": {
+    "tag":"chaos_knight",
+    "name":"Chaos Knight",
+    "alt":"Armageddon Rider",
+    "aliases":"fundamental",
+    "aliases_more": {
+      "ru":"хаос,чаос,кейос,найт,цк,рыцарь хаоса",
+      "egg":""
+    },
+    "released": [
+      [ 1339361449, 400 ],
+      [ 1339620649, 400, 1 ]
+    ]
+  },
+  "82": {
+    "tag":"meepo",
+    "name":"Meepo",
+    "alt":"Geomancer",
+    "aliases":"meepwn",
+    "aliases_more": {
+      "ru":"мипо,геомансер,геомант,мипарь",
+      "egg":"sheepsticked,reya"
+    },
+    "released": [
+      [ 1348087849, 400 ],
+      [ 1349902249, 500, 1 ]
+    ]
+  },
+  "83": {
+    "tag":"treant",
+    "name":"Treant Protector",
+    "alt":"Rooftrellen",
+    "aliases":"tree",
+    "aliases_more": {
+      "ru":"трент,трэнт,протектор,руфтреллен",
+      "egg":""
+    },
+    "released": [
+      [ 1337201449, 400 ],
+      [ 1337806249, 400, 1 ],
+      [ 1481493049, 1900, 0 ],
+      [ 1491688249, 2400, 1 ]
+    ]
+  },
+  "84": {
+    "tag":"ogre_magi",
+    "name":"Ogre Magi",
+    "alt":"Aggron Stonebreak",
+    "aliases":"om",
+    "aliases_more": {
+      "ru":"огр,маг,аггрон камнелом",
+      "egg":""
+    },
+    "alticons":["alt1", "alt2"],
+    "released": [
+      [ 1337806249, 400 ],
+      [ 1338411049, 400, 1 ]
+    ]
+  },
+  "85": {
+    "tag":"undying",
+    "name":"Undying",
+    "alt":"Almighty Dirge",
+    "aliases":"zombie",
+    "aliases_more": {
+      "ru":"андаинг,зомби",
+      "egg":""
+    },
+    "released": [
+      [ 1341435049, 400 ],
+      [ 1342039849, 400, 1 ]
+    ]
+  },
+  "86": {
+    "tag":"rubick",
+    "name":"Rubick",
+    "alt":"Grand Magus",
+    "aliases":"gm",
+    "aliases_more": {
+      "ru":"рубик,рубен",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1340139049, 400 ],
+      [ 1341435049, 400, 1 ]
+    ]
+  },
+  "87": {
+    "tag":"disruptor",
+    "name":"Disruptor",
+    "alt":"Stormcrafter",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"дизраптор,дисраптор",
+      "egg":""
+    },
+    "released": [
+      [ 1341435049, 400, 1 ]
+    ]
+  },
+  "88": {
+    "tag":"nyx_assassin",
+    "name":"Nyx Assassin",
+    "alt":"Zealot Scarab",
+    "aliases":"na",
+    "aliases_more": {
+      "ru":"никс,нюкс,ассассин,ассасин",
+      "egg":""
+    },
+    "released": [
+      [ 1343249449, 400, 1 ]
+    ]
+  },
+  "89": {
+    "tag":"naga_siren",
+    "name":"Naga Siren",
+    "alt":"Slithice",
+    "aliases":"slithereen",
+    "aliases_more": {
+      "ru":"нага,сайрен,сирена,слизис",
+      "egg":""
+    },
+    "released": [
+      [ 1342644649, 400 ],
+      [ 1342039849, 400, 1 ]
+    ]
+  },
+  "90": {
+    "tag":"keeper_of_the_light",
+    "name":"Keeper of the Light",
+    "alt":"Ezalor",
+    "aliases":"kotl,fundamental",
+    "aliases_more": {
+      "ru":"кипер оф зе лайт,котл,котёл,эзалор",
+      "egg":""
+    },
+    "released": [
+      [ 1343249449, 400, 1 ]
+    ]
+  },
+  "91": {
+    "tag":"wisp",
+    "name":"Io",
+    "alt":"Wisp",
+    "aliases":"fundamental",
+    "aliases_more": {
+      "ru":"ио,висп",
+      "egg":""
+    },
+    "released": [
+      [ 1340830249, 400 ],
+      [ 1341435049, 400, 1 ],
+      [ 1548712249, 4000, 0 ],
+      [ 1558648249, 4100, 1 ]
+    ]
+  },
+  "92": {
+    "tag":"visage",
+    "name":"Visage",
+    "alt":"Necro'lic",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"визедж,визаж,некролик",
+      "egg":""
+    },
+    "released": [
+      [ 1343249449, 400, 1 ]
+    ]
+  },
+  "93": {
+    "tag":"slark",
+    "name":"Slark",
+    "alt":"Nightcrawler",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"сларк",
+      "egg":""
+    },
+    "released": [
+      [ 1352926249, 600 ],
+      [ 1386806400, 901, 1 ]
+    ]
+  },
+  "94": {
+    "tag":"medusa",
+    "name":"Medusa",
+    "alt":"Gorgon",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"медуза,горгона",
+      "egg":""
+    },
+    "released": [
+      [ 1357764649, 700 ],
+      [ 1360788649, 700, 1 ],
+      [ 1370292649, 800, 0 ],
+      [ 1382302249, 900, 1 ]
+    ]
+  },
+  "95": {
+    "tag":"troll_warlord",
+    "name":"Troll Warlord",
+    "alt":"Jah'rakal",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"тролль,варлорд,джаракал",
+      "egg":""
+    },
+    "released": [
+      [ 1358974249, 700 ],
+      [ 1377204649, 801, 1 ]
+    ]
+  },
+  "96": {
+    "tag":"centaur",
+    "name":"Centaur Warrunner",
+    "alt":"Bradwarden",
+    "aliases":"Warrunner",
+    "aliases_more": {
+      "ru":"кентавр-вождь,брэдводен",
+      "egg":""
+    },
+    "released": [
+      [ 1351111849, 600 ],
+      [ 1377204649, 801, 1 ]
+    ]
+  },
+  "97": {
+    "tag":"magnataur",
+    "name":"Magnus",
+    "alt":"Magnoceros",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"магнус,автобус",
+      "egg":""
+    },
+    "released": [
+      [ 1349297449, 500 ],
+      [ 1349902249, 500, 1 ]
+    ]
+  },
+  "98": {
+    "tag":"shredder",
+    "name":"Timbersaw",
+    "alt":"Rizzrack",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"тимберсо,риззрак,древопил",
+      "egg":""
+    },
+    "released": [
+      [ 1355345449, 600 ],
+      [ 1363824000, 701, 1 ]
+    ]
+  },
+  "99": {
+    "tag":"bristleback",
+    "name":"Bristleback",
+    "alt":"Rigwarl",
+    "aliases":"bb",
+    "aliases_more": {
+      "ru":"бристлбэк,брислбэк,ёжик,ригварл",
+      "egg":""
+    },
+    "released": [
+      [ 1364422334, 701 ],
+      [ 1366841534, 701, 1 ]
+    ]
+  },
+  "100": {
+    "tag":"tusk",
+    "name":"Tusk",
+    "alt":"Ymir",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"туск,таск,тусик,имир,бивень",
+      "egg":""
+    },
+    "released": [
+      [ 1360788649, 700 ],
+      [ 1366318249, 701, 1 ]
+    ]
+  },
+  "101": {
+    "tag":"skywrath_mage",
+    "name":"Skywrath Mage",
+    "alt":"Dragonus",
+    "aliases":"sky,sm",
+    "aliases_more": {
+      "ru":"скайрас,мейдж,маг,драгонус,петух",
+      "egg":""
+    },
+    "released": [
+      [ 1366323134, 701 ],
+      [ 1366841534, 701, 1 ]
+    ]
+  },
+  "102": {
+    "tag":"abaddon",
+    "name":"Abaddon",
+    "alt":"Lord of Avernus",
+    "aliases":"",
+    "aliases_more": {
+      "ru":"абаддон,аббадон",
+      "egg":""
+    },
+    "released": [
+      [ 1373580734, 801 ],
+      [ 1377204649, 801, 1 ]
+    ]
+  },
+  "103": {
+    "tag":"elder_titan",
+    "name":"Elder Titan",
+    "alt":"Cairne the Worldsmith",
+    "aliases":"et,tauren chieftain,tc",
+    "aliases_more": {
+      "ru":"элдер,тайтан,титан",
+      "egg":""
+    },
+    "released": [
+      [ 1367446334, 701 ],
+      [ 1377204649, 801, 1 ]
+    ]
+  },
+  "104": {
+    "tag":"legion_commander",
+    "name":"Legion Commander",
+    "alt":"Tresdin",
+    "aliases":"lc",
+    "aliases_more": {
+      "ru":"лиджен,коммандер,легионка,лега,лц,тресдин",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1386799934, 900 ],
+      [ 1411596734, 1200, 1 ]
+    ]
+  },
+  "105": {
+    "tag":"techies",
+    "name":"Techies",
+    "alt":"Squee, Spleen and Spoon",
+    "aliases":"miner",
+    "aliases_more": {
+      "ru":"минер,текис,течис,течка",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1409782334, 1101 ],
+      [ 1418771534, 1300, 1 ],
+      [ 1481490000, 1900, 0 ],
+      [ 1524697934, 3300, 1 ]
+    ]
+  },
+  "106": {
+    "tag":"ember_spirit",
+    "name":"Ember Spirit",
+    "alt":"Xin",
+    "aliases":"ana,es",
+    "aliases_more": {
+      "ru":"эмбер спирит,син",
+      "egg":""
+    },
+    "released": [
+      [ 1384380734, 900 ],
+      [ 1392675134, 1000, 1 ]
+    ]
+  },
+  "107": {
+    "tag":"earth_spirit",
+    "name":"Earth Spirit",
+    "alt":"Kaolin",
+    "aliases":"es,jerax",
+    "aliases_more": {
+      "ru":"эрс спирит,ес,каолин,земеля,земля",
+      "egg":""
+    },
+    "released": [
+      [ 1384380734, 900 ],
+      [ 1450221134, 1000, 1 ]
+    ]
+  },
+  "108": {
+    "tag":"abyssal_underlord",
+    "name":"Underlord",
+    "alt":"Vrogros",
+    "aliases":"pitlord,Azgalor,ul",
+    "aliases_more": {
+      "ru":"андерлорд,питлорд,врогрош",
+      "egg":""
+    },
+    "released": [
+      [ 1471564800, 1802 ],
+      [ 1481490000, 1900, 1 ]
+    ]
+  },
+  "109": {
+    "tag":"terrorblade",
+    "name":"Terrorblade",
+    "alt":"Demon Marauder",
+    "aliases":"demon,tb",
+    "aliases_more": {
+      "ru":"террорблейд,тб",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1390947134, 1000 ],
+      [ 1411596734, 1200, 1 ],
+      [ 1443049934, 1500, 0 ],
+      [ 1450221134, 1600, 1 ]
+    ]
+  },
+  "110": {
+    "tag":"phoenix",
+    "name":"Phoenix",
+    "alt":"Star",
+    "aliases":"firebird,sun,ph",
+    "aliases_more": {
+      "ru":"феникс",
+      "egg":""
+    },
+    "released": [
+      [ 1390947134, 1000 ],
+      [ 1416438734, 1202, 1 ]
+    ]
+  },
+  "111": {
+    "tag":"oracle",
+    "name":"Oracle",
+    "alt":"Nerif",
+    "aliases":"ora",
+    "aliases_more": {
+      "ru":"оракл,оракул,нериф",
+      "egg":""
+    },
+    "released": [
+      [ 1416438734, 1202 ],
+      [ 1450221134, 1600, 1 ]
+    ]
+  },
+  "112": {
+    "tag":"winter_wyvern",
+    "name":"Winter Wyvern",
+    "alt":"Auroth",
+    "aliases":"ww",
+    "aliases_more": {
+      "ru":"винтер вайверн,аурос,виверна",
+      "egg":""
+    },
+    "released": [
+      [ 1423699200, 1302 ],
+      [ 1430349134, 1400, 1 ],
+      [ 1450221134, 1600, 0 ],
+      [ 1450569600, 1601, 1 ]
+    ]
+  },
+  "113": {
+    "tag":"arc_warden",
+    "name":"Arc Warden",
+    "alt":"Zet",
+    "aliases":"ancient,aw",
+    "aliases_more": {
+      "ru":"арк,варден,ворден,зет,самость",
+      "egg":"degaz"
+    },
+    "released": [
+      [ 1450221134, 1600 ],
+      [ 1481490000, 1900, 1 ]
+    ]
+  },
+  "114": {
+    "tag":"monkey_king",
+    "name":"Monkey King",
+    "alt":"Sun Wukong",
+    "aliases":"mk",
+    "aliases_more": {
+      "ru":"манки кинг,мк,сунь укун,царь,король,обезьяна",
+      "egg":""
+    },
+    "alticons":["alt"],
+    "released": [
+      [ 1481497934, 1900 ],
+      [ 1489533134, 2200, 1 ]
+    ]
+  },
+  "119": {
+    "tag":"dark_willow",
+    "name":"Dark Willow",
+    "alt":"Mireska",
+    "aliases":"sylph,fairy,dw",
+    "aliases_more": {
+      "ru":"дарк виллоу,вилка,миреска солнечная,фея",
+      "egg":"sparky"
+    },
+    "released": [
+      [ 1509405134, 2600 ],
+      [ 1519859534, 2900, 1 ]
+    ]
+  },
+  "120": {
+    "tag":"pangolier",
+    "name":"Pangolier",
+    "alt":"Donte",
+    "aliases":"armodillo,ar",
+    "aliases_more": {
+      "ru":"пангольер,донте панлин",
+      "egg":""
+    },
+    "released": [
+      [ 1509405134, 2600 ],
+      [ 1522278734, 3100, 1 ]
+    ]
+  },
+  "121": {
+    "tag":"grimstroke",
+    "name":"Grimstroke",
+    "alt":"Ascended One",
+    "aliases":"ashkavor,artist,brush,gs",
+    "aliases_more": {
+      "ru":"гримстроук",
+      "egg":""
+    },
+    "released": [
+      [ 1535065934, 3800 ],
+      [ 1542582734, 3900, 1 ]
+    ]
+  },
+  "123": {
+    "tag":"hoodwink",
+    "name":"Hoodwink",
+    "alt":"Sharpshooter",
+    "aliases":"squirrel,rat,mouse,mistwoods,hw",
+    "aliases_more": {
+      "ru":"худвинк,белка",
+      "egg":""
+    },
+    "released": [
+      [ 1608160334, 4700 ],
+      [ 1618787534, 4800, 1 ]
+    ]
+  },
+  "126": {
+    "tag":"void_spirit",
+    "name":"Void Spirit",
+    "alt":"Inai",
+    "aliases":"vs",
+    "aliases_more": {
+      "ru":"войд спирит,инай",
+      "egg":""
+    },
+    "released": [
+      [ 1574723534, 4200 ],
+      [ 1579993934, 4300, 1 ]
+    ]
+  },
+  "128": {
+    "tag":"snapfire",
+    "name":"Snapfire",
+    "alt":"Beatrix",
+    "aliases":"granny,snap,mortimer",
+    "aliases_more": {
+      "ru":"снэпфайр,снэпфаер,снэпка,бабка,мортимер,беатрикс",
+      "egg":""
+    },
+    "released": [
+      [ 1574723534, 4200 ],
+      [ 1579993934, 4300, 1 ]
+    ]
+  },
+  "129": {
+    "tag":"mars",
+    "name":"Mars",
+    "alt":"First Son of Heaven",
+    "aliases":"ares,god of war",
+    "aliases_more": {
+      "ru":"марс,арес",
+      "egg":""
+    },
+    "released": [
+      [ 1551599902, 4001 ],
+      [ 1558653134, 4100, 1 ]
+    ]
+  },
+  "131": {
+    "tag":"ringmaster",
+    "name":"Ringmaster",
+    "alt":"Great Cogliostro Kettle",
+    "aliases":"puppet master,clockwork marvel,marionetto,circus,osbert kettle,rm,cogliostro",
+    "aliases_more": {
+      "ru":"рингмастер,марионетто,колиостро кеттл",
+      "egg":""
+    },
+    "released": [
+      [ 1724375582, 5601 ],
+      [ 1739926742, 5700, 1 ]
+    ]
+  },
+  "135": {
+    "tag":"dawnbreaker",
+    "name":"Dawnbreaker",
+    "alt":"Valora",
+    "aliases":"battlemaiden,valkyrie,db",
+    "aliases_more": {
+      "ru":"донбрейкер,валора,дб",
+      "egg":""
+    },
+    "released": [
+      [ 1618787534, 4800 ],
+      [ 1631342680, 4902, 1 ]
+    ]
+  },
+  "136": {
     "tag":"marci",
     "name":"Marci",
     "alt":"Sidekick",
-    "aliases":"fighter,sidekick,bruiser",
+    "aliases":"fighter,bruiser",
+    "aliases_more": {
+      "ru":"марси",
+      "egg":""
+    },
     "released": [
       [ 1635449655, 4904 ],
       [ 1654733632, 5003, 1 ]
     ]
   },
-  "137":{
+  "137": {
     "tag":"primal_beast",
     "name":"Primal Beast",
     "alt":"Fenrir",
     "aliases":"pb",
+    "aliases_more": {
+      "ru":"праймал бист,динозавр",
+      "egg":""
+    },
     "released": [
       [ 1645655934, 5000 ],
       [ 1661299200, 5100, 1 ]
     ]
   },
-  "138":{
+  "138": {
     "tag":"muerta",
     "name":"Muerta",
     "alt":"Celeste",
-    "aliases":"revenant death mercy grace",
+    "aliases":"revenant,death,mercy,grace",
+    "aliases_more": {
+      "ru":"муэрта",
+      "egg":""
+    },
     "released": [
       [ 1678144259, 5104 ],
       [ 1682034723, 5200, 1 ]
     ]
   },
   "145": {
-    "tag": "kez",
-    "name": "Kez",
-    "alt": "Kazurai Warrior",
-    "aliases": "bird samurai kestrel",
+    "tag":"kez",
+    "name":"Kez",
+    "alt":"Kazurai Warrior",
+    "aliases":"bird samurai,kestrel",
+    "aliases_more": {
+      "ru":"кез,самурай,кестрель,казурай,попугай",
+      "egg":""
+    },
     "released": [
       [ 1731032762, 5603 ],
       [ 1759443811, 5704, 1 ]
     ]
   },
   "155": {
-    "tag": "largo",
-    "name": "Largo",
-    "alt": "Shamanic Bard Frog",
-    "aliases": "bard_frog",
+    "tag":"largo",
+    "name":"Largo",
+    "alt":"Shamanic Bard Frog",
+    "aliases":"bard_frog,bard,frog",
+    "aliases_more": {
+      "ru":"ларго,бард,лягушка,жаба,лягух",
+      "egg":"wednesday"
+    },
     "released": [
       [ 1765849398, 5900 ],
-      [ 1769041258, 5902, 1]
+      [ 1769041258, 5902, 1 ]
     ]
   }
 }
