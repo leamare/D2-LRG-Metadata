@@ -1246,7 +1246,7 @@
                 "special_bonus_unique_tidehunter_7"
             ]
         ],
-        "innate": "tidehunter_krill_eater",
+        "innate": "tidehunter_leviathans_catch",
         "facets": [
             "tidehunter_kraken_swell",
             "tidehunter_sizescale"
@@ -1751,7 +1751,7 @@
                 "special_bonus_unique_wraith_king_2"
             ],
             [
-                "special_bonus_hp_350",
+                "special_bonus_hp_300",
                 "special_bonus_unique_wraith_king_11"
             ],
             [
@@ -2845,7 +2845,7 @@
             ],
             [
                 "special_bonus_unique_spectre_3",
-                "special_bonus_hp_325"
+                "special_bonus_hp_300"
             ],
             [
                 "special_bonus_unique_spectre_5",
@@ -3002,7 +3002,8 @@
             "spirit_breaker_planar_pocket"
         ],
         "aghs": [
-            "spirit_breaker_greater_bash"
+            "spirit_breaker_greater_bash",
+            "spirit_breaker_nether_strike"
         ],
         "aghs_granted": [],
         "talents": [
@@ -3690,7 +3691,8 @@
         ],
         "ultimate": "rubick_spell_steal",
         "shard": [
-            "rubick_telekinesis"
+            "rubick_telekinesis",
+            "rubick_spell_steal"
         ],
         "shard_granted": [],
         "aghs": [
@@ -4025,10 +4027,10 @@
             ],
             [
                 "special_bonus_unique_slark_7",
-                "special_bonus_unique_slark_5"
+                "special_bonus_unique_slark_4"
             ],
             [
-                "special_bonus_unique_slark_4",
+                "special_bonus_unique_slark_5",
                 "special_bonus_unique_slark_3"
             ]
         ],

@@ -878,13 +878,7 @@
                 "icon": "overshadow",
                 "gradient": 0,
                 "spellicons": null,
-                "abilities": [
-                    {
-                        "name": "tidehunter_krill_eater",
-                        "slot": null,
-                        "autolevel": true
-                    }
-                ]
+                "abilities": null
             }
         ],
         "30": [
