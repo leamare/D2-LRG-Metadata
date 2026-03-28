@@ -518,7 +518,7 @@
     "tag":"warlock",
     "name":"Warlock",
     "alt":"Demnok Lannik",
-    "aliases":"wl",
+    "aliases":"wl,demon",
     "aliases_more": {
       "ru":"варлок,демнок лэнник",
       "egg":"",
@@ -546,7 +546,7 @@
     "tag":"queenofpain",
     "name":"Queen of Pain",
     "alt":"Akasha",
-    "aliases":"qop",
+    "aliases":"qop,demon",
     "aliases_more": {
       "ru":"квин оф,пэйн,пейн,квопа,акаша",
       "egg":"",
@@ -1584,7 +1584,7 @@
     "tag":"abyssal_underlord",
     "name":"Underlord",
     "alt":"Vrogros",
-    "aliases":"pitlord,Azgalor,ul",
+    "aliases":"pitlord,Azgalor,ul,demon",
     "aliases_more": {
       "ru":"андерлорд,питлорд,врогрош",
       "egg":"",
