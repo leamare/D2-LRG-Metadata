@@ -1577,7 +1577,7 @@
         "talents": [
             [
                 "special_bonus_unique_beastmaster_9",
-                "special_bonus_armor_5"
+                "special_bonus_armor_4"
             ],
             [
                 "special_bonus_unique_beastmaster_4",
@@ -2881,14 +2881,14 @@
         "talents": [
             [
                 "special_bonus_unique_doom_4",
-                "special_bonus_unique_doom_3"
-            ],
-            [
-                "special_bonus_attack_damage_66",
-                "special_bonus_unique_doom_6"
+                "special_bonus_magic_resistance_10"
             ],
             [
                 "special_bonus_unique_doom_1",
+                "special_bonus_unique_doom_6"
+            ],
+            [
+                "special_bonus_attack_damage_66",
                 "special_bonus_unique_doom_9"
             ],
             [
@@ -3096,11 +3096,11 @@
         "talents": [
             [
                 "special_bonus_unique_alchemist",
-                "special_bonus_unique_alchemist_5"
+                "special_bonus_unique_alchemist_weaponry_power"
             ],
             [
                 "special_bonus_unique_alchemist_7",
-                "special_bonus_unique_alchemist_weaponry_power"
+                "special_bonus_unique_alchemist_5"
             ],
             [
                 "special_bonus_unique_alchemist_2",
@@ -3154,7 +3154,7 @@
                 "special_bonus_unique_invoker_5"
             ],
             [
-                "special_bonus_unique_invoker_orb_levels",
+                "special_bonus_unique_invoker_forged_spirit_armor_reduction",
                 "special_bonus_unique_invoker_additional_chaos_meteors"
             ],
             [
@@ -3215,10 +3215,7 @@
                 "special_bonus_unique_silencer_3"
             ]
         ],
-        "innate": [
-            "silencer_brain_drain",
-            "silencer_oppressive_silence"
-        ],
+        "innate": "silencer_brain_drain",
         "facets": [
             "silencer_irrepressible",
             "silencer_reverberating_silence",
@@ -3386,7 +3383,7 @@
             ],
             [
                 "special_bonus_unique_shadow_demon_3",
-                "special_bonus_movement_speed_25"
+                "special_bonus_movement_speed_20"
             ],
             [
                 "special_bonus_unique_shadow_demon_9",
@@ -3525,11 +3522,11 @@
         ],
         "talents": [
             [
-                "special_bonus_unique_meepo_2",
+                "special_bonus_unique_meepo_3",
                 "special_bonus_strength_7"
             ],
             [
-                "special_bonus_unique_meepo_3",
+                "special_bonus_unique_meepo_2",
                 "special_bonus_evasion_15"
             ],
             [
@@ -4773,7 +4770,7 @@
         "talents": [
             [
                 "special_bonus_unique_techies_3",
-                "special_bonus_magic_resistance_20"
+                "special_bonus_magic_resistance_15"
             ],
             [
                 "special_bonus_unique_techies_tazer_duration",
@@ -4869,10 +4866,10 @@
             ],
             [
                 "special_bonus_unique_arc_warden_9",
-                "special_bonus_unique_arc_warden"
+                "special_bonus_unique_arc_warden_7"
             ],
             [
-                "special_bonus_unique_arc_warden_7",
+                "special_bonus_unique_arc_warden",
                 "special_bonus_unique_arc_warden_8"
             ]
         ],
@@ -5399,7 +5396,7 @@
         "talents": [
             [
                 "special_bonus_unique_primal_beast_trample_magic_resist",
-                "special_bonus_attack_damage_30"
+                "special_bonus_attack_damage_25"
             ],
             [
                 "special_bonus_unique_primal_beast_uproar_armor",
