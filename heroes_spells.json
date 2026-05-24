@@ -542,7 +542,7 @@
             ],
             [
                 "special_bonus_unique_puck_6",
-                "special_bonus_unique_puck"
+                "special_bonus_unique_puck_5"
             ],
             [
                 "special_bonus_unique_puck_coil_damage",
@@ -550,7 +550,7 @@
             ],
             [
                 "special_bonus_unique_puck_rift_radius",
-                "special_bonus_unique_puck_5"
+                "special_bonus_unique_puck"
             ]
         ],
         "innate": "puck_puckish",
@@ -792,12 +792,12 @@
         ],
         "talents": [
             [
-                "special_bonus_strength_8",
+                "special_bonus_unique_tiny_6",
                 "special_bonus_unique_tiny_4"
             ],
             [
                 "special_bonus_unique_tiny",
-                "special_bonus_unique_tiny_6"
+                "special_bonus_strength_10"
             ],
             [
                 "special_bonus_unique_tiny_5",
@@ -5589,10 +5589,10 @@
             ],
             [
                 "special_bonus_unique_largo_6",
-                "special_bonus_unique_largo_5"
+                "special_bonus_unique_largo_8"
             ],
             [
-                "special_bonus_unique_largo_8",
+                "special_bonus_unique_largo_5",
                 "special_bonus_unique_largo_7"
             ]
         ],
