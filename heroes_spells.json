@@ -4814,7 +4814,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_attack_damage_35",
+                "special_bonus_attack_damage_30",
                 "special_bonus_unique_winter_wyvern_5"
             ],
             [
@@ -5535,7 +5535,7 @@
         "talents": [
             [
                 "special_bonus_unique_kez_raptor_dance_radius",
-                "special_bonus_magic_resistance_12"
+                "special_bonus_unique_kez_switch_weapons_swap_bonus"
             ],
             [
                 "special_bonus_unique_kez_raptor_dance_strikes",

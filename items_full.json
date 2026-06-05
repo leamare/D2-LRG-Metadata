@@ -1262,7 +1262,7 @@
     "103": {
         "id": 103,
         "name": "item_recipe_dagon",
-        "cost": 1150,
+        "cost": 1100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1307,7 +1307,7 @@
     "104": {
         "id": 104,
         "name": "item_dagon",
-        "cost": 3050,
+        "cost": 3000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1316,7 +1316,7 @@
     "201": {
         "id": 201,
         "name": "item_dagon_2",
-        "cost": 4200,
+        "cost": 4100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1325,7 +1325,7 @@
     "202": {
         "id": 202,
         "name": "item_dagon_3",
-        "cost": 5350,
+        "cost": 5200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1334,7 +1334,7 @@
     "203": {
         "id": 203,
         "name": "item_dagon_4",
-        "cost": 6500,
+        "cost": 6300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1343,7 +1343,7 @@
     "204": {
         "id": 204,
         "name": "item_dagon_5",
-        "cost": 7650,
+        "cost": 7400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
