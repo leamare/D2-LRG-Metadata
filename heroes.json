@@ -24,7 +24,7 @@
       "egg":"",
       "en_ru_scr":"фчу"
     },
-    "alticons":["alt"],
+    "alticons":["alt", "carnival"],
     "released": [
       [ 1288558800, 0, 1 ]
     ]
@@ -147,6 +147,7 @@
       "egg":"",
       "en_ru_scr":"ьщкзрдштп"
     },
+    "alticons":["carnival"],
     "released": [
       [ 1288558800, 0, 1 ]
     ]
@@ -265,6 +266,7 @@
       "egg":"",
       "en_ru_scr":"ымут"
     },
+    "alticons":["carnival"],
     "released": [
       [ 1288558800, 0, 1 ]
     ]
@@ -293,6 +295,7 @@
       "egg":"",
       "en_ru_scr":"мутпуагд ызшкше"
     },
+    "alticons":["alt1", "alt2", "alt3"],
     "released": [
       [ 1288558800, 0, 1 ]
     ]
@@ -408,6 +411,7 @@
       "egg":"thd,тхд",
       "en_ru_scr":"ешвургтеук"
     },
+    "alticons":["carnival"],
     "released": [
       [ 1288558800, 0, 1 ]
     ]
@@ -436,6 +440,7 @@
       "egg":"",
       "en_ru_scr":"дшср"
     },
+    "alticons":["carnival"],
     "released": [
       [ 1288558800, 0, 1 ]
     ]
@@ -645,6 +650,7 @@
       "egg":"",
       "en_ru_scr":""
     },
+    "alticons":["carnival"],
     "released": [
       [ 1305838249, 0, 1 ]
     ]
@@ -772,6 +778,7 @@
       "egg":"",
       "en_ru_scr":"ды,дшауыеуфдук"
     },
+    "alticons":["carnival"],
     "released": [
       [ 1322772649, 200, 1 ],
       [ 1418766649, 1300, 0 ],
@@ -1451,6 +1458,7 @@
       "egg":"",
       "en_ru_scr":"икшыедуифсл,ии"
     },
+    "alticons":["carnival"],
     "released": [
       [ 1364422334, 701 ],
       [ 1366841534, 701, 1 ]
@@ -1481,6 +1489,7 @@
       "egg":"",
       "en_ru_scr":"ылнцкфер ьфпу"
     },
+    "alticons":["alt1", "alt2"],
     "released": [
       [ 1366323134, 701 ],
       [ 1366841534, 701, 1 ]
@@ -1526,7 +1535,7 @@
       "egg":"",
       "en_ru_scr":"дс"
     },
-    "alticons":["alt"],
+    "alticons":["alt", "carnival"],
     "released": [
       [ 1386799934, 900 ],
       [ 1411596734, 1200, 1 ]
@@ -1638,6 +1647,7 @@
       "egg":"",
       "en_ru_scr":"щкфсду"
     },
+    "alticons":["carnival"],
     "released": [
       [ 1416438734, 1202 ],
       [ 1450221134, 1600, 1 ]
