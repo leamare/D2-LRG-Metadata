@@ -963,6 +963,7 @@
     "tag":"spectre",
     "name":"Spectre",
     "alt":"Mercurial",
+    "alticons":["alt1", "alt2"],
     "aliases":"",
     "aliases_more": {
       "ru":"спектра,меркуриал",
@@ -1329,6 +1330,7 @@
     "tag":"wisp",
     "name":"Io",
     "alt":"Wisp",
+    "alticons":["alt"],
     "aliases":"fundamental",
     "aliases_more": {
       "ru":"ио,висп",

@@ -1133,8 +1133,7 @@
         ],
         "ultimate": "shadow_shaman_mass_serpent_ward",
         "shard": [
-            "shadow_shaman_urnaconda",
-            "shadow_shaman_mass_serpent_ward"
+            "shadow_shaman_urnaconda"
         ],
         "shard_granted": [
             "shadow_shaman_urnaconda"
@@ -5214,7 +5213,7 @@
                 "special_bonus_unique_snapfire_7"
             ],
             [
-                "special_bonus_unique_snapfire_3",
+                "special_bonus_cast_range_125",
                 "special_bonus_unique_snapfire_2"
             ],
             [

@@ -1550,7 +1550,7 @@
     "118": {
         "id": 118,
         "name": "item_recipe_shivas_guard",
-        "cost": 1350,
+        "cost": 1250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2261,7 +2261,7 @@
     "1565": {
         "id": 1565,
         "name": "item_recipe_gungir",
-        "cost": 400,
+        "cost": 300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -5330,7 +5330,7 @@
     "1872": {
         "id": 1872,
         "name": "item_chasm_stone",
-        "cost": 800,
+        "cost": 900,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
