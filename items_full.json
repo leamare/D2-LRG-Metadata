@@ -1253,7 +1253,7 @@
     "263": {
         "id": 263,
         "name": "item_hurricane_pike",
-        "cost": 4450,
+        "cost": 4550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1505,7 +1505,7 @@
     "113": {
         "id": 113,
         "name": "item_recipe_heart",
-        "cost": 700,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1514,7 +1514,7 @@
     "114": {
         "id": 114,
         "name": "item_heart",
-        "cost": 5200,
+        "cost": 5300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -1919,7 +1919,7 @@
     "140": {
         "id": 140,
         "name": "item_recipe_greater_crit",
-        "cost": 900,
+        "cost": 1000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -1928,7 +1928,7 @@
     "141": {
         "id": 141,
         "name": "item_greater_crit",
-        "cost": 5100,
+        "cost": 5200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2009,7 +2009,7 @@
     "234": {
         "id": 234,
         "name": "item_recipe_dragon_lance",
-        "cost": 450,
+        "cost": 550,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2018,7 +2018,7 @@
     "236": {
         "id": 236,
         "name": "item_dragon_lance",
-        "cost": 1900,
+        "cost": 2000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2423,7 +2423,7 @@
     "228": {
         "id": 228,
         "name": "item_recipe_octarine_core",
-        "cost": 200,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2432,7 +2432,7 @@
     "235": {
         "id": 235,
         "name": "item_octarine_core",
-        "cost": 4900,
+        "cost": 5100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -2675,7 +2675,7 @@
     "209": {
         "id": 209,
         "name": "item_recipe_heavens_halberd",
-        "cost": 450,
+        "cost": 350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,
@@ -2684,7 +2684,7 @@
     "210": {
         "id": 210,
         "name": "item_heavens_halberd",
-        "cost": 3400,
+        "cost": 3300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
@@ -5195,7 +5195,7 @@
     "1857": {
         "id": 1857,
         "name": "item_recipe_hydras_breath",
-        "cost": 1100,
+        "cost": 1000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1,

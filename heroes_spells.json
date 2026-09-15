@@ -2270,7 +2270,7 @@
         "aghs_granted": [],
         "talents": [
             [
-                "special_bonus_movement_speed_20",
+                "special_bonus_movement_speed_15",
                 "special_bonus_all_stats_4"
             ],
             [
@@ -2631,11 +2631,11 @@
             ],
             [
                 "special_bonus_unique_bounty_hunter",
-                "special_bonus_unique_bounty_hunter_8"
+                "special_bonus_unique_bounty_hunter_2"
             ],
             [
                 "special_bonus_unique_bounty_hunter_jinada_no_cooldown",
-                "special_bonus_unique_bounty_hunter_2"
+                "special_bonus_unique_bounty_hunter_8"
             ]
         ],
         "innate": "bounty_hunter_big_game_hunter",
@@ -4597,11 +4597,11 @@
                 "special_bonus_unique_earth_spirit_rolling_boulder_stun"
             ],
             [
-                "special_bonus_unique_earth_spirit",
+                "special_bonus_unique_earth_spirit_5",
                 "special_bonus_unique_earth_spirit_8"
             ],
             [
-                "special_bonus_unique_earth_spirit_5",
+                "special_bonus_unique_earth_spirit",
                 "special_bonus_unique_earth_spirit_2"
             ]
         ],
@@ -4894,7 +4894,6 @@
         ],
         "shard_granted": [],
         "aghs": [
-            "abyssal_underlord_pit_of_malice",
             "abyssal_underlord_dark_portal"
         ],
         "aghs_granted": [],
