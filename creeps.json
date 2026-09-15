@@ -8,7 +8,13 @@
       "creep_goodguys_flag",
       "creep_goodguys_melee",
       "creep_goodguys_melee_upgraded",
-      "creep_goodguys_melee_upgraded_mega"
+      "creep_goodguys_melee_upgraded_mega",
+      "creep_badguys_flagbearer",
+      "creep_goodguys_flagbearer",
+      "creep_badguys_flagbearer_upgraded",
+      "creep_goodguys_flagbearer_upgraded",
+      "creep_badguys_flagbearer_upgraded_mega",
+      "creep_goodguys_flagbearer_upgraded_mega"
     ],
     "ranged": [
       "creep_badguys_ranged",
