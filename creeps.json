@@ -49,8 +49,6 @@
     ],
     "medium": [
       "neutral_alpha_wolf",
-      "neutral_centaur_khan",
-      "neutral_centaur_outrunner",
       "neutral_giant_wolf",
       "neutral_mud_golem",
       "neutral_ogre_mauler",
@@ -58,7 +56,10 @@
       "neutral_satyr_trickster",
       "neutral_satyr_soulstealer",
       "neutral_froglet",
-      "neutral_froglet_mage"
+      "neutral_froglet_mage",
+      "neutral_radigull",
+      "neutral_odobenus_footman",
+      "neutral_odobenus_frostmage"
     ],
     "big": [
       "neutral_dark_troll_warlord",
@@ -70,7 +71,11 @@
       "neutral_satyr_hellcaller",
       "neutral_warpine_raider",
       "neutral_grown_frog",
-      "neutral_grown_frog_mage"
+      "neutral_grown_frog_mage",
+      "neutral_centaur_outrunner",
+      "neutral_centaur_khan",
+      "neutral_eimermole",
+      "neutral_eimermole_foreman"
     ],
     "ancients": [
       "neutral_black_drake",
@@ -86,7 +91,9 @@
       "neutral_ice_shaman",
       "neutral_frostbitten_golem",
       "neutral_ancient_frog",
-      "neutral_ancient_frog_mage"
+      "neutral_ancient_frog_mage",
+      "neutral_ogre_seal",
+      "neutral_ogre_seal_pup"
     ]
   },
   "summons": [
@@ -146,5 +153,199 @@
     "warlock_golem_scepter_1",
     "warlock_golem_scepter_2",
     "warlock_golem_scepter_3"
-  ]
+  ],
+  "camps": {
+    "small": [
+      {
+        "name": "kobolds",
+        "creeps": [
+          "neutral_kobold",
+          "neutral_kobold_tunneler",
+          "neutral_kobold_taskmaster"
+        ]
+      },
+      {
+        "name": "trolls_kobold",
+        "creeps": [
+          "neutral_kobold_taskmaster",
+          "neutral_forest_troll_berserker"
+        ]
+      },
+      {
+        "name": "troll_priest",
+        "creeps": [
+          "neutral_forest_troll_berserker",
+          "neutral_forest_troll_high_priest"
+        ]
+      },
+      {
+        "name": "gnolls",
+        "creeps": [
+          "neutral_gnoll_assassin"
+        ]
+      },
+      {
+        "name": "ghosts",
+        "creeps": [
+          "neutral_fel_beast",
+          "neutral_ghost"
+        ]
+      },
+      {
+        "name": "harpies",
+        "creeps": [
+          "neutral_harpy_scout",
+          "neutral_harpy_storm"
+        ]
+      },
+      {
+        "name": "tadpoles",
+        "creeps": [
+          "neutral_tadpole"
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "name": "ogres",
+        "creeps": [
+          "neutral_ogre_mauler",
+          "neutral_ogre_magi"
+        ]
+      },
+      {
+        "name": "wolves",
+        "creeps": [
+          "neutral_giant_wolf",
+          "neutral_alpha_wolf"
+        ]
+      },
+      {
+        "name": "radigulls",
+        "creeps": [
+          "neutral_radigull"
+        ]
+      },
+      {
+        "name": "satyrs",
+        "creeps": [
+          "neutral_satyr_soulstealer",
+          "neutral_satyr_trickster"
+        ]
+      },
+      {
+        "name": "mud_golems",
+        "creeps": [
+          "neutral_mud_golem"
+        ]
+      },
+      {
+        "name": "odobenus",
+        "creeps": [
+          "neutral_odobenus_footman",
+          "neutral_odobenus_frostmage"
+        ]
+      },
+      {
+        "name": "froglets",
+        "creeps": [
+          "neutral_froglet",
+          "neutral_froglet_mage"
+        ]
+      }
+    ],
+    "big": [
+      {
+        "name": "centaurs",
+        "creeps": [
+          "neutral_centaur_outrunner",
+          "neutral_centaur_khan"
+        ]
+      },
+      {
+        "name": "eimermoles",
+        "creeps": [
+          "neutral_eimermole",
+          "neutral_eimermole_foreman"
+        ]
+      },
+      {
+        "name": "wildkin",
+        "creeps": [
+          "neutral_wildkin",
+          "neutral_enraged_wildkin"
+        ]
+      },
+      {
+        "name": "ursa",
+        "creeps": [
+          "neutral_polar_furbolg_champion",
+          "neutral_polar_furbolg_ursa_warrior"
+        ]
+      },
+      {
+        "name": "satyrs",
+        "creeps": [
+          "neutral_satyr_hellcaller"
+        ]
+      },
+      {
+        "name": "troll_warlord",
+        "creeps": [
+          "neutral_dark_troll",
+          "neutral_dark_troll_warlord"
+        ]
+      },
+      {
+        "name": "grown_frog",
+        "creeps": [
+          "neutral_grown_frog",
+          "neutral_grown_frog_mage"
+        ]
+      }
+    ],
+    "ancients": [
+      {
+        "name": "rock_golems",
+        "creeps": [
+          "neutral_rock_golem"
+        ]
+      },
+      {
+        "name": "ogre_seals",
+        "creeps": [
+          "neutral_ogre_seal",
+          "neutral_ogre_seal_pup"
+        ]
+      },
+      {
+        "name": "frostbitten_golems",
+        "creeps": [
+          "neutral_ice_shaman",
+          "neutral_frostbitten_golem"
+        ]
+      },
+      {
+        "name": "drakes",
+        "creeps": [
+          "neutral_black_drake",
+          "neutral_black_dragon"
+        ]
+      },
+      {
+        "name": "prowlers",
+        "creeps": [
+          "neutral_prowler_acolyte",
+          "neutral_prowler_shaman"
+        ]
+      },
+      {
+        "name": "ancient_frogs",
+        "creeps": [
+          "neutral_ancient_frog",
+          "neutral_ancient_frog_mage"
+        ]
+      }
+    ]
+  }
 }

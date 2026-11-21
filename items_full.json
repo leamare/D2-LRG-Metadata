@@ -3057,7 +3057,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Mind Breaker"
+        "localized_name": "Mind Breaker",
+        "neutral_tier": 4
     },
     "310": {
         "id": 310,
@@ -3102,7 +3103,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Imp Claw"
+        "localized_name": "Imp Claw",
+        "neutral_tier": 2
     },
     "335": {
         "id": 335,
@@ -3111,7 +3113,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Flicker"
+        "localized_name": "Flicker",
+        "neutral_tier": 4
     },
     "336": {
         "id": 336,
@@ -3327,7 +3330,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Book of the Dead"
+        "localized_name": "Book of the Dead",
+        "neutral_tier": 4
     },
     "317": {
         "id": 317,
@@ -3345,7 +3349,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Fallen Sky"
+        "localized_name": "Fallen Sky",
+        "neutral_tier": 4
     },
     "372": {
         "id": 372,
@@ -3399,7 +3404,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Minotaur Horn"
+        "localized_name": "Minotaur Horn",
+        "neutral_tier": 4
     },
     "378": {
         "id": 378,
@@ -3444,7 +3450,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Chipped Vest"
+        "localized_name": "Chipped Vest",
+        "neutral_tier": 1
     },
     "566": {
         "id": 566,
@@ -3516,7 +3523,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Possessed Mask"
+        "localized_name": "Possessed Mask",
+        "neutral_tier": 1
     },
     "578": {
         "id": 578,
@@ -3579,7 +3587,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Psychic Headband"
+        "localized_name": "Psychic Headband",
+        "neutral_tier": 2
     },
     "676": {
         "id": 676,
@@ -3588,7 +3597,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Ceremonial Robe"
+        "localized_name": "Ceremonial Robe",
+        "neutral_tier": 3
     },
     "686": {
         "id": 686,
@@ -3615,7 +3625,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Giant's Ring"
+        "localized_name": "Giant's Ring",
+        "neutral_tier": 4
     },
     "585": {
         "id": 585,
@@ -3624,7 +3635,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Stormcrafter"
+        "localized_name": "Stormcrafter",
+        "neutral_tier": 3
     },
     "588": {
         "id": 588,
@@ -3750,7 +3762,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Witchbane"
+        "localized_name": "Witchbane",
+        "neutral_tier": 4
     },
     "838": {
         "id": 838,
@@ -3777,7 +3790,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Tumbler's Toy"
+        "localized_name": "Tumbler's Toy",
+        "neutral_tier": 1
     },
     "835": {
         "id": 835,
@@ -3822,7 +3836,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Revenant's Brooch"
+        "localized_name": "Revenant's Brooch",
+        "neutral_tier": 3
     },
     "930": {
         "id": 930,
@@ -3849,7 +3864,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Seeds of Serenity"
+        "localized_name": "Seeds of Serenity",
+        "neutral_tier": 1
     },
     "946": {
         "id": 946,
@@ -3921,7 +3937,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Defiant Shell"
+        "localized_name": "Defiant Shell",
+        "neutral_tier": 2
     },
     "968": {
         "id": 968,
@@ -4344,7 +4361,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Dandelion Amulet"
+        "localized_name": "Dandelion Amulet",
+        "neutral_tier": 3
     },
     "2191": {
         "id": 2191,
@@ -4470,7 +4488,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Safety Bubble"
+        "localized_name": "Safety Bubble",
+        "neutral_tier": 2
     },
     "1158": {
         "id": 1158,
@@ -4524,7 +4543,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Rattlecage"
+        "localized_name": "Rattlecage",
+        "neutral_tier": 3
     },
     "1803": {
         "id": 1803,
@@ -4785,7 +4805,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Mana Draught"
+        "localized_name": "Mana Draught",
+        "neutral_tier": 2
     },
     "1600": {
         "id": 1600,
@@ -4803,7 +4824,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Crippling Crossbow"
+        "localized_name": "Crippling Crossbow",
+        "neutral_tier": 2
     },
     "1602": {
         "id": 1602,
@@ -4821,7 +4843,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Gunpowder Gauntlet"
+        "localized_name": "Gunpowder Gauntlet",
+        "neutral_tier": 2
     },
     "1604": {
         "id": 1604,
@@ -4839,7 +4862,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Serrated Shiv"
+        "localized_name": "Serrated Shiv",
+        "neutral_tier": 3
     },
     "1606": {
         "id": 1606,
@@ -4848,7 +4872,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Pollywog Charm"
+        "localized_name": "Pollywog Charm",
+        "neutral_tier": 1
     },
     "1607": {
         "id": 1607,
@@ -4902,7 +4927,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Kobold Cup"
+        "localized_name": "Kobold Cup",
+        "neutral_tier": 1
     },
     "1638": {
         "id": 1638,
@@ -4911,7 +4937,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Dormant Curio"
+        "localized_name": "Dormant Curio",
+        "neutral_tier": 1
     },
     "1639": {
         "id": 1639,
@@ -4929,7 +4956,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Jidi Pollen Bag"
+        "localized_name": "Jidi Pollen Bag",
+        "neutral_tier": 2
     },
     "1641": {
         "id": 1641,
@@ -4947,7 +4975,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Dezun Bloodrite"
+        "localized_name": "Dezun Bloodrite",
+        "neutral_tier": 4
     },
     "1643": {
         "id": 1643,
@@ -4965,7 +4994,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Divine Regalia"
+        "localized_name": "Divine Regalia",
+        "neutral_tier": 4
     },
     "1645": {
         "id": 1645,
@@ -5055,7 +5085,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Weighted Dice"
+        "localized_name": "Weighted Dice",
+        "neutral_tier": 1
     },
     "1717": {
         "id": 1717,
@@ -5064,7 +5095,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Ash Legion Shield"
+        "localized_name": "Ash Legion Shield",
+        "neutral_tier": 1
     },
     "1718": {
         "id": 1718,
@@ -5073,7 +5105,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Riftshadow Prism"
+        "localized_name": "Riftshadow Prism",
+        "neutral_tier": 4
     },
     "1719": {
         "id": 1719,
@@ -5082,7 +5115,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Metamorphic Mandible"
+        "localized_name": "Metamorphic Mandible",
+        "neutral_tier": 2
     },
     "1720": {
         "id": 1720,
@@ -5091,7 +5125,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Idol of Scree'Auk"
+        "localized_name": "Idol of Scree'Auk",
+        "neutral_tier": 3
     },
     "1721": {
         "id": 1721,
@@ -5217,7 +5252,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Spellslinger"
+        "localized_name": "Spellslinger",
+        "neutral_tier": 2
     },
     "1860": {
         "id": 1860,
@@ -5226,7 +5262,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Prophet's Pendulum"
+        "localized_name": "Prophet's Pendulum",
+        "neutral_tier": 3
     },
     "1861": {
         "id": 1861,
@@ -5235,7 +5272,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Stonefeather Satchel"
+        "localized_name": "Stonefeather Satchel",
+        "neutral_tier": 1
     },
     "1862": {
         "id": 1862,
@@ -5244,7 +5282,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Enchanter's Bauble"
+        "localized_name": "Enchanter's Bauble",
+        "neutral_tier": 3
     },
     "1863": {
         "id": 1863,
@@ -5253,7 +5292,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Harmonizer"
+        "localized_name": "Harmonizer",
+        "neutral_tier": 3
     },
     "1864": {
         "id": 1864,
@@ -5262,7 +5302,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Conjurer's Catalyst"
+        "localized_name": "Conjurer's Catalyst",
+        "neutral_tier": 4
     },
     "1865": {
         "id": 1865,
@@ -5298,7 +5339,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Forager's Kit"
+        "localized_name": "Forager's Kit",
+        "neutral_tier": 1
     },
     "1869": {
         "id": 1869,
@@ -5343,7 +5385,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Partisan's Brand"
+        "localized_name": "Partisan's Brand",
+        "neutral_tier": 2
     },
     "1874": {
         "id": 1874,
@@ -5487,7 +5530,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Helm of the Hivemind"
+        "localized_name": "Helm of the Hivemind",
+        "neutral_tier": 4
     },
     "1884": {
         "id": 1884,
@@ -5505,7 +5549,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Brick"
+        "localized_name": "Brick",
+        "neutral_tier": 2
     },
     "1917": {
         "id": 1917,
@@ -5514,7 +5559,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Balmhook"
+        "localized_name": "Balmhook",
+        "neutral_tier": 3
     },
     "1880": {
         "id": 1880,
@@ -5523,7 +5569,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Red Ledger"
+        "localized_name": "Red Ledger",
+        "neutral_tier": 1
     },
     "1881": {
         "id": 1881,
@@ -5541,7 +5588,8 @@
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0,
-        "localized_name": "Vile Phial"
+        "localized_name": "Vile Phial",
+        "neutral_tier": 3
     },
     "1883": {
         "id": 1883,
